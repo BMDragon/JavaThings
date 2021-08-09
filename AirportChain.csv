@@ -1,0 +1,3822 @@
+Code,Location,Parent,Children
+AAA,French Polynesia,PPT,N/A
+AAD,Somalia,MGQ,N/A
+AAE,Algeria,ALG,N/A
+AAL,Denmark,CPH,N/A
+AAN,International Airport (AAN) is a smaller airport in United Arab Emirates,KWI,N/A
+AAP,Samarinda Indonesia,SUB,N/A
+AAQ,Anapa Russian Federation,DME,N/A
+AAR,Denmark,CPH,N/A
+AAT,China,URC,[KJI]
+AAX,Brazil,UBA,N/A
+ABA,Russian Federation,SVO,N/A
+ABB,Nigeria,LOS,N/A
+ABD,Iran,THR,N/A
+ABE,Allentown United States,ORD,N/A
+ABI,United States,DFW,N/A
+ABJ,Cote d'Ivoire,ACC,[BYK; COO; HGO; KEO; LFW; SPY]
+ABK,Kebri Dahar Ethiopia,JIJ,N/A
+ABL,United States,OTZ,[OBU]
+ABM,Australia,CNS,N/A
+ABQ,Kirtland United States,PHX,[CNM; SVC]
+ABR,United States,MSP,N/A
+ABS,Egypt,ASW,N/A
+ABT,Al-Baha Saudi Arabia,RUH,N/A
+ABU,Atambua Indonesia,KOE,N/A
+ABV,Nigeria,LOS,[BCU; CBQ; GMO; ILR; KAN; LOS; MIU; SKO; YOL]
+ABX,Australia,SYD,N/A
+ABY,Albany United States,ATL,N/A
+ABZ,Aberdeen United Kingdom,LHR,[EBJ; KOI; LSI; NCL; WIC]
+ACA,Acapulco Mexico,MEX,N/A
+ACC,Accra,KMS,[ABJ; KMS; ROB; TKD; TML]
+ACE,Spain,LPA,N/A
+ACH,(ACH) is the fifth largest airport in Switzerland,VIE,N/A
+ACI,St Anne United Kingdom,GCI,N/A
+ACK,United States,BOS,[EWB; HYA; TEB]
+ACT,United States,DFW,N/A
+ACU,Panama,PAC,[PYC]
+ACV,United States,SFO,N/A
+ACX,China,KWE,N/A
+ACY,United States,FLL,N/A
+ACZ,Iran,THR,N/A
+ADA,Turkey,SAW,N/A
+ADB,Izmir,SAW,[IST; SAW]
+ADD,Addis Ababa,MQX,[AMH; ASM; AWA; AXU; BCO; BJR; DEM; DIR; DSE; GDQ; GGR; GMB; GOB; HGA; JIB; JIJ; JIM; LLI; MQX; SHC; SZE]
+ADE,Yemen,JIB,N/A
+ADF,Turkey,IST,N/A
+ADH,Russian Federation,GYG,[GYG]
+ADK,United States,ANC,N/A
+ADL,Australia,MEL,[BHQ; CED; KGC; MGB; MOO; OLP; PLO; PUG; WYA]
+ADQ,United States,ANC,[AKK; KLN; KOZ; OLH; ORI]
+ADU,Iran,THR,N/A
+ADZ,San Andrés Colombia,BOG,N/A
+AEB,Baise China,NNG,N/A
+AEG,South Tapanuli Regency Indonesia,KNO,N/A
+AEH,Chad,FYT,N/A
+AEM,Russian Federation,NEI,N/A
+AEP,Buenos Aires,COR,[AFA; BHI; BRC; CNQ; COR; CPC; CRD; CTC; EQS; FMA; FTE; IGR; IRJ; JUJ; LUQ; MDQ; MDZ; MVD; NQN; PDP; PRA; PSS; RCU; REL; RES; RGA; RGL; RHD; ROS; RSA; SDE; SFN; SLA; TUC; UAQ; USH; VDM]
+AER,Russian Federation,SVO,N/A
+AES,Alesund Norway,OSL,N/A
+AET,United States,FAI,[BTT]
+AEU,Iran,BND,N/A
+AEX,United States,ATL,N/A
+AEY,Iceland,RKV,[GRY; RKV; THO]
+AFA,Argentina,AEP,N/A
+AFL,Brazil,CGB,N/A
+AFZ,Iran,THR,N/A
+AGA,Agadir,CMN,N/A
+AGF,Agen France,ORY,N/A
+AGH,Sweden,BMA,[RKE; SCR]
+AGM,Angmagssalik Greenland,KUS,[IOQ; KUS; KUZ; SGG; TQI]
+AGN,United States,TKE,N/A
+AGP,Spain,LGW,[EIN; MLN]
+AGR,India,JAI,N/A
+AGS,United States,ATL,N/A
+AGT,Paraguay,ASU,N/A
+AGU,Aguascalientes Mexico,MEX,N/A
+AGX,India,COK,N/A
+AHB,Saudi Arabia,RUH,N/A
+AHE,French Polynesia,XMH,N/A
+AHJ,China,LXA,N/A
+AHO,Italy,FCO,N/A
+AHU,Al Hoceima Morocco,TTU,[TTU]
+AIA,United States,DEN,N/A
+AIC,Marshall Islands,KWA,N/A
+AIM,Marshall Islands,MJB,[MJB]
+AIN,United States,BRW,N/A
+AIP,India,DEL,N/A
+AIR,Brazil,JIA,N/A
+AIT,Cook Islands,RAR,[RAR]
+AJA,Ajaccio France,ORY,N/A
+AJF,Al Jawf Province Saudi Arabia,RUH,N/A
+AJI,Turkey,IST,N/A
+AJK,Iran,MHD,N/A
+AJL,Aizwal India,CCU,N/A
+AJN,Anjouan,HAH,[DZA; HAH]
+AJR,Sweden,ARN,[GEV]
+AJU,Aracaju Brazil,GRU,N/A
+AJY,Agadez,ZND,N/A
+AKF,Al Kufrah,BEN,N/A
+AKI,United States,TLT,[KKI]
+AKJ,Japan,HND,N/A
+AKK,United States,ADQ,N/A
+AKL,New Zealand,WLG,[APW; CHC; GIS; IUE; KKE; NPE; NPL; PMR; PPQ; ROT; TRG; WAG; WHK; WLG; WRE; ZQN]
+AKN,United States,DLG,N/A
+AKP,United States,FAI,N/A
+AKR,Nigeria,LOS,N/A
+AKS,Solomon Islands,HIR,N/A
+AKU,China,URC,N/A
+AKV,Canada,YIK,[YIK]
+AKX,Kazakhstan,TSE,N/A
+AKY,Myanmar,RGN,[KYP; VBA]
+ALA,Alma-Ata,TSE,[BXH; KGF; KOV; NQZ; PLX; PPK; TSE; UZR]
+ALB,United States,ORD,N/A
+ALC,Spain,LGW,[LGG; MST; OST; PIK]
+ALF,Norway,TOS,N/A
+ALG,Algier,CDG,[AAE; AZR; BLJ; BSK; CBH; CZL; DJG; ELU; GHA; GJL; HME; IAM; INZ; LOO; OGX; ORN; TEE; TGR; TIN; TMR; TMX]
+ALH,Australia,PER,N/A
+ALO,United States,ORD,N/A
+ALS,Alamosa United States,DEN,N/A
+ALW,United States,SEA,N/A
+AMA,United States,DFW,N/A
+AMD,India,DEL,[ISK; IXY; JSA; PBD]
+AMH,Arba Minch Ethiopia,ADD,N/A
+AMM,Amman,CAI,[AQJ]
+AMQ,Ambon Indonesia,UPG,[JIO; LUV; NAM; NRE; SQN; SXK]
+AMS,Amsterdam,LHR,[BLL; BRS; BSL; CWL; HUY; LCY; LPI; LTN; MAN; MME; NWI; PBM; SXB]
+ANA,Maasai Mara Kenya,WIL,[OSJ]
+ANC,United States,SEA,[ADK; ADQ; BET; CDB; CDV; DLG; DUT; ENA; FAI; HOM; ILI; MCG; SNP; VDZ]
+ANF,Antofagasta,SCL,N/A
+ANI,United States,KLG,[HCR; KLG; SHX; SRV]
+ANR,Antwerp,LCY,N/A
+ANU,St,MNI,[MNI]
+ANV,United States,HCR,[KGX]
+ANX,Norway,BOO,N/A
+AOE,Eskisehir Turkey,OST,N/A
+AOG,China,PVG,N/A
+AOI,Ancona Italy,MUC,N/A
+AOJ,Japan,HND,N/A
+AOK,Greece,ATH,[KSJ]
+AOO,United States,PIT,N/A
+AOQ,Greenland,JUV,N/A
+AOR,Alor Setar Malaysia,SZB,N/A
+AOS,United States,KZB,N/A
+APK,French Polynesia,PPT,N/A
+APL,Mozambique,MPM,[VXC]
+APN,United States,DTW,N/A
+APO,Colombia,EOH,N/A
+APW,Samoa,AKL,N/A
+APX,Brazil,CWB,N/A
+AQA,Brazil,VCP,N/A
+AQG,China,KWL,N/A
+AQI,Saudi Arabia,RUH,N/A
+AQJ,Jordan,AMM,N/A
+AQP,Arequipa,LIM,N/A
+ARC,United States,VEE,[VEE]
+ARD,Indonesia,KOE,N/A
+ARH,Arkhangelsk Russian Federation,SVO,[KSZ; NNM]
+ARI,Arica Chile,SCL,N/A
+ARK,Tanzania United Republic of,LKY,[SEU]
+ARM,Australia,SYD,N/A
+ARN,Stockholm,HEL,[AJR; EVG; HEL; JKG; KRN; KSD; LLA; LYC; MHQ; OSD; SFT; TKU; TLL; UME]
+ART,United States,PHL,N/A
+ARU,Brazil,VCP,N/A
+ARX,United States,REC,N/A
+ASB,Ashkhabad,CRZ,[BKN; CRZ; KRW; MYP; TAZ]
+ASE,County Sardy Field (ASE) is a smaller airport in United States,DEN,N/A
+ASF,Russian Federation,SVO,N/A
+ASJ,Japan,KOJ,[KKX; RNJ]
+ASM,Eritrea,ADD,N/A
+ASO,Ethiopia,GMB,N/A
+ASP,s (ASP) is a smaller airport in Australia,DRW,[TCA]
+ASR,Kayseri Turkey,SAW,N/A
+ASS,Chitwa Chitwa South Africa,MQP,[LDZ]
+ASU,Asuncion,EZE,[AGT]
+ASV,Kenya,WIL,N/A
+ASW,Egypt,CAI,[ABS]
+ATD,Solomon Islands,MHM,[MHM]
+ATH,Athens,JTR,[AOK; AXD; CFU; CHQ; EFL; HER; IOA; JIK; JKH; JKL; JMK; JNX; JSH; JSI; JSY; JTR; JTY; KGS; KIT; KSO; KVA; LCA; LRS; LXS; MJT; MLO; PAS; RHO; SKG; SKU; SMI; ZTH]
+ATK,United States,BRW,[BRW]
+ATL,United States,LGA,[ABY; AEX; AGS; BHM; BQK; BWI; CHA; CLT; CSG; DAB; DHN; ECP; EYW; FLL; GNV; GPT; GSP; GTR; HPN; HSV; IAD; JAN; JAX; MCO; MEM; MGM; MIA; MLB; MLU; MOB; MSL; MSY; PNS; RDU; RIC; RSW; SAV; SRQ; TLH; TPA; TRI; VLD; VPS]
+ATM,Brazil,BEL,[ITB]
+ATQ,India,DEL,N/A
+ATT,United States,BET,[NUP]
+ATW,United States,ORD,N/A
+ATY,United States,ORD,N/A
+ATZ,Egypt,KWI,N/A
+AUA,Oranjestad,CUR,[LSP]
+AUC,Arauca Colombia,BOG,N/A
+AUG,United States,BOS,N/A
+AUH,United Arab Emirates,BAH,[ZDY]
+AUK,United States,SXP,[EMK]
+AUQ,French Polynesia,NHV,[NHV]
+AUR,France,ORY,N/A
+AUS,United States,DFW,[TSM]
+AUU,Australia,CNS,[IRG]
+AUX,Brazil,BSB,N/A
+AUY,Vanuatu,TAH,N/A
+AVA,China,NKG,N/A
+AVL,United States,CLT,[PIE; SFB]
+AVP,United States,CLT,N/A
+AVV,Australia,SYD,N/A
+AWA,Ethiopia,ADD,N/A
+AWD,Vanuatu,FTA,N/A
+AWZ,Iran,THR,N/A
+AXA,The Valley,SXM,N/A
+AXD,Alexandroupolis Greece,ATH,N/A
+AXF,China,HET,[EJN; RHT]
+AXJ,Japan,FUK,N/A
+AXM,Armenia Colombia,BOG,N/A
+AXP, (AXP) is a smaller airport in Bahamas,NAS,N/A
+AXR,French Polynesia,KKR,N/A
+AXT,Japan,HND,N/A
+AXU,Ethiopia,ADD,N/A
+AYP,Ayacucho Peru,LIM,N/A
+AYQ,Uluru Australia,SYD,N/A
+AYT,Turkey,SAW,N/A
+AYX,Tullahoma United States,LIM,N/A
+AZA,United States,PVU,[OGD; PVU; RFD; STC]
+AZD,Iran,THR,N/A
+AZO,United States,ORD,N/A
+AZR,Adrar Algeria,ALG,[BMW]
+AZS,Samana Dominican Republic,YUL,N/A
+BAH,Muharraq,DXB,[AUH]
+BAL,Turkey,IST,N/A
+BAQ,Barranquilla Colombia,BOG,N/A
+BAR,China,CKG,N/A
+BAS,Solomon Islands,GZO,N/A
+BAT,Brazil,CGH,N/A
+BAV,China,PEK,N/A
+BAX,Russian Federation,DME,N/A
+BAY,Baia Mare Romania,OTP,N/A
+BAZ,Brazil,MAO,N/A
+BBA,Chile,SCL,N/A
+BBI,Bhubaneswar India,DEL,[JRG]
+BBK,Botswana,JNB,N/A
+BBL,Australia,MOO,N/A
+BBN,Malaysia,MYY,N/A
+BCD,Philippines,MNL,N/A
+BCI,Australia,LRE,N/A
+BCM,Romania,LTN,N/A
+BCN,Spain,MAD,[CDG; GRX; LEN; LGW; MAD; PMI; RGS; SVQ; VLL]
+BCO,Baco Ethiopia,ADD,N/A
+BCU,Nigeria,ABV,N/A
+BCV,Belmopan Belize,CYD,[CYD]
+BDA,Bermuda,JFK,N/A
+BDB,Australia,BNE,N/A
+BDD,Australia,KUG,[UBB]
+BDH,Iran,SYZ,N/A
+BDJ,Banjarmasin Indonesia,CGK,[KBU]
+BDL,Windsor Locks United States,MCO,N/A
+BDO,Bandung Indonesia,SUB,N/A
+BDP,Nepal,KTM,N/A
+BDQ,Baroda India,DEL,N/A
+BDS,Brindisi Italy,FCO,N/A
+BDU,Norway,OSL,N/A
+BEB,Balivanich Scotland,GLA,N/A
+BEF,Nicaragua,MGA,[RNI]
+BEG,Beograd,TGD,[BNX; TGD; TIV]
+BEJ,Kalimarau Indonesia,BPN,N/A
+BEL,Belem Brazil,GRU,[ATM; BVS; MCP; STM]
+BEM,Morocco,CMN,N/A
+BEN,Benghazi,HBE,[AKF; SEB; ZIS]
+BER,Germany,DME,N/A
+BES,Brest France,ORY,[DOL]
+BET,United States,ANC,[ATT; KPN; KWK; PKA; PQS; PTU; RSH; SCM; TLT; TNK; WTL; WWT]
+BEU,Australia,BQL,[BQL; BVI]
+BEW,Mozambique,MPM,N/A
+BEY,Lebanon,DXB,N/A
+BFD,United States,PIT,N/A
+BFF,Scottsbluff United States,DEN,N/A
+BFI,Seattle United States,FRD,[ESD; FRD]
+BFJ,China,KWE,N/A
+BFL,Bakersfield United States,PHX,N/A
+BFM,United States,DEN,N/A
+BFN,South Africa,JNB,N/A
+BFQ,s (BFQ) is a smaller airport in Panama,JQE,N/A
+BFS,Belfast United Kingdom,LGW,[LPL]
+BFV,Buriram Thailand,DMK,N/A
+BFX,Cameroon,DLA,N/A
+BGA,Bucaramanga Colombia,BOG,[RVE]
+BGC,Portugal,VRL,[VRL]
+BGF,Central African Republic,DLA,N/A
+BGG,Turkey,IST,N/A
+BGI,Bridgetown,SVD,[DOM; OGL; SLU; SVD]
+BGM,hamton Edwin A Link Fld (BGM) is a smaller airport in United States,DTW,N/A
+BGN,Germany,YKS,N/A
+BGO,Norway,OSL,[FRO; KRS; KSU; NTB; TRF]
+BGR,United States,PHL,N/A
+BGW,Iraq,IST,[BSR; ISU]
+BGX,Bage Brazil,POA,N/A
+BGY,Italy,STN,[CRV; PSR; VIT]
+BHB,United States,BOS,N/A
+BHD,Belfast United Kingdom,LHR,N/A
+BHE,New Zealand,WLG,N/A
+BHH,Saudi Arabia,RUH,N/A
+BHI,Bahia Blanca Argentina,AEP,N/A
+BHJ,India,BOM,N/A
+BHK,Uzbekistan,VKO,N/A
+BHM,United States,ATL,N/A
+BHO,India,DEL,N/A
+BHQ,Australia,ADL,N/A
+BHR,Nepal,KTM,N/A
+BHS,Australia,SYD,N/A
+BHU,Bhaunagar India,BOM,N/A
+BHV,Pakistan,KHI,N/A
+BHX,United Kingdom,DUB,N/A
+BHY,China,XIY,N/A
+BIA,Bastia France,ORY,N/A
+BIK,Biak Indonesia,DJJ,N/A
+BIL,United States,SDY,[GDV; GGW; HVR; OLF; SDY]
+BIM,Alice Town Bahamas,FLL,N/A
+BIN,Afghanistan,KBL,N/A
+BIO,Spain,MAD,N/A
+BIQ,France,ORY,N/A
+BIR,Nepal,KTM,N/A
+BIS,United States,MSP,N/A
+BJA,Bejaia,ORY,N/A
+BJB,Iran,THR,N/A
+BJF,Norway,MEH,[VAW]
+BJI,United States,MSP,N/A
+BJL,Gambia,DSS,N/A
+BJM,Burundi,NBO,N/A
+BJR,Bahar Dar,ADD,N/A
+BJV,Turkey,SAW,N/A
+BJW,Indonesia,KOE,N/A
+BJX,Mexico,MEX,N/A
+BJZ,Badajoz Spain,MAD,N/A
+BKB,Bikaner India,DEL,N/A
+BKC,United States,DRG,N/A
+BKI,balu International (BKI) is the third largest airport in Malaysia,KUL,[KUD; LDU; SDK; TWU]
+BKK,Thailand,HKT,[HKT; PNH; TDX; THS; USM; VTE]
+BKL,Cleveland United States,LUK,[LUK]
+BKM,Malaysia,LWY,N/A
+BKN,Turkmenistan,ASB,N/A
+BKO,Mali,DSS,N/A
+BKQ,Australia,LRE,N/A
+BKS,Bengkulu Indonesia,CGK,N/A
+BKW,Beckley United States,CLT,[PKB]
+BKY,Congo,FMI,N/A
+BKZ,Tanzania United Republic of,MWZ,N/A
+BLA,Barcelona Venezuela,CCS,N/A
+BLB,Balboa,BOG,N/A
+BLD,United States,PGA,[GCW]
+BLI,United States,SEA,N/A
+BLJ,Algeria,ALG,N/A
+BLL,Denmark,AMS,N/A
+BLQ,Italy,MAD,[KUT; LMP]
+BLR,India,DEL,[COK; GBI; HBX; IXE; IXG; TRV; VDY]
+BLV,Belleville United States,VPS,N/A
+BLZ,Blantyre,LLW,[LLW]
+BMA,Stockholm,MMX,[AGH; GOT; HAD; KID; KLR; MMX; OER; RNB; SDL; THN; VBY; VXO]
+BME,Australia,PER,[FIZ]
+BMI,Bloomington United States,ORD,N/A
+BMO,Myanmar,MDL,N/A
+BMU,Bima Indonesia,LOP,N/A
+BMV,Buon Ma Thuot Vietnam,SGN,N/A
+BMW,Algeria,AZR,N/A
+BNA,United States,ORD,[OWB; TUP]
+BNC,The Democratic Republic of The Congo,GOM,[BUX]
+BND,Iran,THR,[AEU]
+BNE,Australia,SYD,[BDB; CCL; CNS; CTL; EMD; GLT; HVB; ISA; IVR; LRE; MKY; MOV; NTL; PPP; RMA; ROK; TSV; WLE; ZBL]
+BNI,Nigeria,LOS,N/A
+BNK,Australia,SYD,N/A
+BNN,Bronnoysund Norway,TRD,N/A
+BNS,Venezuela,CCS,N/A
+BNX,Bosnia and Herzegovina,BEG,N/A
+BNY,tions with 1 airline in scheduled passenger traffic,HIR,N/A
+BOB,Motu Mute,PPT,[PPT]
+BOC,Panama,PAC,[PAC]
+BOD,Bordeaux France,ORY,[LIL; LYS]
+BOG,Bogota,MDE,[ADZ; AUC; AXM; BAQ; BGA; BLB; BUN; CLO; CTG; CUC; EJA; EYP; FLA; IBE; IPI; LET; LMC; MDE; MTR; MVP; MZL; NVA; PCR; PDA; PEI; PPN; PSO; PTX; PTY; PUU; RCH; SJE; SMR; SVI; TME; VGZ; VUP; VVC]
+BOH,United Kingdom,DUB,N/A
+BOI,l (BOI) is a mid-sized airport in United States,SEA,N/A
+BOJ,Bourgas,DME,N/A
+BOM,Bombay,DEL,[BHJ; BHU; DEL; DIU; GOI; JGA; KNU; NAG; RAJ]
+BON,Kralendijk,CUR,[CUR]
+BOO,Norway,OSL,[ANX; LKN; SKN; SSJ; SVJ; VRY]
+BOS,Boston United States,DCA,[ACK; AUG; BHB; DCA; LEB; MSS; MVY; PHL; PVC; RKD; RUT; SLK]
+BOY,Burkina Faso,OUA,N/A
+BPC,Cameroon,DLA,N/A
+BPE,China,SJW,N/A
+BPG,Brazil,GYN,N/A
+BPL,China,URC,N/A
+BPN,Balikpapan Indonesia,CGK,[BEJ; GHS; KJT; TJS; TRK]
+BPS,Brazil,GRU,N/A
+BPT,Beaumont United States,DFW,N/A
+BPX,China,CTU,N/A
+BQB,Australia,MEL,N/A
+BQG,Russian Federation,KHV,N/A
+BQJ,Russian Federation,YKS,N/A
+BQK,United States,ATL,N/A
+BQL,Australia,BEU,[BEU]
+BQN,Aguadilla,MCO,N/A
+BQS,Ignatyevo Russia,DME,N/A
+BRA,Brazil,SSA,N/A
+BRC,Argentina,AEP,N/A
+BRD,United States,MSP,N/A
+BRE,Germany,MUC,N/A
+BRI,Bari Italy,FCO,N/A
+BRK,Australia,DBO,N/A
+BRL,Burlington United States,ORD,N/A
+BRM,Venezuela,CCS,N/A
+BRO,United States,IAH,N/A
+BRQ,Czech Republic,STN,N/A
+BRR,Scotland,GLA,N/A
+BRS,United Kingdom,AMS,N/A
+BRU,Belgium,MAD,N/A
+BRW,Barrow United States,ATK,[AIN; ATK; PIZ]
+BSA,Somalia,MGQ,N/A
+BSB,Brasilia,SDU,[AUX; BVB; MAB; RBR; THE; VCP]
+BSC,Bahia Solano Colombia,EOH,N/A
+BSD,China,KMG,N/A
+BSG,Equatorial Guinea,SSG,[SSG]
+BSI,Polilio Philippines,MNL,N/A
+BSK,Algeria,ALG,N/A
+BSL,Switzerland,AMS,[INI; OHD]
+BSO,Philippines,CRK,N/A
+BSR,Iraq,BGW,N/A
+BST,Afghanistan,KBL,N/A
+BTC,Sri Lanka,HRI,N/A
+BTH,Batam Indonesia,CGK,[LMU; NTX; SIQ]
+BTI,United States,SCC,N/A
+BTJ,Banda Aceh Indonesia,CGK,N/A
+BTK,Russian Federation,DME,N/A
+BTM,Butte United States,SLC,N/A
+BTR,United States,IAH,N/A
+BTS,Bratislava,STN,N/A
+BTT,United States,AET,N/A
+BTU,Malaysia,KCH,N/A
+BTV,United States,JFK,N/A
+BTW,Indonesia,UPG,N/A
+BUA,Papua New Guinea,RAB,[KIE]
+BUC,Australia,DMD,N/A
+BUD,Budapest,FRA,[TGM]
+BUF,United States,JFK,N/A
+BUN,Buenaventura Colombia,BOG,N/A
+BUP,India,DEL,N/A
+BUQ,Bulawayo,JNB,N/A
+BUR,United States,OAK,[CCR; OAK]
+BUS,Georgia,IST,N/A
+BUT,Jakar,PBH,N/A
+BUU,Indonesia,CGK,[KRC]
+BUW,Indonesia,UPG,N/A
+BUX,Congo,BNC,N/A
+BUZ,Iran,THR,N/A
+BVA,Beauvais France,OPO,[BZR]
+BVB,Brazil,BSB,N/A
+BVC,Sal Rei,SID,N/A
+BVE,Brive France,ORY,N/A
+BVG,Norway,HFT,N/A
+BVH,Brazil,CGB,N/A
+BVI,Australia,BEU,[WNR]
+BVS,Brazil,BEL,[PTQ]
+BWA,Bhairawa,KTM,N/A
+BWB,Australia,PER,N/A
+BWI,ton International (BWI) is a large airport in United States,ATL,[MCN]
+BWN,Brunei,KUL,N/A
+BWT,Burnie Australia,MEL,N/A
+BWX,Banyuwangi Indonesia,CGK,N/A
+BXB,Indonesia,SOQ,N/A
+BXG,Australia,SYD,N/A
+BXH,Kazakhstan,ALA,N/A
+BXR,Iran,THR,N/A
+BXU,Philippines,MNL,N/A
+BYK,Cote d'Ivoire,ABJ,N/A
+BYN,Mongolia,ULN,N/A
+BYO,Brazil,VCP,[CMG]
+BYP,Australia,PER,N/A
+BZE,Belize City,SPR,[DGA; PLJ; PND; SPR]
+BZG,Poland,WAW,N/A
+BZK,Russian Federation,LED,N/A
+BZL,Bangladesh,DAC,N/A
+BZN,Bozeman United States,SEA,N/A
+BZR,Beziers France,BVA,N/A
+BZV,Congo,PNR,[PNR]
+BZX,China,KMG,N/A
+CAB,Angola,LAD,N/A
+CAC,Brazil,CWB,N/A
+CAE,United States,CLT,N/A
+CAF,Brazil,MAO,N/A
+CAG,Cagliari Italy,FCO,[CUF; PMF]
+CAH,Vietnam,SGN,N/A
+CAI,Egypt,JED,[AMM; ASW; HRG; LXR; RKT; RMF; SSH; YNB]
+CAK,United States,ORD,N/A
+CAL,United Kingdom,GLA,N/A
+CAN,Guangzhou,SHA,[CGD; CZX; HAK; HGH; HYN; MXZ; NGB; NKG; NNY; NTG; WNZ; YIW]
+CAP,Cap Haitien,PAP,N/A
+CAT,Tires Portugal,PRM,[PRM; VSE]
+CAW,Campos Brazil,GIG,[MEA]
+CAX,United Kingdom,DUB,N/A
+CAY,Cayenne,ORY,N/A
+CAZ,Australia,SYD,N/A
+CBB,Cochabamba,VVI,[ORU; TJA]
+CBG,United Kingdom,GOT,N/A
+CBH,Algeria,ALG,N/A
+CBI,Australia,LST,N/A
+CBL,Venezuela,CCS,N/A
+CBO,Philippines,MNL,N/A
+CBQ,Nigeria,ABV,N/A
+CBR,Australia,SYD,N/A
+CBT,Angola,LAD,N/A
+CBW,Brazil,CWB,N/A
+CCC,Cayo Coco,YYZ,N/A
+CCF,Carcassonne France,CRL,N/A
+CCJ,India,DXB,N/A
+CCK,Cocos (Keeling) Islands,XCH,N/A
+CCL,Australia,BNE,N/A
+CCN,Afghanistan,KBL,N/A
+CCP,Concepcion,SCL,N/A
+CCR,Concord United States,BUR,N/A
+CCS,Caracas,PMV,[BLA; BNS; BRM; CBL; CUM; LFR; LRV; MAR; MUN; PMV; PYH; PZO; STD; VIG]
+CCU,Calcutta,DEL,[AJL; DIB; DMU; GAU; IXA; IXI; IXS; JRH; PBH; SHL]
+CCV,Vanuatu,VLI,[ULB]
+CDB,United States,ANC,[SDP]
+CDC,United States,SLC,N/A
+CDE,Chengde China,SJW,N/A
+CDG,Paris,BCN,[ALG; CFE; FLR; LRT; OTP; RBA; RNS; VCE]
+CDP,India,HYD,N/A
+CDR,United States,DEN,N/A
+CDT,Benlloch Spain and Canary Islands,LTN,N/A
+CDV,Cordova United States,ANC,[YAK]
+CEB,Philippines,MNL,[CGM; IAO; MNL; OZC; SUG]
+CEC,Crescent City United States,OAK,N/A
+CED,Ceduna Australia,ADL,N/A
+CEE,Russian Federation,SVO,N/A
+CEI,Thailand,DMK,N/A
+CEK,Chelyabinsk Russian Federation,SVO,N/A
+CEN,Mexico,MEX,[CUA]
+CEZ,United States,DEN,N/A
+CFB,Brazil,CNF,N/A
+CFE,France,CDG,N/A
+CFK,Chlef Algeria,MRS,N/A
+CFN,Ireland,DUB,N/A
+CFR,Caen France,LYS,N/A
+CFS,Coffs Harbour Australia,SYD,N/A
+CFU,Greece,ATH,[GPA]
+CGA,United States,KLW,N/A
+CGB,Cuiaba Brazil,GRU,[AFL; BVH; JIA; JPR; OAL; OPS; SMT; TGQ]
+CGD,China,CAN,N/A
+CGH,Sao Paulo,SDU,[BAT; CLV; CNF; CXJ; DOU; FRC; IOS; JJG; LDB; MII; NVT; SDU; SJP; UDI]
+CGI,United States,ORD,N/A
+CGK,Jakarta,DPS,[BDJ; BKS; BPN; BTH; BTJ; BUU; BWX; DJB; DPS; DTB; JOG; KNO; LLJ; MDC; MLG; PDG; PGK; PKU; PKY; PLM; PNK; SOC; SRG; SRI; SUB; TJQ; TKG; TNJ; UPG; YIA]
+CGM,Mambajao Philippines,CEB,N/A
+CGN,Cologne Germany,TXL,N/A
+CGO,Zhengzhou China,KMG,[UCB; WGN]
+CGP,Chittagong,DAC,[DAC]
+CGQ,China,PVG,N/A
+CGR,Brazil,GRU,N/A
+CGY,Laguindingan Philippines,MNL,N/A
+CHA,Chattanooga United States,ATL,N/A
+CHC,New Zealand,AKL,[DUD; HKK; IVC]
+CHG,China,DLC,[YSQ]
+CHH,Peru,LIM,N/A
+CHO,United States,CLT,N/A
+CHQ,Chania Greece,ATH,N/A
+CHS,United States,CLT,N/A
+CHT,Waitangi New Zealand,WLG,N/A
+CHU,United States,CKD,N/A
+CHX,Changuinola Panama,PAC,N/A
+CHY,Solomon Islands,GZO,N/A
+CIA,Rome Italy,STN,[HHN]
+CID,United States,ORD,N/A
+CIF,China,HET,[HET]
+CIH,China,TYN,N/A
+CIJ,Cobija Bolivia,LPB,N/A
+CIK,United States,FYU,N/A
+CIT,Chimkent,TSE,N/A
+CIU,Sault Ste,MSP,N/A
+CIX,Chiclayo Peru,LIM,N/A
+CIY,Italy,MXP,N/A
+CIZ,Brazil,MAO,N/A
+CJA,Cajamarca Peru,LIM,N/A
+CJB,India,MAA,N/A
+CJC,Calama,SCL,[SCL]
+CJF,Australia,PER,N/A
+CJJ,Chongju South Korea,CJU,N/A
+CJL,Pakistan,ISB,N/A
+CJM,Thailand,DMK,N/A
+CJS,Ciudad Juarez Mexico,MEX,N/A
+CJU,Cheju,GMP,[CJJ; GMP; KPO; KUV; KWJ; MWX; TAE; WJU; YNY]
+CKB,Clarksburg United States,ORD,N/A
+CKD,United States,RDV,[CHU]
+CKG,Chongqing China,PEK,[BAR; JIQ; YTY]
+CKH,Russian Federation,YKS,N/A
+CKO,United States,TEC,[TEC]
+CKS,Brazil,CNF,N/A
+CKX,United States,TKJ,N/A
+CKY,Guinea,DSS,N/A
+CKZ,Turkey,ESB,N/A
+CLD,Carlsbad United States,TSM,N/A
+CLE, International (CLE) is a large airport in United States,ORD,N/A
+CLJ,Cluj-Napoca,OTP,N/A
+CLL,College Station United States,DFW,N/A
+CLO,Cali,BOG,[GPI; TCO]
+CLP, (CLP) is a smaller airport in United States,DLG,N/A
+CLQ,Mexico,MEX,N/A
+CLT,United States,ATL,[AVL; AVP; BKW; CAE; CHO; CHS; CRW; EWN; FAY; FLO; GSO; HHH; HTS; ILM; LYH; MYR; OAJ; ORF; PGV; PHF; ROA; SBY; TYS]
+CLV,Brazil,CGH,N/A
+CLY,Calvi France,MRS,N/A
+CMA,Australia,XTG,[SGO; XTG]
+CMB,Colombo,MAA,[DWO; HRI]
+CME,Mexico,MEX,N/A
+CMF,Chambery France,STN,N/A
+CMG,Brazil,BYO,N/A
+CMH,United States,ORD,N/A
+CMI,United States,ORD,N/A
+CMK, You can fly to 2 destinations with 1 airline in scheduled passenger traffic,LLW,[VUU]
+CMN,Casablanca,ORY,[AGA; BEM; ERH; ESU; EUN; NDR; OZG; OZZ; RAK; TTA; UAR; VIL]
+CMW,Camaguey Cuba,PAP,N/A
+CMX,Hancock United States,ORD,N/A
+CNC,Australia,SYU,N/A
+CND,Constanta Romania,IST,N/A
+CNF,Belo Horizonte Brazil,CGH,[CFB; CKS; GVR; IPN; MOC; TXF; UBA; VAG; VAL]
+CNJ,Australia,TSV,N/A
+CNM,Carlsbad United States,ABQ,N/A
+CNN,India,TRV,N/A
+CNP,Ittoqqortoormiit Greenland,OBY,[OBY]
+CNQ,Argentina,AEP,N/A
+CNS,Australia,BNE,[ABM; AUU; CTN; EDR; HID; KWM; NTN; WEI]
+CNX,Thailand,DMK,[DMK; HGN; UTP]
+CNY,Moab United States,DEN,N/A
+COD,Cody United States,DEN,N/A
+COK,Kochi India,BLR,[AGX]
+COL,United Kingdom,OBN,[OBN]
+COO,Benin,ABJ,[PKO]
+COQ,Mongolia,ULN,N/A
+COR,Cordoba,AEP,[AEP]
+COS,s Muni (COS) is a mid-sized airport in United States,DEN,N/A
+COU,United States,ORD,N/A
+CPC,De Los Andes (CPC) is a smaller airport in Argentina,AEP,N/A
+CPD,Australia,PUG,N/A
+CPE,Campeche Mexico,MEX,N/A
+CPH,Copenhagen,OSL,[AAL; AAR; FAE; KEF; KRP; RNN; SGD]
+CPO,Copiapo Chile,SCL,N/A
+CPR,Casper United States,DEN,N/A
+CPT,South Africa,JNB,[HLA; JNB; WVB]
+CPV,Campina Grande Brazil,REC,N/A
+CPX,Culebra,SJU,[NRR; SIG]
+CQD,Iran,THR,N/A
+CRA,Romania,LTN,N/A
+CRD,Argentina,AEP,N/A
+CRI,Bahamas,NAS,N/A
+CRK,Angeles City,ICN,[BSO; CRM; CYP; EUQ]
+CRL,Belgium,OTP,[CCF; FNI]
+CRM,Philippines,CRK,N/A
+CRP,United States,DFW,N/A
+CRV,Italy,BGY,N/A
+CRW,Charleston United States,CLT,N/A
+CRZ,Turkmenistan,ASB,[ASB; KQT]
+CSA,United Kingdom,ILY,N/A
+CSG,United States,ATL,N/A
+CSK, Airport (CSK) is the third largest airport in Senegal,DSS,N/A
+CSX,China,PEK,[DYG; HZH; SWA; WUZ]
+CSY,Russian Federation,VKO,N/A
+CTA,Italy,FCO,[MXP]
+CTC,Argentina,AEP,N/A
+CTD,Panama,PAC,N/A
+CTG,Cartagena,BOG,N/A
+CTL,Australia,BNE,[ULP]
+CTM,Mexico,MEX,N/A
+CTN,Australia,CNS,N/A
+CTS,Chitose,HND,[MMB; NGO; SHB; WKJ]
+CTU,Chengdu,PEK,[BPX; DCY; DLU; JZH; KGT; LXA; LZY; PZI; TNA; XIC]
+CUA,Mexico,CEN,N/A
+CUC,Cucuta Colombia,BOG,[TIB]
+CUE,Cuenca,UIO,N/A
+CUF,Italy,CAG,N/A
+CUK,Belize,SPR,N/A
+CUL,Mexico,MEX,N/A
+CUM,Cumana Venezuela,CCS,N/A
+CUN,Mexico,MEX,[CZM]
+CUQ,Australia,IRG,N/A
+CUR,Willemstad,BON,[AUA; BON]
+CUU,Chihuahua Mexico,MEX,N/A
+CUZ,Cuzco,LIM,[LIM; PIO]
+CVG,United States,ORD,[PGD]
+CVM,Mexico,MEX,N/A
+CVN,United States,DFW,N/A
+CVQ,Australia,PER,[MJK]
+CVU,Portugal,HOR,N/A
+CWA,/Wausau (CWA) is a smaller airport in United States,ORD,N/A
+CWB,Curitiba Brazil,GRU,[APX; CAC; CBW; LAJ; MGF; PNG; PTO; PVI; TOW]
+CWC,Ukraine,KBP,N/A
+CWJ,China,KMG,N/A
+CWL,United Kingdom,AMS,[VLY]
+CXB,Cox's Bazar,DAC,N/A
+CXH,Canada,YWH,[YWH; ZNA]
+CXI,Kiribati,HNL,N/A
+CXJ,Caxias Do Sul Brazil,CGH,N/A
+CXR,Nha Trang,SGN,N/A
+CYB,Cayman Islands,GCM,N/A
+CYD,Belize,BCV,[BCV]
+CYF,United States,KPN,N/A
+CYI,Taiwan,MZG,N/A
+CYO,Cuba,HAV,N/A
+CYP,Calbayog City Philippines,CRK,N/A
+CYS,United States,DFW,N/A
+CYU,Philippines,PPS,N/A
+CYX,Russian Federation,YKS,N/A
+CYZ,Philippines,MNL,N/A
+CZH,Corozal Belize,SPR,N/A
+CZL,Constantine,ALG,N/A
+CZM,Mexico,CUN,N/A
+CZN,United States,ORT,N/A
+CZS,Brazil,RBR,N/A
+CZU,Corozal Colombia,EOH,N/A
+CZX,China,CAN,N/A
+DAB,United States,ATL,N/A
+DAC,Dhaka,CGP,[BZL; CGP; CXB; JSR; RJH; SPD; ZYL]
+DAD,Vietnam,SGN,N/A
+DAL,United States,HOU,[HOU]
+DAM,Syrian Arab Republic,NJF,[KAC]
+DAR,Tanzania United Republic of,ZNZ,[DOD; IRI; JRO; MBI; MFA; MWZ; MYW; TBO; TKQ; ZNZ]
+DAT,China,TYN,N/A
+DAU,Papua New Guinea,POM,N/A
+DAV,David,PAC,N/A
+DAX,Dazhou China,SZX,N/A
+DAY,United States,ORD,N/A
+DBA,Pakistan,KHI,N/A
+DBC,China,TSN,N/A
+DBO,Australia,SYD,[BRK]
+DBQ,United States,ORD,N/A
+DBV,Croatia,ZAG,N/A
+DCA,ton National (DCA) is a large airport in United States,BOS,[BOS; PVD]
+DCF,Roseau,PTP,N/A
+DCM,Castres France,ORY,N/A
+DCY, Airport (DCY) is a smaller airport in China,CTU,N/A
+DDC,United States,DEN,N/A
+DDD,Kudahuvadhoo Maldives,MLE,N/A
+DDG,China,PEK,N/A
+DEA,Pakistan,KHI,N/A
+DEB,Hungary,LTN,N/A
+DEC,United States,ORD,N/A
+DED,Dehra Dun India,DEL,[PGH]
+DEE,United States,UUS,N/A
+DEF,Iran,THR,N/A
+DEL,Delhi,BOM,[AIP; AMD; ATQ; BBI; BDQ; BHO; BKB; BLR; BOM; BUP; CCU; DED; DHM; GOP; HYD; IDR; IXB; IXC; IXD; IXL; IXP; IXR; IXU; JAI; JDH; JLR; KQH; KUU; LKO; LUH; MAA; PAT; PNQ; RPR; SLV; STV; SXR; UDR; VNS]
+DEM,Ethiopia,ADD,N/A
+DEN,United States,LAX,[AIA; ALS; ASE; BFF; BFM; CDR; CEZ; CNY; COD; COS; CPR; DDC; DIK; DRO; EAR; EGE; GCC; GJT; GUC; HDN; HYS; IDA; JAC; LAR; LBF; LBL; MCK; MTJ; PHX; PIR; PRC; PUB; RAP; RIW; RKS; SAF; SLC; TEX; VEL; XWA]
+DEX,Yahukimo Indonesia,DJJ,N/A
+DFW,United States,LAX,[ABI; ACT; AMA; AUS; BPT; CLL; CRP; CVN; CYS; DRT; ELD; ELP; FSM; GCK; GGG; GLH; GRI; GRK; HOT; HRO; IAH; JLN; LAW; LBB; LIT; LRD; MAF; MFE; MHK; OKC; PIB; ROW; SAT; SHV; SJT; SPS; SWO; TUL; TUS; TXK; TYR; VCT]
+DGA,Belize,BZE,N/A
+DGE,Australia,SYD,N/A
+DGO,Mexico,MEX,N/A
+DGT,Philippines,MNL,N/A
+DHG,Russian Federation,VVO,N/A
+DHI,Nepal,KTM,N/A
+DHM,Dharamsala India,DEL,N/A
+DHN,United States,ATL,N/A
+DIB,India,CCU,N/A
+DIE,Antsirahana,TNR,N/A
+DIG,China,KMG,N/A
+DIK,United States,DEN,N/A
+DIL,East Timor,DPS,N/A
+DIN,Vietnam,HAN,N/A
+DIR,Dire Dawa,ADD,N/A
+DIU,India,BOM,N/A
+DIW,Dikwella Sri Lanka,KDW,[KCT]
+DIY,Turkey,SAW,N/A
+DJB,Jambi Indonesia,CGK,N/A
+DJE,Djerba,TUN,[NBE]
+DJG,Djanet Algeria,ALG,[VVZ]
+DJJ,Jayapura Indonesia,WMX,[BIK; DEX; MKQ; NBX; OKL; TIM; TMH; WMX; ZRI]
+DJN,United States,FAI,N/A
+DKS,Russian Federation,NSK,N/A
+DLA,Cameroon,NSI,[BFX; BGF; BPC; NDJ; NGE; NSI]
+DLC,Dalian China,PVG,[CHG; DOY; LYG; MDG; NDG; RIZ; TNH; TXN]
+DLE,Dole France,OPO,N/A
+DLG,United States,ANC,[AKN; CLP; KEK; KGK; KMO; KNW]
+DLH,United States,MSP,N/A
+DLI,Da Lat Vietnam,SGN,N/A
+DLM,Turkey,SAW,N/A
+DLR,Russian Federation,VVO,N/A
+DLU,China,CTU,N/A
+DLY,Dillon's Bay Vanuatu,IPA,N/A
+DMB,Dzhambul Kazakhstan,TSE,N/A
+DMD,Australia,ISA,[BUC]
+DME,Moscow,LED,[AAQ; BAX; BER; BOJ; BQS; BTK; GBB; HTA; KSQ; LPK; NOZ; NSK; NUX; NVI; NYM; OVB; PEZ; RGK; TJU; TOF; UUA; UUD; VOZ]
+DMK,Bangkok,CNX,[BFV; CEI; CJM; CNX; HDY; KBV; KKC; KOP; LOE; LPT; MAQ; NAW; NNT; NST; PHS; PRH; ROI; SNO; TST; UBP; UNN; URT; UTH]
+DMM,Dammam,JED,N/A
+DMU,India,CCU,N/A
+DND,United Kingdom,STN,N/A
+DNH,China,LHW,N/A
+DNK,Dnepropetrovsk Ukraine,KBP,N/A
+DNR,Dinard France,STN,N/A
+DNZ,Denizli Turkey,IST,N/A
+DOB,Indonesia,LUV,N/A
+DOD,Tanzania United Republic of,DAR,N/A
+DOH,Qatar,KWI,N/A
+DOL,Deauville France,BES,N/A
+DOM,Dominica,BGI,N/A
+DOU,Brazil,CGH,N/A
+DOY,China,DLC,N/A
+DPL,Philippines,MNL,N/A
+DPO,Australia,MEL,N/A
+DPS,Denpasar,CGK,[CGK; DIL; LBJ; LOP; TMC; TQQ]
+DPT,Russian Federation,YKS,N/A
+DQA,China,PEK,N/A
+DQM,Oman,MCT,N/A
+DRG,United States,OTZ,[BKC]
+DRK,Costa Rica,SJO,N/A
+DRO,United States,DEN,N/A
+DRS,Germany,MUC,N/A
+DRT,United States,DFW,N/A
+DRV,Dharavandhoo Island,MLE,[IFU; MLE]
+DRW,Australia,SYD,[ASP; GOV; GTE; KNX; KTR; MCV; MNG]
+DSA,United Kingdom,KTW,N/A
+DSE,Dessie Ethiopia,ADD,N/A
+DSI,United States,TPA,N/A
+DSM,s International (DSM) is a bigger airport in United States,ORD,N/A
+DSN,China,PKX,N/A
+DSS,Dakar,ZIG,[BJL; BKO; CKY; CSK; KDA; NKC; OXB; ZIG]
+DTB,Siborong-Borong Indonesia,CGK,N/A
+DTM,Germany,KTW,[KTW; SZY; TZL]
+DTU,Wudalianchi China,HRB,N/A
+DTW,United States,ORD,[APN; BGM; ELM; ERI; ESC; MBS; MQT; PLN]
+DUB,Ireland,LHR,[BHX; BOH; CAX; CFN; GLA; KIR; LBA; STN]
+DUD,New Zealand,CHC,N/A
+DUE,Angola,LAD,N/A
+DUJ,Du Bois United States,PIT,N/A
+DUM,Dumai Indonesia,PKU,N/A
+DUR,South Africa,JNB,N/A
+DUS,Germany,MUC,[GWT; HDF]
+DUT,United States,ANC,N/A
+DVL,United States,JMS,[JMS]
+DVO,Davao,MNL,N/A
+DWC,United Arab Emirates,SVO,N/A
+DWD,Saudi Arabia,RUH,N/A
+DWO,Colombo,CMB,[KDW]
+DXB,United Arab Emirates,KWI,[BAH; BEY; CCJ; KBL; KWI; MCT; MUX; PEW; SKT]
+DYG,China,CSX,[HNY]
+DYR,Anadyr Russian Federation,VKO,N/A
+DYU,Tajikistan,VKO,N/A
+DZA,Comoros,AJN,[MJN]
+DZN,Kazakhstan,TSE,N/A
+EAE,Siwo Vanuatu,VLI,N/A
+EAM,Saudi Arabia,RUH,N/A
+EAR,United States,DEN,N/A
+EAS,Spain,MAD,N/A
+EAT,Wenatchee United States,SEA,N/A
+EAU,Eau Claire United States,ORD,N/A
+EBB,Uganda,NBO,[JUB; KGL; KSE; RUA]
+EBD,Sudan,KRT,N/A
+EBJ,Denmark,ABZ,N/A
+EBL,Iraq,IST,N/A
+EBO,Germany,UIT,N/A
+ECI,Tola,LIR,N/A
+ECN,Nicosia,SAW,N/A
+ECP,United States,ATL,N/A
+EDA,United States,KTN,[NKI]
+EDI,United Kingdom,LHR,[EMA]
+EDL,Kenya,NBO,[LOK]
+EDN,Russian Federation,NEI,N/A
+EDO,Turkey,SAW,N/A
+EDR,Pormpuraaw Australia,CNS,N/A
+EEK,United States,WTL,[KWN]
+EFL,Greece,ATH,N/A
+EGC,Bergerac France,SOU,N/A
+EGE,Vail United States,DEN,N/A
+EGM,Solomon Islands,HIR,[RBV]
+EGN,Sudan,KRT,N/A
+EGO,Russian Federation,SVO,N/A
+EGS,Egilsstaoir,RKV,N/A
+EIN,Netherlands,AGP,N/A
+EIS,British Virgin Islands,SJU,[SJU]
+EJA,Barrancabermeja Colombia,BOG,N/A
+EJH,Saudi Arabia,JED,N/A
+EJN,Ejina Banner China,AXF,N/A
+EJT,Mili Atoll Marshall Islands,MIJ,N/A
+EKO,United States,SLC,N/A
+EKS,Russian Federation,UUS,N/A
+ELC,Australia,MNG,N/A
+ELD,El Dorado United States,DFW,N/A
+ELF,Sudan,KRT,N/A
+ELG,Algeria,OGX,N/A
+ELH,Bahamas,NAS,N/A
+ELI,United States,GLV,N/A
+ELM, Rgnl (ELM) is a smaller airport in United States,DTW,N/A
+ELP,United States,DFW,N/A
+ELQ,Buraydah Saudi Arabia,JED,N/A
+ELS,South Africa,JNB,N/A
+ELU,El Oued Algeria,ALG,N/A
+ELV,United States,JNU,N/A
+EMA,United Kingdom,EDI,N/A
+EMD,Australia,BNE,N/A
+EMK,United States,AUK,[KOT]
+EMR,Guatemala,FRS,N/A
+ENA,United States,ANC,N/A
+ENE,Ende Indonesia,KOE,N/A
+ENH,China,WUH,N/A
+ENI,Philippines,MNL,N/A
+ENT,Marshall Islands,KWA,N/A
+ENU,Nigeria,LOS,N/A
+ENY,China,XIY,N/A
+EOH,Medellin,UIB,[APO; BSC; CZU; TLU; UIB]
+EPA,Argentina,SCL,N/A
+EPR,Australia,PER,N/A
+EQS,Argentina,AEP,N/A
+ERC,Turkey,SAW,N/A
+ERG,Russian Federation,IKT,N/A
+ERH,Er Rachidia Morocco,CMN,N/A
+ERI,United States,DTW,N/A
+ERL,China,HET,N/A
+ERN,Eirunepe Brazil,TFF,N/A
+ERS,Windhoek,OND,[LUD; MPA; NDU; OMD; OND]
+ERZ,Turkey,SAW,N/A
+ESB,Ankara,SAW,[CKZ; NKT; TEQ; YEI]
+ESC,Escanaba United States,DTW,N/A
+ESD,Eastsound United States,BFI,N/A
+ESL,Russian Federation,VKO,N/A
+ESM,Tachina Ecuador,UIO,N/A
+ESU,Morocco,CMN,N/A
+ETL,Russian Federation,NEI,N/A
+ETM,Eilat,TLV,[HFA]
+ETR,Santa Rosa Ecuador,UIO,N/A
+ETZ, (ETZ) is a smaller airport in France,LYS,N/A
+EUA,Eua,TBU,N/A
+EUG,Eugene United States,SEA,N/A
+EUN,Morocco,CMN,N/A
+EUQ,Antique Philippines,CRK,N/A
+EUX,Oranjestad,SXM,N/A
+EVE,Norway,OSL,N/A
+EVG,Sweden,ARN,N/A
+EVN,Yerevan,SVO,N/A
+EVV,United States,ORD,N/A
+EWB,United States,ACK,N/A
+EWN,New Bern United States,CLT,N/A
+EWR,United States,MCO,[PBI; PQI; VRB]
+EXI,United States,JNU,N/A
+EXT,United Kingdom,MAN,N/A
+EYK,Russian Federation,NYA,[NYA; OVS]
+EYP,Yopal Colombia,BOG,N/A
+EYW,United States,ATL,N/A
+EZE,Buenos Aires,GRU,[ASU]
+EZS,Turkey,SAW,N/A
+FAC,French Polynesia,PPT,N/A
+FAE,Torshavn,CPH,N/A
+FAH,Afghanistan,KBL,N/A
+FAI,United States,ANC,[AET; AKP; DJN; FYU; GAL; HUS; KBC; LMA; RBY; SVS; TAL]
+FAO,Portugal,LGW,N/A
+FAR,Fargo United States,MSP,N/A
+FAT,United States,LAX,N/A
+FAV,French Polynesia,PPT,[NIU]
+FAY,United States,CLT,N/A
+FBD,Afghanistan,KBL,N/A
+FBM,Congo,JNB,[FMI]
+FBS,United States,LKE,[LKE]
+FCA,Kalispell United States,SEA,N/A
+FCO,Rome,LIN,[AHO; BDS; BRI; CAG; CTA; GOA; LIN; MLA; PMO; PNL; PSA; REG; TIA; TPS; TRN; TRS; VRN]
+FDE,eland (FDE) is a smaller airport in Norway,OSL,N/A
+FDF,Fort-De-France,PTP,[PTP]
+FDH,Germany,FRA,N/A
+FEC,Feira De Santana Brazil,REC,N/A
+FEG,Uzbekistan,TAS,N/A
+FEN,Brazil,REC,N/A
+FEZ,Fez,ORY,N/A
+FIE,Scotland,LWK,[LWK]
+FIH,Congo,NBO,[GOM; KGA; KND; MDK; MJM]
+FIZ, Airport (FIZ) is a smaller airport in Australia,BME,[HCQ]
+FKB,tions with 6 airlines in scheduled passenger traffic,STN,N/A
+FKI, (FKI) is a smaller airport in Congo,KND,[IRP]
+FKQ,Fakfak Indonesia,SOQ,N/A
+FKS,Japan,ITM,N/A
+FLA,Florencia Colombia,BOG,[LQM]
+FLG,United States,PHX,N/A
+FLL,United States,ATL,[ACY; BIM; IAG; MHH; TCB; USA]
+FLN,Florianopolis Brazil,GRU,N/A
+FLO,United States,CLT,N/A
+FLR,Firenze Italy,CDG,N/A
+FLS,Australia,LST,N/A
+FLW,Flores Island (Azores) Portugal,HOR,N/A
+FLZ,Sibolga Indonesia,KNO,N/A
+FMA,Argentina,AEP,N/A
+FMI,Congo,FBM,[BKY]
+FMM,Memmingen Germany,SBZ,N/A
+FMO,Muenster Germany,MUC,[GRQ]
+FNA,Sierra Leone,ROB,N/A
+FNC,Funchal,LIS,[PXO]
+FNI,Nimes France,CRL,N/A
+FNJ,North Korea,PEK,N/A
+FNT,Flint United States,ORD,N/A
+FOA,United Kingdom,LWK,N/A
+FOC,Fuzhou China,PEK,N/A
+FOD,United States,STL,N/A
+FOG,Foggia Italy,TQR,[TQR]
+FON,Costa Rica,LIR,[TTQ]
+FOR,Brazil,GRU,N/A
+FPO,Freeport,NAS,N/A
+FRA,(FRA) is the largest airport in Germany,TXL,[BUD; FDH; LEJ; LJU; LNZ; NUE; SZG; TXL; VIE; ZAG]
+FRC,Brazil,CGH,N/A
+FRD,United States,BFI,[BFI]
+FRE,Solomon Islands,HIR,N/A
+FRO,Norway,BGO,N/A
+FRS,Flores,GUA,[EMR]
+FRU,Bishkek,OSS,[JAA; OSS]
+FRW,Botswana,GBE,N/A
+FSC,France,MRS,N/A
+FSD,United States,ORD,N/A
+FSM,United States,DFW,N/A
+FSP,Saint-Pierre,YHZ,N/A
+FSZ,Japan,FUK,N/A
+FTA,Vanuatu,TAH,[AWD]
+FTE,Argentina,AEP,N/A
+FTI,American Samoa,PPG,[PPG]
+FTU,Madagascar,TNR,N/A
+FUE,Fuerteventura Spain,LPA,N/A
+FUG,China,HAK,N/A
+FUJ,Japan,FUK,N/A
+FUK,Japan,HND,[AXJ; FSZ; FUJ; HND; MMJ; NKM; TSJ]
+FUN,Tuvalu,SUV,N/A
+FUO,China,KMG,[XAI]
+FUT,Pointe Vele,WLS,[WLS]
+FVM,Fuvahmulah Island Maldives,GAN,N/A
+FWA,United States,ORD,N/A
+FYJ,Fuyuan County China,HRB,N/A
+FYN,China,URC,N/A
+FYT,Faya-Largeau,NDJ,[AEH]
+FYU,United States,FAI,[CIK]
+GAF,Tunisia,TUN,N/A
+GAJ,Japan,ITM,N/A
+GAL,Galena United States,FAI,[KAL; KYU; NUL]
+GAM,United States,OME,N/A
+GAN,Addu City,MLE,[FVM]
+GAO,Guantanamo Cuba,HAV,N/A
+GAU,Guwahati India,CCU,[IMF; IXT; TEZ]
+GAY,India,VNS,N/A
+GBB,Azerbaijan,DME,N/A
+GBE,Gaborone,JNB,[FRW]
+GBI,Grand Bahama Bahamas,BLR,N/A
+GBT,Iran,THR,N/A
+GCC,United States,DEN,N/A
+GCH,Iran,THR,N/A
+GCI,Guernsey,JER,[ACI; JER; SOU]
+GCK,United States,DFW,N/A
+GCM,George Town,MIA,[CYB; LYB]
+GCN,United States,PGA,[GCT]
+GCT,Grand Canyon United States,GCN,N/A
+GCW,Peach Springs United States,BLD,N/A
+GDE,Ethiopia,JIJ,N/A
+GDL,Guadalajara,MEX,[MEX]
+GDN,Gdansk,WAW,[NYO]
+GDQ,Gondar Ethiopia,ADD,N/A
+GDT,Cockburn Town,PLS,[PLS; SLX]
+GDV,Glendive United States,BIL,N/A
+GDX,Magadan Russian Federation,KHV,[KPW; SWV]
+GDZ,Gelendzhik Russia,SVO,N/A
+GEA,New Caledonia,LIF,[ILP; KNQ; LIF; MEE; UVE]
+GEG,United States,SEA,N/A
+GEL,Brazil,POA,N/A
+GEM,Mengomeyén,SSG,N/A
+GEO,Georgetown,POS,N/A
+GER,Nueva Gerona Cuba,HAV,N/A
+GES,General Santos City Philippines,MNL,N/A
+GET,Australia,PER,N/A
+GEV,Sweden,AJR,N/A
+GFF,Australia,SYD,[NRA]
+GFK,United States,MSP,N/A
+GFN,Australia,LSY,[LSY]
+GGG,Longview United States,DFW,N/A
+GGR,Somalia,ADD,N/A
+GGT,Bahamas,NAS,N/A
+GGW,United States,BIL,N/A
+GHA,Ghardaia Algeria,ALG,N/A
+GHB,Governor's Harbour Bahamas,NAS,N/A
+GHS,Melak Indonesia,BPN,N/A
+GHT,Libyan Arab Jamahiriya,TIP,N/A
+GIB,Gibraltar,LHR,N/A
+GIC,Boigu Island Australia,SBR,N/A
+GIG,Rio De Janeiro Brazil,GRU,[CAW; SJK]
+GIL,Pakistan,ISB,N/A
+GIS,New Zealand,AKL,N/A
+GIU,Sri Lanka,TRR,[TRR]
+GIZ,Gizan Saudi Arabia,RUH,N/A
+GJL,Algeria,ALG,N/A
+GJT,United States,DEN,N/A
+GKA,Papua New Guinea,POM,N/A
+GKK,Maldives,MLE,N/A
+GLA,United Kingdom,DUB,[BEB; BRR; CAL; ILY; SYY; TRE]
+GLF,Costa Rica,SJO,N/A
+GLH,Greenville United States,DFW,N/A
+GLK,Somalia,MGQ,N/A
+GLN,Morocco,TTA,N/A
+GLT,Australia,BNE,N/A
+GLU,Bhutan,PBH,N/A
+GLV,United States,WMO,[ELI]
+GLX,Galela Indonesia,MDC,N/A
+GMB,Ethiopia,ADD,[ASO]
+GME,Belarus,KGD,N/A
+GMO,Nigeria,ABV,N/A
+GMP,Seoul,CJU,[CJU; HIN; PUS; RSU; USN]
+GMQ,Airport (GMQ) is a smaller airport in China,XNN,N/A
+GMR,French Polynesia,PPT,N/A
+GMZ,San Sebastian De La Gomera Spain,TFN,N/A
+GNB,Grenoble France,STN,N/A
+GND,St,POS,N/A
+GNS,Indonesia,KNO,N/A
+GNU,Goodnews Bay United States,PTU,N/A
+GNV,United States,ATL,N/A
+GNY,Golgen Turkey,IST,N/A
+GOA,Genoa Italy,FCO,N/A
+GOB,Robe Ethiopia,ADD,N/A
+GOH,Godthaab,SFJ,[JFR; SFJ; UAK]
+GOI,India,BOM,N/A
+GOJ,Nizhniy Novgorod Russian Federation,SVO,N/A
+GOM,Congo,FIH,[BNC]
+GOP,India,DEL,N/A
+GOQ,China,HXD,[HXD]
+GOT,Gothenburg,BMA,[CBG]
+GOU,Cameroon,NSI,[MVR]
+GOV,Australia,DRW,N/A
+GPA,Patras Greece,CFU,N/A
+GPB,Guarapuava Brazil,VCP,N/A
+GPI,Colombia,CLO,N/A
+GPS,Ecuador,GYE,N/A
+GPT,United States,ATL,N/A
+GRB,Green Bay United States,ORD,N/A
+GRI,Grand Island United States,DFW,N/A
+GRJ,South Africa,JNB,N/A
+GRK,Killeen United States,DFW,N/A
+GRO,Gerona Spain,PSA,N/A
+GRQ,Groningen,FMO,N/A
+GRR,Grand Rapids United States,ORD,N/A
+GRU,Sao Paulo,POA,[AJU; BEL; BPS; CGB; CGR; CWB; EZE; FLN; FOR; GIG; GYN; IGU; JDO; JJD; JOI; JPA; JTC; MAO; MCZ; NAT; PNZ; POA; RAO; REC; SLZ; SSA; VIX; XAP]
+GRV,Russian Federation,VKO,N/A
+GRW,Santa Cruz da Graciosa Azores,TER,N/A
+GRX,Spain,BCN,N/A
+GRY,Iceland,AEY,N/A
+GRZ,Austria,MUC,N/A
+GSM,Qeshm Island Iran,THR,N/A
+GSO,Greensboro United States,CLT,N/A
+GSP,United States,ATL,N/A
+GST,United States,JNU,N/A
+GSV,Airport (GSV) is an airport in Russian Federation,SVO,N/A
+GTE,Angurugu Australia,DRW,N/A
+GTF,United States,SLC,N/A
+GTO,Gorontalo Indonesia,UPG,N/A
+GTR,United States,ATL,N/A
+GTS,Australia,PER,N/A
+GTZ,Grumeti Game Reserve United Republic of Tanzania,SEU,N/A
+GUA,Guatemala City,SAL,[FRS; PBR]
+GUB,Mexico,HMO,N/A
+GUC,United States,DEN,N/A
+GUM,Tamuning,ICN,[ROR; YAP]
+GUO,Somalia,MGQ,N/A
+GUR,Papua New Guinea,POM,[LSA; MIS]
+GUW,Kazakhstan,SCO,[SCO]
+GVA,rin (GVA) is the second largest airport in Switzerland,LHR,N/A
+GVR,Brazil,CNF,N/A
+GWD,Pakistan,KHI,N/A
+GWL,India,HYD,N/A
+GWT,Germany,DUS,[KSF]
+GXH,China,LXA,N/A
+GYA,Guayaramerin Bolivia,TDD,N/A
+GYD,Baku,IST,N/A
+GYE,Guayaquil,UIO,[GPS; SCY; UIO]
+GYG,Russian Federation,ADH,[ADH]
+GYM,Guaymas Mexico,HMO,N/A
+GYN,Goiania Brazil,GRU,[BPG; PMW]
+GYS,China,KWE,N/A
+GYU,China,INC,N/A
+GZO,Gizo,HIR,[BAS; CHY; HIR; MNY]
+GZP,Alanya Turkey,IST,N/A
+GZT,Gaziantep Turkey,IST,N/A
+HAA,Norway,HFT,N/A
+HAC,Japan,HND,N/A
+HAD,Sweden,BMA,N/A
+HAH,Comoros,AJN,[AJN; NWA]
+HAJ,Hanover Germany,MUC,N/A
+HAK,Haikou China,CAN,[FUG; JGS]
+HAM,Germany,MUC,[MHG]
+HAN,Hanoi,SGN,[DIN; SGN; VCA]
+HAQ,Maldivian,MLE,N/A
+HAS,Ha'il Saudi Arabia,RUH,N/A
+HAU,Norway,OSL,N/A
+HAV,Havana,MIA,[CYO; GAO; GER]
+HBA,Australia,MEL,[SRN]
+HBE,Alexandria,JED,[BEN; TOB]
+HBQ,China,XNN,N/A
+HBX,India,BLR,N/A
+HCQ,Australia,FIZ,N/A
+HCR,United States,ANI,[ANV]
+HDF,Germany,DUS,N/A
+HDG,China,PVG,N/A
+HDM,Iran,THR,N/A
+HDN,Hayden United States,DEN,N/A
+HDS,South Africa,JNB,N/A
+HDY,Songkhla Thailand,DMK,N/A
+HEA,Afghanistan,KBL,N/A
+HEH,Myanmar,RGN,[KET; LSH; MOG; THL]
+HEK,China,HRB,N/A
+HEL,Finland,ARN,[ARN; IVL; JOE; JYV; KAO; KEM; KOK; KTT; KUO; OUL; POR; RVN; SVL; TAY; TMP; VAA]
+HER,Heraklion,ATH,N/A
+HET,China,CIF,[AXF; CIF; ERL; HLD; HLH; LFQ; NZH; NZL; RLK; TGO; WUA; XIL]
+HEW,kon Airport (HEW) is a smaller airport in Greece,DEQ,N/A
+HFA,Israel,ETM,N/A
+HFE,Hefei China,KMG,N/A
+HFT,Norway,TOS,[BVG; HAA; HVG]
+HGA,Somalia,ADD,N/A
+HGD,Australia,RCM,[RCM]
+HGH,Hangzhou China,CAN,[HUZ; JNZ; LYI; SJW; YCU]
+HGN,Thailand,CNX,N/A
+HGO,Cote d'Ivoire,ABJ,N/A
+HGR,United States,SFB,N/A
+HGU,Papua New Guinea,POM,[MXH; WBM]
+HHH,United States,CLT,N/A
+HHN,Germany,CIA,N/A
+HHQ,Airport (HHQ) is a smaller airport in Thailand,KUL,N/A
+HHR,United States,PHX,N/A
+HIA,China,TAO,N/A
+HIB, (HIB) is a smaller airport in United States,MSP,N/A
+HID,Australia,CNS,[KUG; OKR; SYU; XMY]
+HIJ,Japan,HND,N/A
+HIN,South Korea,GMP,N/A
+HIR,Solomon Islands,GZO,[AKS; BNY; EGM; FRE; GZO; IRA; KGE; LLM; MUA; PRS; RNA; RNL; RUS; SCZ; VAO]
+HJJ,China,XIY,N/A
+HJR,India,VNS,N/A
+HKB,United States,TKJ,[TKJ]
+HKD,Japan,HND,[OIR; OKD]
+HKG,Hong Kong,TPE,[PVG; TPE]
+HKK,New Zealand,CHC,N/A
+HKN,Hoskins,LAE,N/A
+HKR,Maasai Mara Kenya,KTJ,[MRE]
+HKT,Thailand,BKK,[BKK]
+HLA,Johannesburg,CPT,N/A
+HLD,Hailar China,HET,[YIE]
+HLE,Jonestown,JNB,N/A
+HLH,China,HET,N/A
+HLN,United States,SLC,N/A
+HLP,Jakarta Indonesia,SUB,[TSY]
+HLZ,New Zealand,WLG,N/A
+HMA,Khanty-Mansiysk Russian Federation,VKO,[URJ]
+HMB,Egypt,KWI,N/A
+HME,Hassi Messaoud Algeria,ALG,N/A
+HMI,China,XIY,N/A
+HMO,Hermosillo Mexico,MEX,[GUB; GYM]
+HMV,Sweden,KRF,[KRF]
+HNA,Japan,ITM,N/A
+HND,Japan,FUK,[AKJ; AOJ; AXT; CTS; FUK; HAC; HIJ; HKD; HSG; ITM; IWJ; IWK; IZO; KCZ; KKJ; KMI; KMJ; KMQ; KOJ; KUH; MBE; MSJ; NGS; NTQ; OBO; OIT; OKA; OKJ; ONJ; SHM; SYO; TAK; TKS; TOY; TTJ; UBJ; UKB; YGJ]
+HNH,United States,JNU,N/A
+HNL,United States,OGG,[CXI; ITO; JHM; KOA; LIH; LNY; MKK; OGG]
+HNM,United States,OGG,N/A
+HNS,United States,JNU,[JNU]
+HNY,China,DYG,N/A
+HOB,Hobbs United States,IAH,N/A
+HOF,Saudi Arabia,JED,N/A
+HOG,Holguin,YUL,N/A
+HOI,French Polynesia,MKP,N/A
+HOM,United States,ANC,N/A
+HOR,Portugal,PDL,[CVU; FLW]
+HOT,Hot Springs United States,DFW,N/A
+HOU,Houston United States,DAL,[DAL]
+HOV,Hovdebygda Norway,OSL,N/A
+HOX,Myanmar,MDL,[NYW]
+HPA,Lifuka Island,TBU,[TBU]
+HPB,United States,SCM,[VAK]
+HPG,Hongping China,WUH,N/A
+HPH,Haiphong Vietnam,SGN,N/A
+HPN,White Plains United States,ATL,[MVL]
+HRB,Harbin China,PVG,[DTU; FYJ; HEK; JGD; JSJ; JXA; TVS; YKH]
+HRE,Zimbabwe,JNB,[VFA]
+HRG,Egypt,CAI,N/A
+HRI,Hambantota,CMB,[BTC]
+HRK,Kharkov Ukraine,KBP,N/A
+HRL,Harlingen United States,IAH,N/A
+HRO,Harrison United States,DFW,N/A
+HSG,Japan,HND,N/A
+HSL,United States,KYU,N/A
+HSN,China,JJN,[YYA]
+HSV,United States,ATL,N/A
+HTA,Chita Russian Federation,DME,N/A
+HTG,Russian Federation,NSK,N/A
+HTI,Australia,SYD,N/A
+HTN,China,URC,N/A
+HTS,Huntington United States,CLT,N/A
+HTT,China,HXD,N/A
+HTY,Turkey,SAW,N/A
+HUE,Ethiopia,MQX,N/A
+HUH,French Polynesia,PPT,N/A
+HUI,Hue Vietnam,SGN,N/A
+HUN,Taiwan,TSA,N/A
+HUO,Huolinguole China,TGO,N/A
+HUS,United States,FAI,N/A
+HUU,Peru,LIM,N/A
+HUX,Mexico,MEX,N/A
+HUY,United Kingdom,AMS,N/A
+HUZ,China,HGH,N/A
+HVB,Australia,BNE,N/A
+HVD,Mongolia,ULN,N/A
+HVG,Honningsvag Norway,HFT,[MEH]
+HVN,United States,PHL,N/A
+HVR,United States,BIL,N/A
+HXD,Hilton Head Island United States,GOQ,[GOQ; HTT]
+HYA,United States,ACK,N/A
+HYD,India,DEL,[CDP; GWL; KLH; MYQ; NDC; PNY; RJA; SAG; TIR; VGA; VTZ]
+HYG,United States,KTN,N/A
+HYL,United States,KTN,N/A
+HYN,China,CAN,N/A
+HYS,United States,DEN,N/A
+HZG,China,PVG,N/A
+HZH,China,CSX,N/A
+IAA,Russian Federation,KJA,N/A
+IAD,United States,ATL,[OGS; PBG; SHD]
+IAG,United States,FLL,N/A
+IAH,United States,DFW,[BRO; BTR; HOB; HRL; LCH; LFT]
+IAM,Zarzaitine Algeria,ALG,N/A
+IAN,Kiana United States,ORV,[ORV]
+IAO,Del Carmin Philippines,CEB,N/A
+IAR,Yaroslavl Russian Federation,LED,N/A
+IAS,Romania,OTP,N/A
+IBA,Nigeria,LOS,N/A
+IBE,Ibague Colombia,BOG,N/A
+IBR,Omitami Japan,UKB,N/A
+IBZ,Spain,PMI,N/A
+ICI,Fiji,SUV,N/A
+ICN,Seoul,KIX,[CRK; GUM; KIX; KLO; NRT; SPN; TAO; ULN; VVO; WEH; YNJ]
+ICO,Philippines,MNL,N/A
+ICT,nt (ICT) is a mid-sized airport in United States,ORD,N/A
+IDA,United States,DEN,N/A
+IDR,Indore India,DEL,N/A
+IEG,Zielona Gora Poland,WAW,N/A
+IEV,Kiev,MSQ,[OZH]
+IFJ,Isafjorður,RKV,N/A
+IFN,Isfahan Iran,THR,N/A
+IFO,Ivano-Frankivsk Ukraine,KBP,N/A
+IFU,Ifuru Island Maldives,DRV,N/A
+IGA,Bahamas,NAS,N/A
+IGD,Turkey,IST,N/A
+IGR,Argentina,AEP,N/A
+IGT,Ordzhonikidzevskaya Russian Federation,VKO,N/A
+IGU,Foz Do Iguacu Brazil,GRU,N/A
+IHR,Iran,JYR,N/A
+IIL,Iran,THR,N/A
+IJK,Russian Federation,SVO,N/A
+IKA,Tehran,IST,[NJF; XNH]
+IKE,Greenland,SAE,N/A
+IKI,Japan,NGS,N/A
+IKS,Russian Federation,YKS,N/A
+IKT,Russian Federation,SVO,[ERG; KCK; KYZ; ODO; PYJ; UKX]
+IKU,Tamchy,OVB,N/A
+ILD,Spain,PMI,N/A
+ILI,United States,ANC,N/A
+ILM,United States,CLT,N/A
+ILO,Philippines,MNL,N/A
+ILP, (ILP) is a smaller airport in New Caledonia,GEA,N/A
+ILQ,Peru,LIM,N/A
+ILR,Nigeria,ABV,N/A
+ILY,Glenegedale Scotland,GLA,[CSA]
+IMF,India,GAU,N/A
+IMP,Brazil,SLZ,N/A
+IMT,Iron Mountain United States,MSP,N/A
+INA,Russian Federation,PEX,[PEX]
+INB,Belize,PLJ,N/A
+INC,China,XIY,[GYU]
+IND,United States,ORD,N/A
+INF,Algeria,TMR,N/A
+INH,Mozambique,MPM,N/A
+INI,Serbia,BSL,N/A
+INL,International Falls United States,MSP,N/A
+INN,Austria,VIE,N/A
+INV,United Kingdom,LGW,N/A
+INZ,Ain Salah Algeria,ALG,N/A
+IOA,Greece,ATH,N/A
+IOM,Ronaldsway Isle of Man,MAN,N/A
+IOQ,Greenland,AGM,N/A
+IOS,Brazil,CGH,N/A
+IPA,Vanuatu,TAH,[DLY]
+IPC,Easter Island Chile,SCL,N/A
+IPH,Ipoh Malaysia,SIN,N/A
+IPI,Ipiales Colombia,BOG,N/A
+IPL,United States,LAX,N/A
+IPN,Ipatinga Brazil,CNF,N/A
+IPT,United States,PHL,N/A
+IQM,China,KRL,N/A
+IQN,China,LHW,N/A
+IQQ,Iquique Chile,SCL,N/A
+IQT,Iquitos,LIM,N/A
+IRA,Kirakira Solomon Islands,HIR,[NNB]
+IRG,Australia,AUU,[CUQ]
+IRI,Tanzania United Republic of,DAR,N/A
+IRJ,Argentina,AEP,N/A
+IRK,United States,STL,N/A
+IRP,Isiro The Democratic Republic of The Congo,FKI,N/A
+ISA,Australia,BNE,[DMD; JCK]
+ISB,Islamabad,KHI,[CJL; GIL; KDU; KHI; PZH]
+ISC,United Kingdom,LEQ,[LEQ]
+ISE,Turkey,IST,N/A
+ISG,Japan,OKA,N/A
+ISK,Nasik India,AMD,N/A
+ISP,Islip United States,MCO,N/A
+IST,Turkey,ADB,[ADF; AJI; BAL; BGG; BGW; BUS; CND; DNZ; EBL; GNY; GYD; GZP; GZT; IGD; IKA; ISE; KBP; KCM; KFS; KYA; KZR; MQM; MZH; NAJ; NOP; ODS; ONQ; SJJ; SKP; SXZ; TAS; TBS; TLV; USQ; YKO]
+ISU,Iraq,BGW,N/A
+ITB,Itaituba Brazil,ATM,N/A
+ITH, Regional Airport (ITH) is a smaller airport in United States,PHL,N/A
+ITM,Japan,HND,[FKS; GAJ; HNA; KIJ; MYJ; SDJ; TJH]
+ITO,United States,HNL,N/A
+ITU,Iturup Island Russian Federation,UUS,N/A
+IUE,Alofi,AKL,N/A
+IUI,Greenland,TQA,N/A
+IVC,New Zealand,CHC,N/A
+IVL,Finland,HEL,N/A
+IVR,Australia,BNE,N/A
+IWA,Ivanovo Russian Federation,LED,N/A
+IWD,Ironwood United States,ORD,N/A
+IWJ,Japan,HND,N/A
+IWK,aikyo Airport (IWK) is a smaller airport in Japan,HND,N/A
+IXA,India,CCU,N/A
+IXB,Baghdogra India,DEL,N/A
+IXC,India,DEL,N/A
+IXD,India,DEL,N/A
+IXE,India,BLR,N/A
+IXG,India,BLR,N/A
+IXI,India,CCU,N/A
+IXJ,India,SXR,N/A
+IXL,India,DEL,N/A
+IXM,India,MAA,N/A
+IXP,India,DEL,N/A
+IXR,Ranchi India,DEL,N/A
+IXS,India,CCU,N/A
+IXT,India,GAU,N/A
+IXU,India,DEL,N/A
+IXY,India,AMD,N/A
+IXZ,India,MAA,N/A
+IZA,Juiz De Fora Brazil,VCP,N/A
+IZO,Japan,HND,[OKI]
+IZT,Mexico,MEX,N/A
+JAA,Afghanistan,FRU,N/A
+JAC,United States,DEN,N/A
+JAE,Jaen Peru,LIM,N/A
+JAI,India,DEL,[AGR]
+JAN,United States,ATL,N/A
+JAR,Iran,THR,N/A
+JAU,Peru,LIM,N/A
+JAV,Jakobshavn,SFJ,[JEG; JUV]
+JAX,United States,ATL,N/A
+JBB,Jember Indonesia,SUB,N/A
+JBQ,La Isabela,PAP,[PAP]
+JBR,United States,STL,N/A
+JCK,Australia,ISA,N/A
+JDH,India,DEL,N/A
+JDO,Juazeiro Do Norte Brazil,GRU,N/A
+JDZ,China,SHA,N/A
+JED,Jeddah,RUH,[CAI; DMM; EJH; ELQ; HBE; HOF; KRT; RUH; TUU]
+JEG,Greenland,JAV,N/A
+JEJ,Marshall Islands,MAJ,[MJE]
+JEK,Zambia,LUN,N/A
+JER,Saint Peter Channel Islands,GCI,[GCI]
+JFK,New York United States,LAX,[BDA; BTV; BUF; KIN; LHR; ORH; SDQ; STI]
+JFR,Greenland,GOH,N/A
+JGA,India,BOM,N/A
+JGD,Jiagedaqi District China,HRB,[OHE]
+JGN,China,LHW,N/A
+JGS,Ji'An China,HAK,N/A
+JHB,Johor Bahru Malaysia,KUL,N/A
+JHG,China,KMG,[KJH; KMG]
+JHM,United States,HNL,N/A
+JHS,Greenland,SFJ,N/A
+JIA,Brazil,CGB,[AIR]
+JIB,Djibouti,ADD,[ADE]
+JIC,Jinchang China,LHW,N/A
+JIJ,Ethiopia,ADD,[ABK; GDE]
+JIK,Ikaria Island Greece,ATH,N/A
+JIM,Jimma Ethiopia,ADD,N/A
+JIO,Tiakur Indonesia,AMQ,N/A
+JIQ,shan Airport (JIQ) is a smaller airport in China,CKG,N/A
+JJD,Cruz Brazil,GRU,N/A
+JJG,Jaguaruna Brazil,CGH,N/A
+JJM,Meru Kenya,UAS,[UAS]
+JJN,China,KMG,[HSN]
+JKG,Sweden,ARN,N/A
+JKH,Greece,ATH,N/A
+JKL,Greece,ATH,N/A
+JKR,Nepal,KTM,N/A
+JLN,United States,DFW,N/A
+JLR,India,DEL,N/A
+JMJ,Lancang China,KMG,N/A
+JMK,Mykonos Greece,ATH,N/A
+JMS,United States,DVL,[DVL]
+JMU,China,PEK,N/A
+JNB,South Africa,CPT,[BBK; BFN; BUQ; CPT; DUR; ELS; FBM; GBE; GRJ; HDS; HLE; HRE; KIM; LVI; MGH; MPM; MQP; MSU; MUB; PHW; PLZ; PTG; PZB; RCB; SHO; SIS; UTN; UTT; VNX; WDH]
+JNG,China,SHE,N/A
+JNU,United States,HNS,[ELV; EXI; GST; HNH; HNS; KAE; PEC; PSG; SGY; SIT; TKE]
+JNX,Naxos Cyclades Islands Greece,ATH,N/A
+JNZ,China,HGH,N/A
+JOE,Finland,HEL,N/A
+JOG,Yogyakarta Indonesia,CGK,N/A
+JOI,Joinville Brazil,GRU,N/A
+JOK,Russian Federation,VKO,N/A
+JOS,Nigeria,KAD,N/A
+JPA,Joao Pessoa Brazil,GRU,N/A
+JPR,Brazil,CGB,N/A
+JQA,Greenland,UMD,[UMD]
+JQE,Panama,PAC,[BFQ]
+JRG,India,BBI,N/A
+JRH,India,CCU,N/A
+JRO,Tanzania United Republic of,DAR,N/A
+JSA,India,AMD,N/A
+JSH,Greece,ATH,N/A
+JSI,Greece,ATH,N/A
+JSJ,China,HRB,N/A
+JSR,Bangladesh,DAC,N/A
+JST,United States,PIT,N/A
+JSU,Greenland,SFJ,N/A
+JSY,Greece,ATH,N/A
+JTC,Brazil,GRU,N/A
+JTR,Thira,ATH,[ATH]
+JTY,Greece,ATH,N/A
+JUB,Sudan,EBB,[WUU]
+JUH,China,SHA,N/A
+JUJ,Argentina,AEP,N/A
+JUK,Greenland,UMD,N/A
+JUL,Peru,LIM,N/A
+JUV,Greenland,JAV,[AOQ; KGQ; KHQ; NSQ; TQA]
+JUZ,China,PKX,N/A
+JXA,China,HRB,N/A
+JYR,Iran,THR,[IHR]
+JYV,Finland,HEL,[KAJ]
+JZH,Song Pan China,CTU,N/A
+KAC,Qamishli,DAM,N/A
+KAD,Nigeria,LOS,[JOS]
+KAE,United States,JNU,N/A
+KAJ,Finland,JYV,N/A
+KAL,United States,GAL,N/A
+KAN, International (KAN) is the fourth largest airport in Nigeria,ABV,N/A
+KAO,Finland,HEL,N/A
+KAW,Myanmar,TVY,[MNU]
+KAZ,Indonesia,MDC,N/A
+KBC,United States,FAI,N/A
+KBH,Kahama United Republic of Tanzania,TBO,N/A
+KBL,Afghanistan,DXB,[BIN; BST; CCN; FAH; FBD; HEA; KDH; KHT; MMZ; MZR; TII; ZAJ]
+KBP,Kiev,IST,[CWC; DNK; HRK; IFO; KHE; PED]
+KBR,Kota Bahru Malaysia,SZB,N/A
+KBU,Kotabaru Indonesia,BDJ,N/A
+KBV,Thailand,DMK,N/A
+KCA,China,URC,N/A
+KCC,United States,WWP,N/A
+KCH,Malaysia,KUL,[BTU; MKM; TGC]
+KCK,Russian Federation,IKT,N/A
+KCM,Turkey,IST,N/A
+KCO,Izmit Turkey,TZX,N/A
+KCT,Sri Lanka,DIW,[NUF; WRZ]
+KCZ,Japan,HND,N/A
+KDA,Kola,DSS,N/A
+KDH,Afghanistan,KBL,N/A
+KDI,Kendari Indonesia,UPG,N/A
+KDM,Maldives,MLE,N/A
+KDO,Haddhunmathi,MLE,N/A
+KDU,Pakistan,ISB,N/A
+KDV,Fiji,NAN,N/A
+KDW,Sri Lanka,DWO,[DIW]
+KEF,Iceland,CPH,N/A
+KEJ,Russian Federation,VKO,N/A
+KEK,United States,DLG,N/A
+KEM,Finland,HEL,N/A
+KEO,Cote d'Ivoire,ABJ,[MJC]
+KEP,Nepal,KTM,N/A
+KER,Iran,THR,N/A
+KET,Myanmar,HEH,N/A
+KEU,Maasai Mara Kenya,OLX,[KTJ]
+KEW,Canada,ZSJ,N/A
+KFS,Turkey,IST,N/A
+KGA,Congo,FIH,N/A
+KGC,Australia,ADL,N/A
+KGD,Kaliningrad Russian Federation,LED,[GME]
+KGE,Solomon Islands,HIR,N/A
+KGF,Karaganda Kazakhstan,ALA,N/A
+KGI,Australia,PER,N/A
+KGK,United States,DLG,N/A
+KGL,Rwanda,EBB,[KME]
+KGP,Russian Federation,VKO,N/A
+KGQ,Greenland,JUV,[UPK]
+KGS,Greece,ATH,N/A
+KGT,China,CTU,N/A
+KGX,United States,ANV,N/A
+KHD,Iran,THR,N/A
+KHE,Kherson Ukraine,KBP,N/A
+KHG,China,URC,[URC]
+KHH,Taiwan,MZG,[MZG]
+KHI,Karachi,ISB,[BHV; DBA; DEA; GWD; ISB; LHE; LYP; MJD; PJG; RYK; SKZ; TUK; UET]
+KHM,Myanmar,MDL,N/A
+KHN,China,PEK,N/A
+KHQ,Greenland,JUV,N/A
+KHS,Oman,MCT,N/A
+KHT,Khost Afghanistan,KBL,N/A
+KHV,Khabarovsk Russian Federation,UUS,[BQG; GDX; NLI; UUS]
+KHX,Uganda,KSE,N/A
+KHY,Iran,THR,N/A
+KHZ,French Polynesia,PPT,[KXU]
+KID,Sweden,BMA,N/A
+KIE,Russian Federation,BUA,N/A
+KIF,Kingfisher First Canada,YXL,[WNN]
+KIH,Kish Island Iran,THR,N/A
+KIJ,Japan,ITM,N/A
+KIM,South Africa,JNB,N/A
+KIN,Kingston,JFK,N/A
+KIO,Marshall Islands,NDK,N/A
+KIR,Ireland,DUB,N/A
+KIS,Kenya,NBO,N/A
+KIT,Greece,ATH,N/A
+KIV,Moldova,OTP,N/A
+KIX,Japan,ICN,[ICN]
+KIY,United Republic of Tanzania,MFA,N/A
+KJA,Krasnoyarsk Russian Federation,OVB,[IAA; TGP; THX]
+KJH, Airport (KJH) is a smaller airport in China,JHG,N/A
+KJI,Burqin China,AAT,N/A
+KJT,Majalengka Indonesia,BPN,N/A
+KKA,United States,SKK,N/A
+KKB,United States,SYB,N/A
+KKC,Thailand,DMK,N/A
+KKE,New Zealand,AKL,N/A
+KKH,Alaska,KWK,N/A
+KKI,United States,AKI,[KWT]
+KKJ,Japan,HND,N/A
+KKL,United States,KLN,N/A
+KKN,Norway,VDS,N/A
+KKR,French Polynesia,PPT,[AXR]
+KKX,Japan,ASJ,N/A
+KLB,Zambia,LUN,N/A
+KLF,Kaluga Russian Federation,LED,N/A
+KLG,United States,ANI,[ANI]
+KLH,India,HYD,N/A
+KLN,United States,ADQ,[KKL]
+KLO,Philippines,ICN,N/A
+KLR,Sweden,BMA,N/A
+KLU,Austria,VIE,N/A
+KLV,Czech Republic,VKO,N/A
+KLW,United States,KTN,[CGA]
+KLX,Greece,SKG,N/A
+KME,Rwanda,KGL,N/A
+KMG,Kunming,JHG,[BSD; BZX; CGO; CWJ; DIG; FUO; HFE; JHG; JJN; JMJ; KOW; LJG; LLF; LNJ; LUM; LZO; NLH; SYM; TCZ; TYN; WNH; YBP; YIH; ZAT]
+KMI,Japan,HND,N/A
+KMJ,Japan,HND,N/A
+KMO,United States,DLG,N/A
+KMQ,Japan,HND,N/A
+KMS,Ghana,ACC,[ACC]
+KMU,Kismayu Somalia,MGQ,N/A
+KMV,Kalemyo Myanmar,MDL,N/A
+KMY,United States,ALZ,[KOY]
+KND,Congo,FIH,[FKI]
+KNG,Indonesia,SOQ,N/A
+KNH,Chinmen Taiwan,TSA,[RMQ; TSA]
+KNO,Indonesia,CGK,[AEG; FLZ; GNS; LSW; MEQ; TXE]
+KNQ,New Caledonia,GEA,N/A
+KNS,Australia,MEB,[MEB]
+KNU,India,BOM,N/A
+KNW,United States,DLG,N/A
+KNX,Australia,DRW,N/A
+KOA,United States,HNL,N/A
+KOE,Kupang Indonesia,SUB,[ABU; ARD; BJW; ENE; LKA; LWE; MOF; RTG; RTI; WGP]
+KOI,United Kingdom,ABZ,N/A
+KOJ,Japan,HND,[ASJ; KUM; OKE; TKN; TNE]
+KOK,Finland,HEL,N/A
+KOM,Papua New Guinea,POM,N/A
+KOP,Thailand,DMK,N/A
+KOS,Cambodia,PNH,N/A
+KOT,United States,EMK,N/A
+KOV,Kazakhstan,ALA,N/A
+KOW,China,KMG,N/A
+KOY,United States,KMY,N/A
+KOZ,United States,ADQ,N/A
+KPB,United States,PPV,N/A
+KPN,United States,BET,[CYF]
+KPO,South Korea,CJU,N/A
+KPW,Russian Federation,GDX,N/A
+KPY,United States,UGI,N/A
+KQH,Kishangarh India,DEL,N/A
+KQT,Kurgon-Tyube,CRZ,N/A
+KRB,Australia,NTN,N/A
+KRC,Indonesia,BUU,N/A
+KRF,Sweden,HMV,[HMV]
+KRK,Krakow,WAW,N/A
+KRL,China,URC,[IQM; RQA; SHF]
+KRN,Sweden,ARN,N/A
+KRO,Russian Federation,VKO,N/A
+KRP,Denmark,CPH,N/A
+KRR,Krasnodar Russian Federation,SVO,N/A
+KRS,Norway,BGO,N/A
+KRT,Sudan,JED,[EBD; EGN; ELF; KSL; PZU; RSS; UYL]
+KRW,Krasnovodsk,ASB,N/A
+KRY,China,URC,N/A
+KSA,Kosrae Caroline Islands,KWA,N/A
+KSC,Slovakia,PRG,N/A
+KSD,Sweden,ARN,N/A
+KSE,Uganda,EBB,[KHX]
+KSF,Germany,GWT,N/A
+KSH,Bakhtaran Iran,THR,N/A
+KSJ,Greece,AOK,N/A
+KSL,Sudan,KRT,N/A
+KSM,St,MOU,[MOU; SXP]
+KSN,Kazakhstan,TSE,N/A
+KSO,Kastoria Greece,ATH,[KZI]
+KSQ,Uzbekistan,DME,N/A
+KSR,Sulawesi Island Indonesia,UPG,N/A
+KSU,Norway,BGO,N/A
+KSY,Turkey,SAW,N/A
+KSZ,Russian Federation,ARH,N/A
+KTA,Australia,PER,N/A
+KTB,United States,KTN,[KTN]
+KTE,Malaysia,SZB,N/A
+KTG,Ketapang Indonesia,PNK,N/A
+KTJ,Maasai Mara Kenya,KEU,[HKR]
+KTL,Kenya,WIL,N/A
+KTM,Kathmandu,PKR,[BDP; BHR; BIR; BWA; DHI; JKR; KEP; LUA; PKR; RJB; SIF; SKH; TMI]
+KTN,United States,KTB,[EDA; HYG; HYL; KLW; KTB; KWF; MTM; PPV; WHD; WRG]
+KTP,Kingston,MBJ,N/A
+KTR,Katherine Australia,DRW,N/A
+KTS,United States,OME,[TLA]
+KTT,Finland,HEL,N/A
+KTW,Katowice,DTM,[DSA; DTM]
+KUA,Malaysia,KUL,N/A
+KUD,Malaysia,BKI,N/A
+KUF,Samara Russian Federation,SVO,N/A
+KUG,Australia,HID,[BDD]
+KUH,Japan,HND,N/A
+KUK,United States,NUP,N/A
+KUL,Malaysia,SIN,[BKI; BWN; HHQ; JHB; KCH; KUA; LBU; LGK; MYY; PEN; SBW; SIN]
+KUM,Japan,KOJ,N/A
+KUN,Lithuania,LTN,N/A
+KUO,Finland,HEL,N/A
+KUS,Greenland,AGM,[AGM]
+KUT,Georgia,BLQ,N/A
+KUU,Kulu India,DEL,N/A
+KUV,South Korea,CJU,N/A
+KUZ,Greenland,AGM,N/A
+KVA,Kavala Greece,ATH,N/A
+KVD,Ganja International,VKO,N/A
+KVG,Papua New Guinea,RAB,[MAS]
+KVK,Russian Federation,LED,N/A
+KVL,United States,OTZ,N/A
+KVR,Russian Federation,VVO,N/A
+KVX,Kirov Russian Federation,VKO,N/A
+KWA,Marshall Islands,MAJ,[AIC; ENT; KSA; LML; MAJ; WJA]
+KWB,Karimunjawa Indonesia,SRG,N/A
+KWE,Guiyang China,PEK,[ACX; BFJ; GYS; LLB; LPF; WMT; WXN; XUZ]
+KWF,United States,KTN,N/A
+KWI,Kuwait,DXB,[AAN; ATZ; DOH; DXB; HMB]
+KWJ,Kwangju South Korea,CJU,N/A
+KWK,United States,BET,[KKH]
+KWL,Guilin China,PVG,[AQG]
+KWM,Australia,CNS,N/A
+KWN,United States,EEK,[TOG]
+KWT,United States,KKI,N/A
+KXF,Fiji,SUV,N/A
+KXK,Komsomolsk-on-Amur Russia,UUS,N/A
+KXU,French Polynesia,KHZ,N/A
+KYA,Turkey,IST,N/A
+KYP,Myanmar,AKY,[MGU]
+KYU,United States,GAL,[HSL]
+KYZ,Russian Federation,IKT,N/A
+KZI,Kozani Greece,KSO,N/A
+KZN,Russian Federation,SVO,N/A
+KZO,Kazakhstan,TSE,N/A
+KZR,Kutahya Turkey,IST,N/A
+KZS,Greece,RHO,N/A
+LAD,Angola,LIS,[CAB; CBT; DUE; LUO; MSZ; NOV; SDD; SVP; SZA; VHC; VPE]
+LAE,Papua New Guinea,POM,[HKN; POM]
+LAH,Labuha Indonesia,TTE,N/A
+LAJ,Brazil,CWB,N/A
+LAK,Canada,YEV,[YEV]
+LAN,Lansing United States,ORD,N/A
+LAO,Philippines,MNL,N/A
+LAP,La Paz Mexico,MEX,N/A
+LAR,United States,DEN,N/A
+LAS,Las Vegas United States,LAX,[RNO; SMX]
+LAU,Kenya,WIL,N/A
+LAW,United States,DFW,N/A
+LAX,United States,SFO,[DEN; DFW; FAT; IPL; JFK; LAS; MCE; MMH; SCK; SFO; SJC; SMF; STS]
+LBA,United Kingdom,DUB,N/A
+LBB,United States,DFW,N/A
+LBD,Tajikistan,ZIA,[ZIA]
+LBE,Latrobe United States,MCO,N/A
+LBF,United States,DEN,N/A
+LBJ,Indonesia,DPS,N/A
+LBL,United States,DEN,N/A
+LBP,Malaysia,MUR,N/A
+LBR,Brazil,MAO,N/A
+LBS,Lambasa,SUV,N/A
+LBU,Malaysia,KUL,N/A
+LBV,Gabon,POG,[MVB; POG]
+LCA,Cyprus,ATH,N/A
+LCE,La Ceiba,RTB,[UII]
+LCG,La Coruna Spain,MAD,N/A
+LCH,United States,IAH,N/A
+LCJ,Lodz Poland,STN,N/A
+LCK,Columbus United States,PGD,N/A
+LCX,China,NKG,N/A
+LCY,London United Kingdom,AMS,[ANR; RTM]
+LDB,Brazil,CGH,N/A
+LDE,Tarbes France,ORY,N/A
+LDH,Australia,SYD,N/A
+LDS,China,SHE,N/A
+LDU,Malaysia,BKI,N/A
+LDY,on (LDY) is a smaller airport in United Kingdom,SEN,[SEN]
+LDZ,South Africa,ASS,[SZK; ULX]
+LEA,Australia,PER,N/A
+LEB,United States,BOS,N/A
+LEC,Lencois Brazil,SSA,N/A
+LED,Russian Federation,SVO,[BZK; DME; IAR; IWA; KGD; KLF; KVK; SVO; VKO]
+LEI,Spain,MAD,N/A
+LEJ,Germany,FRA,N/A
+LEN,Spain,BCN,N/A
+LEQ,St Just United Kingdom,ISC,[ISC]
+LER,Australia,PER,N/A
+LET,Leticia Colombia,BOG,N/A
+LEX,United States,ORD,N/A
+LFM,Iran,THR,N/A
+LFQ,China,HET,N/A
+LFR,Venezuela,CCS,N/A
+LFT,United States,IAH,N/A
+LFW,(LFW) is the largest airport in Togo,ABJ,N/A
+LGA,New York United States,ORD,[ATL; ORD; PIT]
+LGB,United States,SLC,N/A
+LGG,Belgium,ALC,N/A
+LGI,Bahamas,NAS,N/A
+LGK,Malaysia,KUL,N/A
+LGL,Long Datih Malaysia,MUR,N/A
+LGP,Legazpi Philippines,MNL,N/A
+LGQ,Ecuador,UIO,N/A
+LGW,London,BCN,[AGP; ALC; BFS; FAO; INV; PFO; PVK; RMU]
+LHE,Lahore,KHI,N/A
+LHG,Australia,WGE,[WGE]
+LHR,London,JFK,[ABZ; AMS; BHD; DUB; EDI; GIB; GVA; NQY; ORK; SIR; SNN; ZRH]
+LHW,Zhongchuan China,URC,[DNH; IQN; JGN; JIC; LNL; YZY]
+LIF,New Caledonia,GEA,[GEA]
+LIG,Limoges France,ORY,N/A
+LIH,United States,HNL,N/A
+LIK,Marshall Islands,MAJ,N/A
+LIL,Lille France,BOD,N/A
+LIM,Lima,CUZ,[AQP; AYP; AYX; CHH; CIX; CJA; CUZ; HUU; ILQ; IQT; JAE; JAU; JUL; PCL; PEM; PIU; TBP; TCQ; TGI; TPP; TRU; TYL]
+LIN,Milan,FCO,[FCO; NAP; PEG]
+LIO,Costa Rica,SJO,N/A
+LIR,Liberia,SJO,[ECI; FON]
+LIS,Lisbon,MAD,[FNC; LAD; PDL]
+LIT,Little Rock United States,DFW,N/A
+LIW,Myanmar,RGN,N/A
+LIX,Malawi,ZZU,N/A
+LJG,China,KMG,N/A
+LJU,Slovenia,FRA,N/A
+LKA,Indonesia,KOE,N/A
+LKB,Fiji,SUV,N/A
+LKE,Seattle United States,FBS,[FBS]
+LKH,Malaysia,MUR,N/A
+LKL,Norway,TOS,N/A
+LKN,Norway,BOO,N/A
+LKO,India,DEL,N/A
+LKY,United Republic of Tanzania,SEU,[ARK]
+LLA,Lulea Sweden,ARN,[PJA]
+LLB,China,KWE,N/A
+LLF,Yongzhou China,KMG,N/A
+LLI,Lalibela Ethiopia,ADD,N/A
+LLJ,Lubuklinggau Indonesia,CGK,N/A
+LLK,Azerbaijan,VKO,N/A
+LLM,Malaysia,HIR,N/A
+LLO,Palopo Indonesia,UPG,N/A
+LLV,China,PEK,N/A
+LLW,Lilongwe,BLZ,[BLZ; CMK; ZZU]
+LMA,humina (LMA) is a smaller airport in United States,FAI,N/A
+LMC,Colombia,BOG,N/A
+LML,Marshall Islands,KWA,[UJE]
+LMM,Los Mochis Mexico,MEX,N/A
+LMN,Malaysia,MYY,N/A
+LMP,Italy,BLQ,N/A
+LMU,Bukit Padi Indonesia,BTH,N/A
+LNB,Vanuatu,VLI,N/A
+LNE,Vanuatu,VLI,N/A
+LNJ,China,KMG,N/A
+LNK,United States,ORD,N/A
+LNL,Longan China,LHW,N/A
+LNO,Australia,PER,[LVO]
+LNS,United States,PIT,N/A
+LNV,Papua New Guinea,RAB,N/A
+LNY,United States,HNL,N/A
+LNZ,Linz,FRA,N/A
+LOD,Vanuatu,SON,N/A
+LOE,Thailand,DMK,N/A
+LOH,Loja Ecuador,UIO,N/A
+LOK,Kenya,EDL,N/A
+LOO,Algeria,ALG,N/A
+LOP,Praya Indonesia,DPS,[BMU; SWQ]
+LOS,Nigeria,ABV,[ABB; ABV; AKR; BNI; ENU; IBA; KAD; PHC; QOW; QRW; QUO]
+LPA,Spain,TFN,[ACE; FUE; TFN; TFS]
+LPB,La Paz,VVI,[CIJ; RBQ; UYU; VVI]
+LPF,China,KWE,N/A
+LPI,Linkoping Sweden,AMS,N/A
+LPK,Russian Federation,DME,N/A
+LPL,United Kingdom,BFS,N/A
+LPM,Vanuatu,NUS,N/A
+LPP,Finland,SXF,N/A
+LPQ,Laos,VTE,N/A
+LPT,Thailand,DMK,N/A
+LPX,Latvia,RIX,N/A
+LPY,Le Puy France,ORY,N/A
+LQM,Colombia,FLA,N/A
+LRD,Mexico,DFW,N/A
+LRE,Australia,BNE,[BCI; BKQ; WIN]
+LRH,La Rochelle France,PIS,[PIS]
+LRM,Dominican Republic,VKO,N/A
+LRR,Iran,SHJ,N/A
+LRS,Greece,ATH,N/A
+LRT,Lorient France,CDG,N/A
+LRV,Venezuela,CCS,N/A
+LSA,Papua New Guinea,GUR,N/A
+LSC,La Serena Chile,SCL,N/A
+LSE,United States,ORD,N/A
+LSH,Myanmar,HEH,N/A
+LSI,United Kingdom,ABZ,N/A
+LSP,Paraguana,AUA,N/A
+LST,Australia,MEL,[CBI; FLS]
+LSW,Lhoksumawe Indonesia,KNO,N/A
+LSY,Australia,GFN,[GFN]
+LTI,Mongolia,ULZ,N/A
+LTN,London United Kingdom,AMS,[BCM; CDT; CRA; DEB; KUN; TAT]
+LTO,Mexico,TIJ,N/A
+LUA,Nepal,KTM,N/A
+LUD,Namibia,ERS,N/A
+LUH,India,DEL,N/A
+LUK,United States,BKL,[BKL; MMU; PDK]
+LUM,China,KMG,N/A
+LUN,Zambia,NLA,[JEK; KLB; MFU; NLA; SLI]
+LUO,Angola,LAD,N/A
+LUP,United States,MKK,N/A
+LUQ,Argentina,AEP,N/A
+LUV,Kai Islands Indonesia,AMQ,[DOB]
+LUW,Luwuk Indonesia,UPG,N/A
+LUX,Luxemburg,MUC,N/A
+LUZ,Swidnik Poland,WAW,N/A
+LVI,Zambia,JNB,N/A
+LVO,Australia,LNO,N/A
+LVP,Iran,SYZ,N/A
+LWB,Lewisburg United States,ORD,N/A
+LWE,Lewoleba Indonesia,KOE,N/A
+LWK,wall Airport (LWK) is a smaller airport in United Kingdom,FIE,[FIE; FOA]
+LWN,Armenia,VKO,N/A
+LWO,Lvov,WAW,N/A
+LWS,United States,SLC,N/A
+LWY,Malaysia,MYY,[BKM]
+LXA,China,CTU,[AHJ; GXH; NGQ]
+LXG,Lao People's Democratic Republic,VTE,N/A
+LXR,Egypt,CAI,N/A
+LXS,Greece,ATH,N/A
+LYA,China,SHA,N/A
+LYB,Cayman Islands,GCM,N/A
+LYC,Sweden,ARN,[VHM]
+LYG,China,DLC,N/A
+LYH,United States,CLT,N/A
+LYI,China,HGH,N/A
+LYP,Pakistan,KHI,N/A
+LYR,Longyearbyen,OSL,N/A
+LYS,Lyon,BOD,[CFR; ETZ; NTE; QSF]
+LZC,Mexico,MEX,N/A
+LZH,Liuzhou China,PEK,N/A
+LZN,China,TSA,N/A
+LZO,China,KMG,N/A
+LZY,China,CTU,N/A
+MAA,Madras India,DEL,[CJB; CMB; IXM; IXZ; RDP; SXV; TCR; TRZ]
+MAB,Brazil,BSB,N/A
+MAD,Madrid,BCN,[BCN; BIO; BJZ; BLQ; BRU; EAS; LCG; LEI; LIS; OPO; OVD; PNA; RJL; SCQ; SDR; TNG; VGO; XCR; XRY]
+MAF,United States,DFW,N/A
+MAG,Papua New Guinea,POM,N/A
+MAH,Menorca Spain,PMI,N/A
+MAJ,Majuro,KWA,[JEJ; KWA; LIK; MIJ; NDK; UIT; UTK; WTE]
+MAM,Matamoros Mexico,MEX,N/A
+MAN,United Kingdom,AMS,[EXT; IOM]
+MAO,Manaus Brazil,GRU,[BAZ; CAF; CIZ; LBR; MBZ; PIN; PVH; SJL; TBT; TFF]
+MAQ,Tak Thailand,DMK,N/A
+MAR,Maracaibo,CCS,N/A
+MAS,Los Negros Island Papua New Guinea,KVG,N/A
+MAU,French Polynesia,RFP,N/A
+MAZ,Mayaguez,SJU,N/A
+MBA,Mombasa,NBO,[NBO; UKA]
+MBE,Japan,HND,N/A
+MBI,United Republic of Tanzania,DAR,N/A
+MBJ,Montego Bay,NEG,[KTP; NEG; OCJ]
+MBL,United States,MDW,N/A
+MBS,Saginaw United States,DTW,N/A
+MBT,Philippines,MNL,N/A
+MBZ,Brazil,MAO,N/A
+MCE,United States,LAX,N/A
+MCG,United States,ANC,N/A
+MCI,United States,ORD,N/A
+MCK,United States,DEN,N/A
+MCM,Monaco,NCE,[NCE]
+MCN,Macon United States,BWI,N/A
+MCO,United States,ATL,[BDL; BQN; EWR; ISP; LBE; PSE; TTN]
+MCP,Brazil,BEL,N/A
+MCT,Muscat,DXB,[DQM; KHS; SLL]
+MCV,McArthur River Mine Australia,DRW,N/A
+MCW,United States,MSP,N/A
+MCX,Makhachkala Russian Federation,VKO,N/A
+MCY, Coast (MCY) is a smaller airport in Australia,SYD,N/A
+MCZ,Maceio Brazil,GRU,N/A
+MDC,Manado Indonesia,CGK,[GLX; KAZ; MNA; NAH; TTE]
+MDE,Rio Negro,BOG,[BOG]
+MDG,China,DLC,N/A
+MDK,Congo,FIH,N/A
+MDL,Myanmar,RGN,[BMO; HOX; KHM; KMV; MYT]
+MDQ,Argentina,AEP,N/A
+MDR,United States,MRE,[OLG]
+MDT,United States,ORD,N/A
+MDW,United States,MSP,[MBL]
+MDZ,Mendoza,AEP,N/A
+MEA,Brazil,CAW,N/A
+MEB,Australia,KNS,[KNS; WOL]
+MEC,Manta,UIO,N/A
+MED,Medina,RUH,N/A
+MEE,Maré,GEA,N/A
+MEH,Mehamn Norway,HVG,[BJF]
+MEI,Meridian United States,ORD,N/A
+MEL,Australia,SYD,[ADL; BQB; BWT; DPO; HBA; LST; MQL; PER; SYD]
+MEM,United States,ATL,N/A
+MEQ,Meulaboh Indonesia,KNO,N/A
+MEU,Brazil,GGF,N/A
+MEX,Mexico City,GDL,[ACA; AGU; BJX; CEN; CJS; CLQ; CME; CPE; CTM; CUL; CUN; CUU; CVM; DGO; GDL; HMO; HUX; IZT; LAP; LMM; LZC; MAM; MID; MTT; MTY; MXL; MZT; NLD; OAX; PAZ; PDS; PQM; PVR; PXM; REX; SJD; SLP; SLW; TAM; TAP; TGZ; TIJ; TPQ; TRC; TSL; VER; VSA; ZCL; ZIH; ZLO]
+MFA,Tanzania,DAR,[KIY]
+MFE,Mcallen United States,DFW,N/A
+MFK,Maikeng China,TSA,N/A
+MFM,Macao,TPE,N/A
+MFQ,Niger,NIM,[ZND]
+MFR,United States,SEA,N/A
+MFU,Mpuwe,LUN,N/A
+MGA,Nicaragua,PTY,[BEF; PUZ; SIU; WSP]
+MGB,Australia,ADL,N/A
+MGF,Brazil,CWB,N/A
+MGH,South Africa,JNB,N/A
+MGM,United States,ATL,N/A
+MGQ,Somalia,NBO,[AAD; BSA; GLK; GUO; KMU]
+MGT,Australia,MNG,N/A
+MGU,Myanmar,KYP,N/A
+MGW,United States,PIT,N/A
+MGZ,Myanmar,RGN,N/A
+MHC,Castro Chile,SCL,N/A
+MHD,Iran,THR,[AJK; NSH; THR]
+MHG,Germany,HAM,N/A
+MHH,Marsh Harbor,FLL,N/A
+MHK,United States,DFW,N/A
+MHM,Lake Minchumina United States,ATD,[ATD]
+MHQ,Finland,ARN,N/A
+MHT,United States,PHL,N/A
+MIA,United States,ATL,[GCM; HAV; NAS; UVF]
+MID,Merida Mexico,MEX,N/A
+MIG,China,PEK,N/A
+MII,Brazil,CGH,N/A
+MIJ,Marshall Islands,MAJ,[EJT]
+MIM,Australia,MYA,[OOM]
+MIR,Monastir,ORY,N/A
+MIS,Papua New Guinea,GUR,N/A
+MIU,Nigeria,ABV,N/A
+MJB,Marshall Islands,AIM,[AIM]
+MJC,Cote d'Ivoire,KEO,N/A
+MJD,Mohenjo-daro Pakistan,KHI,N/A
+MJE,Marshall Islands,JEJ,N/A
+MJF,Mosjoen Norway,TRD,N/A
+MJI,Tripoli,TUN,N/A
+MJK,Denham Australia,CVQ,N/A
+MJM,Mbuji-Mayi,FIH,N/A
+MJN,Madagascar,DZA,N/A
+MJT,Mytilini Greece,ATH,N/A
+MJU,Mamuju Indonesia,UPG,N/A
+MJZ,Russia,OVB,N/A
+MKE,Milwaukee United States,ORD,N/A
+MKG,United States,ORD,N/A
+MKK,United States,HNL,[LUP]
+MKL,Jackson United States,STL,N/A
+MKM,Malaysia,KCH,N/A
+MKP,French Polynesia,PPT,[HOI]
+MKQ,Merauke Indonesia,DJJ,N/A
+MKR,Australia,PER,[WUN]
+MKW,Manokwari Indonesia,UPG,N/A
+MKY,Australia,BNE,N/A
+MKZ,Malaysia,PEN,N/A
+MLA,Valletta,FCO,N/A
+MLB,United States,ATL,N/A
+MLE,Maldives,DRV,[DDD; DRV; GAN; GKK; HAQ; KDM; KDO; TMF; VAM]
+MLG,Malang Indonesia,CGK,N/A
+MLH,France,ORY,N/A
+MLI,Moline United States,ORD,N/A
+MLL,United States,RSH,N/A
+MLM,Morelia Mexico,TIJ,N/A
+MLN,Spain,AGP,N/A
+MLO,Greece,ATH,N/A
+MLU,United States,ATL,N/A
+MLX,Malatya Turkey,SAW,N/A
+MMB,Japan,CTS,N/A
+MME,Darlington United Kingdom,AMS,N/A
+MMG,Australia,PER,N/A
+MMH,Mammoth Lakes United States,LAX,N/A
+MMJ,Japan,FUK,N/A
+MMK,Russian Federation,SVO,N/A
+MMO,Cape Verde,RAI,N/A
+MMU,United States,LUK,N/A
+MMX,Malmo,BMA,[BMA]
+MMY,Miyakojima Japan,OKA,N/A
+MMZ,Afghanistan,KBL,N/A
+MNA,Indonesia,MDC,N/A
+MNC,Mozambique,MPM,N/A
+MNG,Maningrida Australia,DRW,[ELC; MGT]
+MNI,Plymouth,ANU,[ANU]
+MNL,Manila,CEB,[BCD; BSI; BXU; CBO; CEB; CGY; CYZ; DGT; DPL; DVO; ENI; GES; ICO; ILO; LAO; LGP; MBT; MPH; MRQ; PAG; PPS; RXS; SJI; SWL; TAC; TAG; TBH; TUG; USU; VRC; WNP; ZAM]
+MNS,Zambia,NLA,N/A
+MNU,Myanmar,KAW,N/A
+MNY,tions with 1 airline in scheduled passenger traffic,GZO,N/A
+MOB,United States,ATL,N/A
+MOC,Brazil,CNF,N/A
+MOF,Maumere Indonesia,KOE,N/A
+MOG,Mong Hsat Myanmar,HEH,N/A
+MOH,Mohanbari India,PLW,N/A
+MOL,Molde Norway,OSL,N/A
+MOO,Australia,ADL,[BBL]
+MOQ,Madagascar,TNR,N/A
+MOT,United States,MSP,N/A
+MOU,United States,KSM,[KSM]
+MOV,Australia,BNE,N/A
+MOZ,French Polynesia,PPT,N/A
+MPA,Katima Mulilo Namibia,ERS,N/A
+MPH,Caticlan Philippines,MNL,N/A
+MPL,Montpellier France,ORY,N/A
+MPM,Mozambique,JNB,[APL; BEW; INH; MNC; POL; TET; UEL; VPY]
+MPN,Falkland Islands,SID,N/A
+MQF,Russian Federation,SVO,N/A
+MQJ,Khonu Russian Federation,YKS,N/A
+MQL,Australia,MEL,N/A
+MQM,Turkey,IST,N/A
+MQN,Mo I Rana Norway,TRD,N/A
+MQP,Nelspruit South Africa,JNB,[ASS; NGL; PZL]
+MQQ,Chad,SRH,[SRH]
+MQT,Marquette United States,DTW,N/A
+MQX,Makale,ADD,[ADD; HUE]
+MRA,Libyan Arab Jamahiriya,TUN,N/A
+MRE,Masai Mara,HKR,[MDR; WIL]
+MRQ,Gasan Philippines,MNL,N/A
+MRS,Marseille,ORY,[CFK; CLY; FSC]
+MRU,Plaisance,RUN,[RRG; RUN; ZSE]
+MRV,Cherkessk Russia,SVO,N/A
+MRX,Bandar Mahshahr Iran,THR,N/A
+MRY,ula (MRY) is a mid-sized airport in United States,PHX,N/A
+MRZ,Australia,SYD,N/A
+MSA,Muskrat Dam Lake Canada,XBE,N/A
+MSJ,Japan,HND,N/A
+MSL,Muscle Shoals United States,ATL,N/A
+MSN,Madison United States,ORD,N/A
+MSO,United States,SEA,N/A
+MSP,United States,ORD,[ABR; BIS; BJI; BRD; CIU; DLH; FAR; GFK; HIB; IMT; INL; MCW; MDW; MOT; RHI; TVF]
+MSQ,Belarus,SVO,[IEV]
+MSR,Turkey,SAW,N/A
+MSS,United States,BOS,N/A
+MST,Netherlands,ALC,N/A
+MSU,Maseru,JNB,N/A
+MSY,United States,ATL,N/A
+MSZ,Mocamedes Angola,LAD,N/A
+MTJ,United States,DEN,N/A
+MTM,United States,KTN,N/A
+MTR,Monteria Colombia,BOG,N/A
+MTT,Mexico,MEX,N/A
+MTV,Vanuatu,TOH,[TOH]
+MTY,Monterrey,MEX,[PBC; QRO; TLC]
+MUA,Solomon Islands,HIR,N/A
+MUB,Botswana,JNB,N/A
+MUC,Germany,TXL,[AOI; BRE; DRS; DUS; FMO; GRZ; HAJ; HAM; LUX; PAD; RJK; RLG; SBZ; VOL]
+MUE,United States,OGG,N/A
+MUN,Venezuela,CCS,N/A
+MUR,Malaysia,MYY,[LBP; LGL; LKH; ODN]
+MUX,Pakistan,DXB,N/A
+MVB,Gabon,LBV,N/A
+MVD,Montevideo,AEP,N/A
+MVF,Mossoro Brazil,REC,N/A
+MVL,United States,HPN,N/A
+MVP,Mitu Colombia,BOG,N/A
+MVR,Cameroon,GOU,N/A
+MVT,French Polynesia,RGI,N/A
+MVY,Vineyard Haven United States,BOS,N/A
+MWA,Marion United States,STL,N/A
+MWF,Vanuatu,SON,N/A
+MWK,Matak Indonesia,TNJ,N/A
+MWQ,Myanmar,RGN,N/A
+MWX,South Korea,CJU,N/A
+MWZ,Tanzania United Republic of,DAR,[BKZ]
+MXH,Papua New Guinea,HGU,N/A
+MXL,Mexicali Mexico,MEX,N/A
+MXP,Milano,CTA,[CIY; OLB; SUF]
+MXV,Mongolia,ULN,N/A
+MXZ,China,CAN,N/A
+MYA,Australia,SYD,[MIM]
+MYD,Kenya,NBO,N/A
+MYG,Bahamas,NAS,N/A
+MYI,Australia,NLF,N/A
+MYJ,Japan,ITM,N/A
+MYP,Turkmenistan,ASB,N/A
+MYQ,India,HYD,N/A
+MYR,United States,CLT,N/A
+MYT,Myanmar,MDL,[PBU]
+MYU,United States,OOK,[NME]
+MYW,Tanzania United Republic of,DAR,N/A
+MYY,Malaysia,KUL,[BBN; LMN; LWY; MUR; MZV]
+MZG,Taiwan,KHH,[CYI; KHH; TNN]
+MZH,Turkey,IST,N/A
+MZL,Manizales Colombia,BOG,N/A
+MZO,Manzanillo Cuba,VRA,N/A
+MZR,Mazar-I-Sharif,KBL,N/A
+MZT,Mazatlan Mexico,MEX,N/A
+MZV,Malaysia,MYY,N/A
+NAA,Australia,SYD,N/A
+NAG,India,BOM,N/A
+NAH,Indonesia,MDC,N/A
+NAJ,Nakhchivan,IST,N/A
+NAL,Russian Federation,VKO,N/A
+NAM,Indonesia,AMQ,N/A
+NAN,Fiji,SUV,[KDV; RTA; SUV; SVU; TRW; TVU]
+NAO,China,SZX,N/A
+NAP,Italy,LIN,[TSF]
+NAQ,Greenland,SRK,[SRK; THU]
+NAS,Bahamas,MIA,[AXP; CRI; ELH; FPO; GGT; GHB; IGA; LGI; MYG; RSD; SML; ZSA]
+NAT,Natal Brazil,GRU,N/A
+NAV,Nevsehir Turkey,SAW,N/A
+NAW,Thailand,DMK,N/A
+NBC,United States,SVO,N/A
+NBE,Tunisia,DJE,N/A
+NBO,Nairobi,MBA,[BJM; EBB; EDL; FIH; KIS; MBA; MGQ; MYD; TNR; WJR]
+NBS,China,YNT,N/A
+NBX,Indonesia,DJJ,N/A
+NCE,Nice,MCM,[MCM]
+NCJ,Argentina,SFN,N/A
+NCL,United Kingdom,ABZ,N/A
+NCU,Uzbekistan,TAS,N/A
+NDB,Mauritania,NKC,[OUZ]
+NDC,India,HYD,N/A
+NDG,China,DLC,N/A
+NDJ,N'Djamena,DLA,[FYT]
+NDK,Marshall Islands,MAJ,[KIO]
+NDR,Nador Morocco,CMN,N/A
+NDU,Namibia,ERS,N/A
+NEG,Jamaica,MBJ,[MBJ]
+NER,Chulman Russia,OVB,N/A
+NEU,Lao People's Democratic Republic,VTE,N/A
+NEV,Charlestown,SJU,N/A
+NFO,Niuafoʻou Tonga,VAV,N/A
+NGB,China,CAN,N/A
+NGD,Anegada,STT,N/A
+NGE,Cameroon,DLA,N/A
+NGK,Russian Federation,UUS,N/A
+NGL,South Africa,MQP,N/A
+NGO,Japan,CTS,N/A
+NGQ,Shiquanhe China,LXA,N/A
+NGS,Japan,HND,[IKI]
+NHV,Marquesas Islands French Polynesia,AUQ,[AUQ; UAH; UAP]
+NIM,Niamey,OUA,[MFQ; OUA]
+NIQ,Greenland,UMD,N/A
+NIS,Papua New Guinea,RAB,N/A
+NIU,Fakarava Niau French Polynesia,FAV,N/A
+NJC,Russian Federation,SVO,N/A
+NJF,Iraq,IKA,[DAM]
+NKC,Mauritania,DSS,[NDB]
+NKG,Nanjing China,CAN,[AVA; LCX]
+NKI,United States,EDA,[WWP]
+NKM,Japan,FUK,N/A
+NKT, Mcas (NKT) is a smaller airport in United States,ESB,N/A
+NLA,Zambia,LUN,[LUN; MNS]
+NLD,Nuevo Laredo Mexico,MEX,N/A
+NLF,Australia,OKR,[MYI]
+NLH,China,KMG,N/A
+NLI,Russian Federation,KHV,N/A
+NLK,Australia,SYD,N/A
+NLT,Xinyuan China,URC,N/A
+NMA,Uzbekistan,TAS,N/A
+NME,United States,MYU,N/A
+NNB,Santa Ana Island Solomon Islands,IRA,N/A
+NNG,Nanning China,PEK,[AEB]
+NNM,Russian Federation,ARH,N/A
+NNT,Thailand,DMK,N/A
+NNX,Indonesia,TRK,N/A
+NNY,China,CAN,N/A
+NOB,Costa Rica,SJO,N/A
+NOC,Ireland,STN,N/A
+NOJ,Russian Federation,VKO,N/A
+NOP,Turkey,IST,N/A
+NOS,Nosibe,TNR,N/A
+NOU,Noumea,SYD,N/A
+NOV,Angola,LAD,N/A
+NOZ,Novokuznetsk Russian Federation,DME,N/A
+NPE,New Zealand,AKL,N/A
+NPL,New Zealand,AKL,N/A
+NQN,Neuquen Argentina,AEP,N/A
+NQY,Newquay United Kingdom,LHR,N/A
+NQZ,Tselinograd,ALA,N/A
+NRA,Australia,GFF,N/A
+NRE,Indonesia,AMQ,N/A
+NRK,Norrkoping Sweden,VBY,N/A
+NRN,Weeze Germany,PMO,N/A
+NRR,Ceiba Puerto Rico,CPX,N/A
+NRT,Japan,ICN,[SHI]
+NSH,Iran,MHD,N/A
+NSI,Cameroon,DLA,[DLA; GOU]
+NSK,Norilsk Russian Federation,DME,[DKS; HTG]
+NSN,New Zealand,WLG,N/A
+NSQ,Greenland,JUV,N/A
+NST,Nakhon Si Thammarat Thailand,DMK,N/A
+NTB,Norway,BGO,N/A
+NTE,France,LYS,N/A
+NTG,China,CAN,N/A
+NTL,Australia,BNE,N/A
+NTN,Australia,CNS,[KRB; ONG]
+NTQ,Wajima Japan,HND,N/A
+NTT,Tonga,VAV,N/A
+NTX,Indonesia,BTH,N/A
+NUE,Nuremberg Germany,FRA,N/A
+NUF,Hatton Sri Lanka,KCT,N/A
+NUI,United States,SCC,[SCC]
+NUL,United States,GAL,N/A
+NUP,United States,ATT,[KUK]
+NUS,Vanuatu,VLI,[LPM; SWJ]
+NUX,Novy Urengoy Russia,DME,N/A
+NVA,Neiva Colombia,BOG,N/A
+NVI,Uzbekistan,DME,N/A
+NVT,Brazil,CGH,N/A
+NWA,Moheli,HAH,N/A
+NWI,United Kingdom,AMS,N/A
+NYA,Russian Federation,EYK,[EYK]
+NYK,Kenya,WIL,N/A
+NYM,Russian Federation,DME,N/A
+NYO,Stockholm,GDN,N/A
+NYR,Russian Federation,YKS,N/A
+NYT,Naypyidaw Myanmar,RGN,N/A
+NYU,Myanmar,RGN,[RGN]
+NYW,Myanmar,HOX,N/A
+NZH,China,HET,N/A
+NZL,China,HET,N/A
+OAG,Australia,SYD,N/A
+OAJ,United States,CLT,N/A
+OAK,United States,BUR,[BUR; CEC]
+OAL,Germany,CGB,N/A
+OAX,Oaxaca Mexico,MEX,N/A
+OBN,Oban United Kingdom,COL,[COL]
+OBO,Japan,HND,N/A
+OBU,United States,ABL,[SHG]
+OBY,Greenland,CNP,[CNP]
+OCC,Coca Ecuador,UIO,N/A
+OCJ,Ocho Rios,MBJ,N/A
+ODN,Malaysia,MUR,N/A
+ODO,Russian Federation,IKT,N/A
+ODS,Odessa,IST,N/A
+ODY,Muang Xay,VTE,N/A
+OER,Sweden,BMA,N/A
+OFU,United States,PPG,N/A
+OGD,United States,AZA,N/A
+OGG,United States,HNL,[HNL; HNM; MUE]
+OGL,Georgetown,BGI,[ORG]
+OGS,United States,IAD,N/A
+OGU,Gulyali Turkey,SAW,N/A
+OGX,Algeria,ALG,[ELG]
+OGZ,Russian Federation,VKO,N/A
+OHD,Macedonia,BSL,N/A
+OHE,China,JGD,N/A
+OHH,Russian Federation,UUS,N/A
+OHS,Oman,SHJ,N/A
+OIR,Japan,HKD,N/A
+OIT,Japan,HND,N/A
+OKA,Japan,HND,[ISG; MMY; UEO]
+OKC,Oklahoma City United States,DFW,N/A
+OKD,Japan,HKD,[RIS]
+OKE,Wadomari Japan,KOJ,N/A
+OKI,Japan,IZO,N/A
+OKJ,Japan,HND,N/A
+OKL,Indonesia,DJJ,N/A
+OKR,Australia,HID,[NLF]
+OLA,Norway,OSL,N/A
+OLB,Italy,MXP,N/A
+OLF,Wolf Point United States,BIL,N/A
+OLG,Maasai Mara Kenya,MDR,N/A
+OLH,United States,ADQ,N/A
+OLP,Olympic Dam Mine Australia,ADL,N/A
+OLX,Maasai Mara Kenya,OSJ,[KEU]
+OLZ,Olpoi Vanuatu,YKS,N/A
+OMA,Omaha United States,ORD,N/A
+OMD,Namibia,ERS,N/A
+OME,United States,SHH,[GAM; KTS; SHH; SVA; WAA; WMO]
+OMH,Urmia Iran,THR,N/A
+OMO,Bosnia and Herzegovina,ZAG,N/A
+OMR,Romania,OTP,N/A
+OMS,Omsk Russian Federation,SVO,N/A
+OND,Namibia,ERS,[ERS]
+ONG,Mornington Island Australia,NTN,N/A
+ONJ,Japan,HND,N/A
+ONK,Russian Federation,YKS,N/A
+ONQ,Turkey,IST,N/A
+ONS,Australia,PER,N/A
+ONT,United States,PHX,N/A
+OOK,United States,TNK,[MYU]
+OOL,Coolangatta Australia,SYD,N/A
+OOM,Australia,MIM,N/A
+OPO,Portugal,MAD,[BVA; DLE; TUF]
+OPS,Brazil,CGB,N/A
+ORD,United States,LGA,[ABE; ALB; ALO; ATW; ATY; AZO; BMI; BNA; BRL; CAK; CGI; CID; CKB; CLE; CMH; CMI; CMX; COU; CVG; CWA; DAY; DBQ; DEC; DSM; DTW; EAU; EVV; FNT; FSD; FWA; GRB; GRR; ICT; IND; IWD; LAN; LEX; LGA; LNK; LSE; LWB; MCI; MDT; MEI; MKE; MKG; MLI; MSN; MSP; OMA; PAH; PIA; ROC; RST; SBN; SDF; SGF; SLN; SPI; STL; SUX; SYR; TOL; TVC; UIN; XNA]
+ORF,United States,CLT,N/A
+ORG,Paramaribo,OGL,N/A
+ORH,United States,JFK,N/A
+ORI,United States,ADQ,N/A
+ORK,Ireland,LHR,N/A
+ORN,Oran,ALG,N/A
+ORT,United States,TKJ,[CZN]
+ORU,Oruro Bolivia,CBB,N/A
+ORV,Noorvik United States,IAN,[IAN]
+ORY,Paris,TLS,[AGF; AJA; AUR; BES; BIA; BIQ; BJA; BOD; BVE; CAY; CMN; DCM; FEZ; LDE; LIG; LPY; MIR; MLH; MPL; MRS; OUD; PGF; PUF; RDZ; TLM; TLN; TLS; TUN; UIP]
+ORZ,Belize,SPR,N/A
+OSD,Ostersund Sweden,ARN,N/A
+OSI,Croatia,ZAG,N/A
+OSJ,Maasai Mara Kenya,ANA,[OLX]
+OSL,Norway,TRD,[AES; BDU; BGO; BOO; CPH; EVE; FDE; HAU; HOV; LYR; MOL; OLA; RRS; SDN; SRP; SVG; TOS; TRD]
+OSO, Airport (OSO) is a smaller airport in Australia,TSV,N/A
+OSR,Ostrava,STN,N/A
+OSS,Kyrgyzstan,FRU,[FRU]
+OST,Belgium,ALC,[AOE]
+OSW,Russian Federation,SVO,N/A
+OSY,Norway,TRD,N/A
+OTD,Contadora Island,SIC,N/A
+OTH,North Bend United States,SFO,N/A
+OTI,Morotai Island Indonesia,TTE,N/A
+OTP,Bucharest,CDG,[BAY; CLJ; CRL; IAS; KIV; OMR; SCV; SUJ; TSR]
+OTR,Costa Rica,SJO,N/A
+OTZ,Kotzebue United States,WLK,[ABL; DRG; KVL; PHO; WLK; WTK]
+OUA,Burkina Faso,NIM,[BOY; NIM]
+OUD,Oujda Morocco,ORY,N/A
+OUL,Finland,HEL,N/A
+OUZ,Mauritania,NDB,N/A
+OVB,Novosibirsk,DME,[IKU; KJA; MJZ; NER; TLK]
+OVD,Aviles Spain,MAD,N/A
+OVS,Sovetskiy Russian Federation,EYK,N/A
+OWB,United States,BNA,N/A
+OXB,Bissau,DSS,N/A
+OZC,Philippines,CEB,N/A
+OZG,Morocco,CMN,N/A
+OZH,Ukraine,IEV,N/A
+OZZ,Morocco,CMN,N/A
+PAC,Panama,BOC,[ACU; BOC; CHX; CTD; DAV; JQE; PUE; SIC]
+PAD,Germany,MUC,N/A
+PAE,Everett United States,SFO,N/A
+PAG,Philippines,MNL,N/A
+PAH,Paducah United States,ORD,N/A
+PAP,Port-Au-Prince,JBQ,[CAP; CMW; JBQ; SCU]
+PAS,Greece,ATH,N/A
+PAT,India,DEL,N/A
+PAV,Brazil,REC,N/A
+PAZ,Poza Rica Mexico,MEX,N/A
+PBC,Puebla Mexico,MTY,N/A
+PBD,India,AMD,N/A
+PBG,United States,IAD,N/A
+PBH,Bhutan,CCU,[BUT; GLU; PYG; YON]
+PBI,West Palm Beach United States,EWR,N/A
+PBJ,Paama island Vanuatu,ULB,N/A
+PBM,Zandery,AMS,N/A
+PBO,Australia,PER,N/A
+PBR,Guatemala,GUA,N/A
+PBU,Myanmar,MYT,N/A
+PCL,Pucallpa Peru,LIM,N/A
+PCN,New Zealand,WLG,N/A
+PCP,Sao Tome and Principe,TMS,[TMS]
+PCQ,Phongsaly Lao People's Democratic Republic,VTE,N/A
+PCR,Colombia,BOG,N/A
+PDA,Colombia,BOG,N/A
+PDG,Padang Indonesia,CGK,N/A
+PDK,Atlanta United States,LUK,N/A
+PDL,Portugal,LIS,[HOR; PIX; SMA; TER]
+PDP,Punta Del Este,AEP,N/A
+PDS,Mexico,MEX,N/A
+PDT,Pendleton United States,PDX,N/A
+PDV,Bulgaria,STN,N/A
+PDX,United States,SEA,[PDT; SEA]
+PEC,United States,JNU,N/A
+PED,Czech Republic,KBP,N/A
+PEE,Perm Russian Federation,SVO,N/A
+PEG,Italy,LIN,N/A
+PEI,Pereira Colombia,BOG,N/A
+PEK,Beijing,SHA,[BAV; CKG; CSX; CTU; DDG; DQA; FNJ; FOC; JMU; KHN; KWE; LLV; LZH; MIG; NNG; SYX; WUH; XIY; YIC; ZHY; ZUH]
+PEM,Puerto Maldonado Peru,LIM,N/A
+PEN,Malaysia,KUL,[MKZ; SZB]
+PER,Australia,MEL,[ALH; BME; BWB; BYP; CJF; CVQ; EPR; GET; GTS; KGI; KTA; LEA; LER; LNO; MKR; MMG; ONS; PBO; PHE; SLJ; TEF; WME; XCH; ZNE]
+PES,Russian Federation,VKO,N/A
+PET,Brazil,POA,N/A
+PEU,Honduras,TGU,N/A
+PEW,Pakistan,DXB,N/A
+PEX,Russian Federation,INA,[INA]
+PEZ,Penza Russian Federation,DME,N/A
+PFB,Passo Fundo Brazil,VCP,N/A
+PFO,Cyprus,LGW,N/A
+PFQ,Iran,THR,N/A
+PGA,United States,PHX,[BLD; GCN]
+PGD,United States,CVG,[LCK; PSM]
+PGF,Perpignan France,ORY,N/A
+PGH,India,DED,N/A
+PGK,Indonesia,CGK,N/A
+PGU,Iran,THR,N/A
+PGV,United States,CLT,N/A
+PGZ,Ponta Grossa Brazil,VCP,N/A
+PHB,Brazil,THE,N/A
+PHC,Nigeria,LOS,N/A
+PHE,Australia,PER,N/A
+PHF,United States,CLT,N/A
+PHL,United States,BOS,[ART; BGR; HVN; IPT; ITH; MHT; PWM; SCE; SWF]
+PHO,United States,OTZ,N/A
+PHQ,Phosphate Hill Australia,TSV,N/A
+PHS,Thailand,DMK,N/A
+PHW,South Africa,JNB,N/A
+PHX,United States,DEN,[ABQ; BFL; FLG; HHR; MRY; ONT; PGA; SBP; SOW; YUM]
+PIA,United States,ORD,N/A
+PIB,United States,DFW,N/A
+PIE,Pinellas County United States,AVL,N/A
+PIH,United States,SLC,N/A
+PIK,United Kingdom,ALC,N/A
+PIN,Parintins Brazil,MAO,[TMT]
+PIO,Peru,CUZ,N/A
+PIR,United States,DEN,N/A
+PIS,Poitiers France,LRH,[LRH]
+PIT,United States,LGA,[AOO; BFD; DUJ; JST; LNS; MGW]
+PIU,Piura,LIM,N/A
+PIX,Portugal,PDL,N/A
+PIZ,United States,BRW,N/A
+PJA,Sweden,LLA,N/A
+PJG,Pakistan,KHI,N/A
+PJM,Costa Rica,SJO,N/A
+PKA,United States,BET,[WNA]
+PKB,Parkersburg United States,BKW,N/A
+PKC,Petropavlovsk Russian Federation,VVO,N/A
+PKE,Australia,SYD,N/A
+PKN,Pangkalan Bun Indonesia,SRG,N/A
+PKO,Benin,COO,N/A
+PKR,Nepal,KTM,[KTM]
+PKU,Pekanbaru Indonesia,CGK,[DUM]
+PKV,Pskov Russian Federation,VKO,N/A
+PKX, International (PKX) is an airport in China,SHA,[DSN; JUZ]
+PKY,Palangkaraya Indonesia,CGK,N/A
+PKZ,Laos,VTE,N/A
+PLJ,Belize,BZE,[INB]
+PLM,Palembang Indonesia,CGK,[PXA]
+PLN,United States,DTW,N/A
+PLO,oln (PLO) is a smaller airport in Australia,ADL,N/A
+PLQ,Lithuania,RIX,N/A
+PLS,Turks and Caicos Islands,GDT,[GDT; XSC]
+PLW,Palu Indonesia,UPG,[MOH; TLI; UOL]
+PLX,Kazakhstan,ALA,N/A
+PLZ,South Africa,JNB,N/A
+PMA,Kenya,ZNZ,N/A
+PMC,Puerto Montt,SCL,N/A
+PMF,Italy,CAG,N/A
+PMI,Spain,BCN,[IBZ; ILD; MAH; VLC; ZAZ]
+PMK,Australia,TSV,N/A
+PMO,Italy,FCO,[NRN]
+PMR,New Zealand,AKL,N/A
+PMV,Porlamar,CCS,[CCS; TUV]
+PMW,Brazil,GYN,N/A
+PMZ,Costa Rica,SJO,N/A
+PNA,Spain,MAD,N/A
+PND,Belize,BZE,N/A
+PNG,Brazil,CWB,N/A
+PNH,Cambodia,BKK,[KOS; REP]
+PNI,Micronesia,TKK,[TKK]
+PNK,Pontianak Indonesia,CGK,[KTG; PSU; SQG]
+PNL,Italy,FCO,N/A
+PNP,Papua New Guinea,POM,[TFI]
+PNQ,India,DEL,N/A
+PNR,Pointe-Noire,BZV,[BZV]
+PNS,United States,ATL,N/A
+PNT,Chile,SCL,N/A
+PNY,India,HYD,N/A
+PNZ,Brazil,GRU,N/A
+POA,Porto Alegre Brazil,GRU,[BGX; GEL; GRU; PET; RIA; RIG; RVY; SRA; URG]
+POG,Port-Gentil,LBV,[LBV]
+POL,Mozambique,MPM,N/A
+POM,Papua New Guinea,LAE,[DAU; GKA; GUR; HGU; KOM; LAE; MAG; PNP; RAB; UNG]
+POP,Puerto Plata,YYZ,N/A
+POR,Finland,HEL,N/A
+POS,Port-Of-Spain,TAB,[GEO; GND; TAB]
+POZ,Poznan Poland,WAW,N/A
+PPB,Brazil,VCP,N/A
+PPG,United States,FTI,[FTI; OFU]
+PPK,Kazakhstan,ALA,N/A
+PPN,Popayan Colombia,BOG,N/A
+PPP,Australia,BNE,N/A
+PPQ,New Zealand,AKL,N/A
+PPS,esa (PPS) is a smaller airport in Philippines,MNL,[CYU]
+PPT,Papeete,BOB,[AAA; APK; BOB; FAC; FAV; GMR; HUH; KHZ; KKR; MKP; MOZ; RFP; RGI; RUR; TKX; TUB; XMH]
+PPV,United States,KTN,[KPB]
+PQC,Phu Quoc,SGN,N/A
+PQI, Rgnl At Presque Isle (PQI) is a smaller airport in United States,EWR,N/A
+PQM,Mexico,MEX,N/A
+PQQ,Australia,SYD,N/A
+PQS,United States,BET,N/A
+PRA,Parana Argentina,AEP,N/A
+PRC,Prescott United States,DEN,N/A
+PRG,Prague,SVO,[KSC; WAW]
+PRH,Thailand,DMK,N/A
+PRI,Seychelles,SEZ,[SEZ]
+PRM,Portugal,CAT,[CAT]
+PRN,Kosovo,ZRH,N/A
+PRS,Solomon Islands,HIR,N/A
+PSA,Italy,FCO,[GRO]
+PSC,Pasco United States,SEA,N/A
+PSE,Ponce United States,MCO,N/A
+PSG,United States,JNU,N/A
+PSJ,Poso Indonesia,UPG,N/A
+PSM,Portsmouth United States,PGD,N/A
+PSO,Pasto Colombia,BOG,N/A
+PSP,s International (PSP) is a mid-sized airport in United States,SFO,N/A
+PSR,Italy,BGY,N/A
+PSS,Argentina,AEP,N/A
+PSU,Indonesia,PNK,N/A
+PTG,South Africa,JNB,N/A
+PTO,Brazil,CWB,N/A
+PTP,Pointe-A-Pitre,FDF,[DCF; FDF; SFG]
+PTQ,Brazil,BVS,N/A
+PTU,United States,BET,[GNU]
+PTX,Colombia,BOG,N/A
+PTY,Panama City,BOG,[MGA; PUJ; VLN]
+PUB,United States,DEN,N/A
+PUE,Panama,PAC,N/A
+PUF,France,ORY,N/A
+PUG,Australia,ADL,[CPD]
+PUJ,Dominican Republic,PTY,N/A
+PUM,Indonesia,UPG,N/A
+PUQ,Punta Arenas Chile,SCL,[WPR; WPU]
+PUS,Kimhae,GMP,N/A
+PUU,Puerto Asis Colombia,BOG,N/A
+PUW,United States,SEA,N/A
+PUY,Croatia,ZAD,[ZAD]
+PUZ,Nicaragua,MGA,N/A
+PVC,United States,BOS,N/A
+PVD,Providence United States,DCA,N/A
+PVG,Shanghai,HKG,[AOG; CGQ; DLC; HDG; HRB; HZG; KWL; SHE; SQJ; TEN; ZHA]
+PVH,Porto Velho Brazil,MAO,N/A
+PVI,Brazil,CWB,N/A
+PVK,Preveza Greece,LGW,N/A
+PVR,Puerto Vallarta Mexico,MEX,N/A
+PVU,United States,AZA,[AZA]
+PWE,Russian Federation,YKS,N/A
+PWM,United States,PHL,N/A
+PWQ,Kazakhstan,TSE,N/A
+PXA,Lahat Indonesia,PLM,N/A
+PXM,Mexico,MEX,N/A
+PXO,Portugal,FNC,N/A
+PXU,Vietnam,SGN,N/A
+PYC,Panama,ACU,N/A
+PYG,Gangtok India,PBH,N/A
+PYH,Puerto Ayacucho Venezuela,CCS,N/A
+PYJ,Udachny Russia,IKT,N/A
+PZB,South Africa,JNB,N/A
+PZH,Pakistan,ISB,N/A
+PZI,China,CTU,N/A
+PZL,Phinda South Africa,MQP,N/A
+PZO,Venezuela,CCS,N/A
+PZU,Sudan,KRT,N/A
+QBC,Canada,YVR,N/A
+QOW,Imo Nigeria,LOS,N/A
+QRC,Rancagua Chile,SCL,N/A
+QRO,Queretaro Mexico,MTY,N/A
+QRW,Warri Nigeria,LOS,N/A
+QSF,Setif Algeria,LYS,N/A
+QSZ,China,URC,N/A
+QUO,Uyo,LOS,N/A
+RAB,Papua New Guinea,POM,[BUA; KVG; LNV; NIS]
+RAE,Saudi Arabia,RUH,N/A
+RAH,Saudi Arabia,RUH,N/A
+RAI,Cape Verde,SID,[MMO; SFL; SID; VXE]
+RAJ,India,BOM,N/A
+RAK,Marrakech,CMN,N/A
+RAO,Ribeirao Preto Brazil,GRU,N/A
+RAP,United States,DEN,N/A
+RAQ,Raha Indonesia,UPG,N/A
+RAR,Avarua,AIT,[AIT]
+RAS,Iran,THR,N/A
+RBA,Rabat Morocco,CDG,N/A
+RBQ,Bolivia,LPB,N/A
+RBR,Rio Branco Brazil,BSB,[CZS]
+RBV,Ramata Island Solomon Islands,EGM,N/A
+RBY,United States,FAI,N/A
+RCB,South Africa,JNB,N/A
+RCH,Colombia,BOG,N/A
+RCM,Australia,HGD,[HGD]
+RCU,Argentina,AEP,N/A
+RDD,United States,SFO,N/A
+RDM,United States,SEA,N/A
+RDP,Andal India,MAA,N/A
+RDU,United States,ATL,N/A
+RDV,United States,SLQ,[CKD]
+RDZ,Rodez France,ORY,N/A
+REC,Recife Brazil,GRU,[ARX; CPV; FEC; FEN; MVF; PAV]
+REG,Italy,FCO,N/A
+REL,Trelew Argentina,AEP,N/A
+REN,Russian Federation,SVO,N/A
+REP,Cambodia,PNH,N/A
+RES,Argentina,AEP,N/A
+RET,Norway,SVJ,N/A
+REU,Spain,STN,N/A
+REX,Reynosa Mexico,MEX,N/A
+RFD,United States,AZA,N/A
+RFP,French Polynesia,PPT,[MAU]
+RGA,Argentina,AEP,N/A
+RGI,French Polynesia,PPT,[MVT; RKA; TIH]
+RGK,Russian Federation,DME,N/A
+RGL,Argentina,AEP,N/A
+RGN,Myanmar,NYU,[AKY; HEH; LIW; MDL; MGZ; MWQ; NYT; NYU; SNW; TVY; VBP]
+RGS,Spain,BCN,N/A
+RHD,Argentina,AEP,N/A
+RHI,United States,MSP,N/A
+RHO,Rhodes,ATH,[KZS]
+RHT,China,AXF,N/A
+RIA,Brazil,POA,N/A
+RIB,Riberalta Bolivia,TDD,[TDD]
+RIC,United States,ATL,N/A
+RIG,Brazil,POA,N/A
+RIS,Japan,OKD,N/A
+RIW,United States,DEN,[SHR]
+RIX,Latvia,SVO,[LPX; PLQ; VNO]
+RIZ,China,DLC,N/A
+RJA,India,HYD,N/A
+RJB,Nepal,KTM,N/A
+RJH,Bangladesh,DAC,N/A
+RJK,Croatia,MUC,N/A
+RJL,Logrono Spain and Canary Islands,MAD,N/A
+RJM,Waisai Indonesia,SOQ,N/A
+RJN,Iran,THR,N/A
+RKA,French Polynesia,RGI,N/A
+RKD,Rockland United States,BOS,N/A
+RKE,Copenhagen Denmark,AGH,N/A
+RKS,s Sweetwater County Airport (RKS) is a smaller airport in United States,DEN,N/A
+RKT,United Arab Emirates,CAI,N/A
+RKV,Iceland,AEY,[AEY; EGS; IFJ]
+RKZ,China,XIY,N/A
+RLG,Germany,MUC,N/A
+RLK,China,HET,N/A
+RMA,Australia,BNE,N/A
+RMF,Egypt,CAI,N/A
+RMI,Italy,TIA,N/A
+RMQ,Shalu,KNH,N/A
+RMT,French Polynesia,RUR,N/A
+RMU,Spain,LGW,N/A
+RNA,Arona Solomon Islands,HIR,N/A
+RNB,Sweden,BMA,N/A
+RNI,Nicaragua,BEF,N/A
+RNJ,Japan,ASJ,N/A
+RNL,Tigoa Solomon Islands,HIR,N/A
+RNN,Denmark,CPH,N/A
+RNO,United States,LAS,N/A
+RNS,Rennes France,CDG,N/A
+ROA,United States,CLT,N/A
+ROB,Liberia,ACC,[FNA]
+ROC,United States,ORD,N/A
+ROI,Thailand,DMK,N/A
+ROK,Australia,BNE,N/A
+ROO,Brazil,VCP,N/A
+ROR,Palau,GUM,N/A
+ROS,Argentina,AEP,N/A
+ROT,New Zealand,AKL,N/A
+ROV,Russian Federation,SVO,N/A
+ROW,United States,DFW,N/A
+RPR,India,DEL,N/A
+RQA,China,KRL,N/A
+RRG,Plaine Corail,MRU,N/A
+RRS,Roros Norway,OSL,N/A
+RSA,Argentina,AEP,N/A
+RSD,Bahamas,NAS,N/A
+RSH,United States,BET,[MLL]
+RSS,Sudan,KRT,N/A
+RST,United States,ORD,N/A
+RSU,South Korea,GMP,N/A
+RSW,Fort Myers United States,ATL,N/A
+RTA,Fiji,NAN,N/A
+RTB,Honduras,SAP,[LCE; SAP; TGU]
+RTG,Ruteng Indonesia,KOE,N/A
+RTI,Rote Island Indonesia,KOE,N/A
+RTM,Netherlands,LCY,N/A
+RUA,Uganda,EBB,N/A
+RUD,Iran,SNX,N/A
+RUH,Riyadh,JED,[ABT; AHB; AJF; AQI; BHH; DWD; EAM; GIZ; HAS; JED; MED; RAE; RAH; SHW; TIF; TUI; ULH; URY; WAE]
+RUN,Sainte-Denis,MRU,[MRU]
+RUR,Rurutu French Polynesia,PPT,[RMT]
+RUS,Solomon Islands,HIR,N/A
+RUT,United States,BOS,N/A
+RVD,Rio Verde Brazil,VCP,N/A
+RVE,Saravena Colombia,BGA,N/A
+RVK,Rorvik Norway,TRD,N/A
+RVN,Finland,HEL,N/A
+RVV,Rairua French Polynesia,TUB,N/A
+RVY,Uruguay,POA,N/A
+RXS,Roxas City Philippines,MNL,N/A
+RYK,Pakistan,KHI,N/A
+RZE,Rzeszow Poland,WAW,N/A
+RZH,Russian Federation,VVO,N/A
+RZR,Iran,THR,N/A
+SAB,Saba,SXM,N/A
+SAE,Greenland,UMD,[IKE]
+SAF,United States,DEN,N/A
+SAG,India,HYD,N/A
+SAL,San Salvador,SJO,[GUA]
+SAN,bergh Fld (SAN) is a large airport in United States,SJC,N/A
+SAP,San Pedro Sula,RTB,[RTB]
+SAT,United States,DFW,N/A
+SAV,United States,ATL,N/A
+SAW,Istanbul,ADB,[ADA; ADB; ASR; AYT; BJV; DIY; DLM; ECN; EDO; ERC; ERZ; ESB; EZS; HTY; KSY; MLX; MSR; NAV; OGU; SZF; TZX; VAN; VAS]
+SBA,United States,SFO,N/A
+SBH,Saint Barthelemy,SXM,[SXM]
+SBN,United States,ORD,N/A
+SBP,San Luis Obispo United States,PHX,N/A
+SBR,Australia,XMY,[GIC]
+SBW,Malaysia,KUL,N/A
+SBY,United States,CLT,N/A
+SBZ,Romania,MUC,[FMM]
+SCC,United States,NUI,[BTI; NUI]
+SCE,United States,PHL,N/A
+SCK,United States,LAX,N/A
+SCL,Santiago,CJC,[ANF; ARI; BBA; CCP; CJC; CPO; EPA; IPC; IQQ; LSC; MHC; PMC; PNT; PUQ; QRC; ZAL; ZCO; ZOS]
+SCM,United States,BET,[HPB]
+SCN,Germany,TXL,N/A
+SCO,Kazakhstan,GUW,[GUW]
+SCQ,Spain,MAD,N/A
+SCR,Sälen-Trysil Sweden,AGH,N/A
+SCU,Santiago De Cuba Cuba,PAP,N/A
+SCV,Suceava Romania,OTP,N/A
+SCW,Russian Federation,SVO,[UTS]
+SCY,Ecuador,GYE,N/A
+SCZ,Solomon Islands,HIR,N/A
+SDD,Angola,LAD,N/A
+SDE,Argentina,AEP,N/A
+SDF,United States,ORD,N/A
+SDG,Iran,THR,N/A
+SDJ,Japan,ITM,N/A
+SDK,Malaysia,BKI,N/A
+SDL,Sweden,BMA,N/A
+SDN,Sandane Norway,OSL,[SOG]
+SDP, Airport (SDP) is a smaller airport in United States,CDB,N/A
+SDQ,Santo Domingo,JFK,N/A
+SDR,Spain,MAD,N/A
+SDU,Rio De Janeiro,CGH,[BSB; CGH]
+SDY,United States,BIL,[BIL]
+SEA,United States,PDX,[ALW; ANC; BLI; BOI; BZN; EAT; EUG; FCA; GEG; MFR; MSO; PDX; PSC; PUW; RDM; YKM]
+SEB,Libyan Arab Jamahiriya,BEN,N/A
+SEK,Russian Federation,YKS,N/A
+SEN,United Kingdom,LDY,[LDY]
+SEU,United Republic of Tanzania,ARK,[GTZ; LKY]
+SEZ,Mahe,PRI,[PRI]
+SFA,Sfax,TIP,N/A
+SFB,United States,AVL,[HGR]
+SFG,Saint Martin,PTP,N/A
+SFJ,Greenland,GOH,[GOH; JAV; JHS; JSU]
+SFL,Cape Verde,RAI,N/A
+SFN,Santa Fe Argentina,AEP,[NCJ]
+SFO,United States,LAX,[ACV; LAX; OTH; PAE; PSP; RDD; SBA; SNA]
+SFT,Sweden,ARN,N/A
+SGC,Russian Federation,VKO,N/A
+SGD,Denmark,CPH,N/A
+SGF,United States,ORD,N/A
+SGG,Greenland,AGM,N/A
+SGN,Ho Chi Minh City,HAN,[BMV; CAH; CXR; DAD; DLI; HAN; HPH; HUI; PQC; PXU; TBB; THD; UIH; VCL; VCS; VDH; VDO; VII; VKG]
+SGO,Saint George Australia,CMA,N/A
+SGU,Saint George United States,SLC,N/A
+SGY,United States,JNU,N/A
+SHA,Shanghai China,SZX,[CAN; JDZ; JUH; LYA; PEK; PKX; SZX; XMN; YNT]
+SHB,Japan,CTS,N/A
+SHC,Shire Ethiopia,ADD,N/A
+SHD,Weyers Cave United States,IAD,N/A
+SHE,China,PVG,[JNG; LDS; WEF; XFN]
+SHF,China,KRL,N/A
+SHG,United States,OBU,N/A
+SHH,United States,OME,[OME]
+SHI,Japan,NRT,N/A
+SHJ,United Arab Emirates,TRV,[LRR; OHS]
+SHL,India,CCU,N/A
+SHM,Japan,HND,N/A
+SHO,Manzini,JNB,N/A
+SHR,United States,RIW,N/A
+SHV,United States,DFW,N/A
+SHW,Saudi Arabia,RUH,N/A
+SHX,United States,ANI,N/A
+SIC,Turkey,PAC,[OTD]
+SID,Sal,RAI,[BVC; MPN; RAI; SNE]
+SIF,Nepal,KTM,N/A
+SIG,San Juan United States,CPX,N/A
+SIN,Singapore,KUL,[IPH; KUL]
+SIP,Ukraine,SVO,N/A
+SIQ,Singkep Indonesia,BTH,N/A
+SIR,Switzerland,LHR,N/A
+SIS,South Africa,JNB,N/A
+SIT,United States,JNU,N/A
+SIU,Nicaragua,MGA,N/A
+SJC,ta San Jose International (SJC) is a bigger airport in United States,LAX,[SAN]
+SJD,San Jose Del Cabo Mexico,MEX,N/A
+SJE,San Jose Del Guaviare Colombia,BOG,N/A
+SJI,San Jose Philippines,MNL,N/A
+SJJ,Bosnia and Herzegovina,IST,N/A
+SJK,Brazil,GIG,N/A
+SJL,Brazil,MAO,N/A
+SJO,San Jose,TMU,[DRK; GLF; LIO; LIR; NOB; OTR; PJM; PMZ; SAL; TMU; TNO; XQP]
+SJP,Brazil,CGH,N/A
+SJT,United States,DFW,N/A
+SJU,San Juan,EIS,[CPX; EIS; MAZ; NEV; STT; VQS]
+SJW,China,HGH,[BPE; CDE; ZQZ]
+SJZ,Portugal,TER,N/A
+SKB,Saint Kitts,SXM,N/A
+SKD,Uzbekistan,VKO,N/A
+SKG,Thessaloniki,ATH,[KLX]
+SKH,Nepal,KTM,N/A
+SKK,United States,UNK,[KKA]
+SKN,Stokmarknes Norway,BOO,N/A
+SKO,Sokoto Nigeria,ABV,N/A
+SKP,Macedonia,IST,N/A
+SKT,Pakistan,DXB,N/A
+SKU,Skiros Greece,ATH,N/A
+SKX,Russian Federation,SVO,N/A
+SKZ,Pakistan,KHI,N/A
+SLA,Argentina,AEP,N/A
+SLC,United States,DEN,[BTM; CDC; EKO; GTF; HLN; LGB; LWS; PIH; SGU; SUN; TWF; WYS]
+SLH,Vanuatu,SON,N/A
+SLI,Zambia,LUN,N/A
+SLJ,Australia,PER,N/A
+SLK,Saranac Lake United States,BOS,N/A
+SLL,Oman,MCT,N/A
+SLN,United States,ORD,N/A
+SLP,San Luis Potosi Mexico,MEX,N/A
+SLQ,United States,SRV,[RDV]
+SLU,Castries,BGI,N/A
+SLV,India,DEL,N/A
+SLW,Saltillo Mexico,MEX,N/A
+SLX,Turks and Caicos Islands,GDT,N/A
+SLY,Russian Federation,TJM,N/A
+SLZ,Sao Luis Brazil,GRU,[IMP]
+SMA,Portugal,PDL,N/A
+SMF,United States,LAX,N/A
+SMI,Greece,ATH,N/A
+SMK,United States,WBB,[UNK]
+SML,Bahamas,NAS,N/A
+SMQ,Sampit Indonesia,SUB,N/A
+SMR,Santa Marta Colombia,BOG,N/A
+SMS,Sainte Marie Madagascar,TNR,N/A
+SMT,Sorriso Brazil,CGB,N/A
+SMX,United States,LAS,N/A
+SNA,Santa Ana United States,SFO,N/A
+SNE,Ribeira Brava Cape Verde,SID,N/A
+SNN,Ireland,LHR,N/A
+SNO,Thailand,DMK,N/A
+SNP,St,ANC,N/A
+SNR,Saint Nazaire France,TLS,N/A
+SNU,Santa Clara,YYZ,N/A
+SNW,Myanmar,RGN,N/A
+SNX,Iran,THR,[RUD]
+SOC,Boyolali Regency Indonesia,CGK,N/A
+SOF,Bulgaria,VIE,[VAR]
+SOG,Sogndal Norway,SDN,N/A
+SOJ,Norway,TOS,N/A
+SON,Vanuatu,VLI,[LOD; MWF; SLH; SSR; VLI; WLH; ZGU]
+SOQ,Sorong Indonesia,UPG,[BXB; FKQ; KNG; RJM]
+SOU,United Kingdom,GCI,[EGC]
+SOW,United States,PHX,N/A
+SPB,Saint Thomas,SSB,[SSB]
+SPC,Santa Cruz De La Palma Spain,TFN,N/A
+SPD,Bangladesh,DAC,N/A
+SPI,Springfield United States,ORD,N/A
+SPN,Northern Mariana Islands,ICN,N/A
+SPP,Angola,SVP,N/A
+SPR,Belize,BZE,[BZE; CUK; CZH; ORZ; TZA]
+SPS,United States,DFW,N/A
+SPU,Croatia,ZAG,N/A
+SPY,San-Pedro,ABJ,N/A
+SQD,Shangrao China,TAO,N/A
+SQG,Indonesia,PNK,N/A
+SQJ,China,PVG,N/A
+SQN,Indonesia,AMQ,N/A
+SRA,Brazil,POA,N/A
+SRE,Sucre,VVI,N/A
+SRG,Semarang Indonesia,CGK,[KWB; PKN]
+SRH,Chad,MQQ,[MQQ]
+SRI,Samarinda Indonesia,CGK,N/A
+SRK,Greenland,NAQ,[NAQ]
+SRN,Australia,HBA,N/A
+SRP,Norway,OSL,N/A
+SRQ,United States,ATL,N/A
+SRV,United States,ANI,[SLQ]
+SRY,Sary Iran,THR,N/A
+SSA,Salvador Brazil,GRU,[BRA; LEC; VDC]
+SSB,Saint Croix,SPB,[SPB]
+SSG,Equatorial Guinea,BSG,[BSG; GEM]
+SSH,Sharm El-Sheikh,CAI,N/A
+SSJ,Sandnessjoen Norway,BOO,N/A
+SSR,Pentecost Island Vanuatu,SON,N/A
+STC,United States,AZA,N/A
+STD,Santo Domingo Venezuela,CCS,N/A
+STI,Santiago,JFK,N/A
+STL,United States,ORD,[FOD; IRK; JBR; MKL; MWA; TBN]
+STM,Santarem Brazil,BEL,N/A
+STN,London,DUB,[BGY; BRQ; BTS; CIA; CMF; DND; DNR; FKB; GNB; LCJ; NOC; OSR; PDV; REU; VST; WMI]
+STR,Germany,TXL,N/A
+STS,Santa Rosa United States,LAX,N/A
+STT,St,SJU,[NGD; STX; VIJ]
+STV,India,DEL,N/A
+STW,Stavropol Russian Federation,SVO,N/A
+STX,St,STT,N/A
+SUB,Surabaya,CGK,[AAP; BDO; HLP; JBB; KOE; SMQ; SUP]
+SUF,Italy,MXP,N/A
+SUG,Philippines,CEB,N/A
+SUJ,Romania,OTP,N/A
+SUK,Batagay-Alyta Russian Federation,YKS,N/A
+SUN,Hailey United States,SLC,N/A
+SUP,Sumenep Indonesia,SUB,N/A
+SUR,Nibinamik Canada,YXL,[YLH; YPL]
+SUV,Fiji,NAN,[FUN; ICI; KXF; LBS; LKB; NAN; VBV]
+SUX,Sioux City United States,ORD,N/A
+SUY,Russian Federation,YKS,N/A
+SVA,United States,OME,N/A
+SVB,Madagascar,TNR,[WMN]
+SVC,Silver City United States,ABQ,N/A
+SVD,Kingstown,BGI,[BGI]
+SVG,Norway,OSL,N/A
+SVI,Colombia,BOG,N/A
+SVJ,Norway,BOO,[RET]
+SVL,Finland,HEL,N/A
+SVO,Moscow,LED,[ABA; AER; ARH; ASF; CEE; CEK; DWC; EGO; EVN; GDZ; GOJ; GSV; IJK; IKT; KRR; KUF; KZN; LED; MMK; MQF; MRV; MSQ; NBC; NJC; OMS; OSW; PEE; PRG; REN; RIX; ROV; SCW; SIP; SKX; STW; SVX; SXF; TJM; UFA; VOG]
+SVP,Angola,LAD,[SPP]
+SVQ,Spain,BCN,N/A
+SVR,Greenland,THU,N/A
+SVS,United States,FAI,N/A
+SVU,Fiji,NAN,N/A
+SVX,Sverdlovsk Russian Federation,SVO,N/A
+SWA,Shantou China,CSX,N/A
+SWF,Newburgh United States,PHL,N/A
+SWJ,Vanuatu,NUS,N/A
+SWL,Philippines,MNL,N/A
+SWO,Stillwater United States,DFW,N/A
+SWQ,Sumbawa Besar Indonesia,LOP,N/A
+SWV,Russian Federation,GDX,N/A
+SXB,Strassbourg France,AMS,N/A
+SXF,Berlin Germany,SVO,[LPP]
+SXK,Indonesia,AMQ,N/A
+SXM,Philipsburg,SBH,[AXA; EUX; SAB; SBH; SKB]
+SXO,Brazil,GGB,N/A
+SXP,Nunam Iqua United States,KSM,[AUK]
+SXR,India,DEL,[IXJ]
+SXV,India,MAA,N/A
+SXZ,Turkey,IST,N/A
+SYB,United States,KPR,[KKB]
+SYD,Sydney,MEL,[ABX; ARM; AVV; AYQ; BHS; BNE; BNK; BXG; CAZ; CBR; CFS; DBO; DGE; DRW; GFF; HTI; LDH; MCY; MEL; MRZ; MYA; NAA; NLK; NOU; OAG; OOL; PKE; PQQ; TMW; TRO; WGA; WTB]
+SYJ,Iran,THR,N/A
+SYM,China,KMG,N/A
+SYO,Japan,HND,N/A
+SYR,United States,ORD,N/A
+SYS,Russian Federation,YKS,N/A
+SYU,Sue Islet Australia,HID,[CNC]
+SYX,Sanya China,PEK,N/A
+SYY,United Kingdom,GLA,N/A
+SYZ,Iran,THR,[BDH; LVP]
+SZA,Angola,LAD,N/A
+SZB,Kuala Lumpur,PEN,[AOR; KBR; KTE; TGG; XSP]
+SZE,Ethiopia,ADD,N/A
+SZF,Turkey,SAW,N/A
+SZG,Austria,FRA,N/A
+SZI,Kazakhstan,UKK,N/A
+SZK,South Africa,LDZ,N/A
+SZX,Shenzhen China,SHA,[DAX; NAO; SHA; WUX; YNZ; ZYI]
+SZY,Szymany Poland,DTM,N/A
+SZZ,Szczecin Poland,WAW,N/A
+TAB,Scarborough,POS,[POS]
+TAC,Tacloban Philippines,MNL,N/A
+TAE,Taegu,CJU,N/A
+TAG,Philippines,MNL,N/A
+TAH,Whitegrass,VLI,[AUY; FTA; IPA]
+TAK,Japan,HND,N/A
+TAL,Tanana United States,FAI,N/A
+TAM,Tampico Mexico,MEX,N/A
+TAO,Qingdao China,ICN,[HIA; SQD]
+TAP,Mexico,MEX,N/A
+TAS,Tashkent,IST,[FEG; NCU; NMA; TMJ; UGC]
+TAT,Poprad,LTN,N/A
+TAY,Estonia,HEL,N/A
+TAZ,Turkmenistan,ASB,N/A
+TBB,Tuy Hoa Vietnam,SGN,N/A
+TBG,Papua New Guinea,UNG,N/A
+TBH,Philippines,MNL,N/A
+TBN,United States,STL,N/A
+TBO,Tanzania United Republic of,DAR,[KBH]
+TBP,Tumbes Peru,LIM,N/A
+TBS,Tbilisi,IST,N/A
+TBT,Brazil,MAO,N/A
+TBU,Nukuʻalofa,HPA,[EUA; HPA; VAV]
+TBW,Russian Federation,VKO,N/A
+TBZ,Iran,THR,N/A
+TCA,Australia,ASP,N/A
+TCB,Abaco Islands Bahamas,FLL,N/A
+TCG,China,URC,N/A
+TCO,Tumaco Colombia,CLO,N/A
+TCQ,Tacna Peru,LIM,N/A
+TCR,India,MAA,N/A
+TCX,Iran,THR,N/A
+TCZ,China,KMG,N/A
+TDD,Trinidad,RIB,[GYA; RIB]
+TDK,Kazakhstan,TSE,N/A
+TDX,Thailand,BKK,N/A
+TEB,United States,ACK,N/A
+TEC,Brazil,CKO,[CKO]
+TEE,Tebessa Algeria,ALG,N/A
+TEF,Australia,PER,N/A
+TEN,China,PVG,N/A
+TEQ,Tekirdag Turkey,ESB,N/A
+TER,Praia da Vitoria Portugal,PDL,[GRW; SJZ]
+TET,ozi (TET) is the fourth largest airport in Mozambique,MPM,N/A
+TEX,United States,DEN,N/A
+TEZ,India,GAU,N/A
+TFF,Brazil,MAO,[ERN]
+TFI,Papua New Guinea,PNP,N/A
+TFN,Spain,LPA,[GMZ; LPA; SPC; VDE]
+TFS,Spain,LPA,N/A
+TGC,Sarikei Malaysia,KCH,N/A
+TGD,Montenegro,BEG,[BEG]
+TGG,Kuala Terengganu Malaysia,SZB,N/A
+TGH,Vanuatu,VLI,N/A
+TGI,Peru,LIM,N/A
+TGM,Tirgu Mures Romania,BUD,N/A
+TGO,China,HET,[HUO]
+TGP,Bor Russian Federation,KJA,N/A
+TGQ,Brazil,CGB,N/A
+TGR,Touggourt Algeria,ALG,N/A
+TGT,Tanzania United Republic of,ZNZ,N/A
+TGU,Tegucigalpa,RTB,[PEU]
+TGZ,Tuxtla Gutierrez Mexico,MEX,N/A
+THD,Thanh Hoa Viet Nam,SGN,N/A
+THE,Teresina Brazil,BSB,[PHB]
+THL,Myanmar,HEH,N/A
+THN,Sweden,BMA,N/A
+THO,Þorshofn Iceland,AEY,[VPN]
+THQ,China,XIY,N/A
+THR,Teheran,MHD,[ABD; ACZ; ADU; AFZ; AWZ; AZD; BJB; BND; BUZ; BXR; CQD; DEF; GBT; GCH; GSM; HDM; IFN; IIL; JAR; JYR; KER; KHD; KHY; KIH; KSH; LFM; MHD; MRX; OMH; PFQ; PGU; RAS; RJN; RZR; SDG; SNX; SRY; SYJ; SYZ; TBZ; TCX; XBJ; YES; ZAH]
+THS,Thailand,BKK,N/A
+THU,Thule Greenland,NAQ,[SVR]
+THX,Russian Federation,KJA,N/A
+TIA,s (TIA) is the largest airport in Albania,FCO,[RMI]
+TIB,Colombia,CUC,N/A
+TIF,Saudi Arabia,RUH,N/A
+TIH,French Polynesia,RGI,N/A
+TII,Afghanistan,KBL,N/A
+TIJ,Tijuana,MEX,[LTO; MLM; UPN]
+TIM,Timika Indonesia,DJJ,N/A
+TIN,Algeria,ALG,N/A
+TIP,Libyan Arab Jamahiriya,TUN,[GHT; SFA]
+TIR,India,HYD,N/A
+TIU,New Zealand,WLG,N/A
+TIV,Montenegro,BEG,N/A
+TJA,Tarija Bolivia,CBB,N/A
+TJH,Toyooka Japan,ITM,N/A
+TJL,Brazil,VCP,N/A
+TJM,Tyumen Russian Federation,SVO,[SLY]
+TJQ,Indonesia,CGK,N/A
+TJS,Indonesia,BPN,N/A
+TJU,Kulyab,DME,N/A
+TKD,Ghana,ACC,N/A
+TKE,s (TKE) is a smaller airport in United States,JNU,[AGN]
+TKG,Indonesia,CGK,N/A
+TKJ,United States,HKB,[CKX; HKB; ORT]
+TKK,Weno,PNI,[PNI]
+TKN,Amagi Japan,KOJ,N/A
+TKP,French Polynesia,TKX,N/A
+TKQ,Tanzania United Republic of,DAR,N/A
+TKS,Japan,HND,N/A
+TKU,Finland,ARN,N/A
+TKX,French Polynesia,PPT,[TKP]
+TLA,United States,KTS,N/A
+TLC,Toluca Mexico,MTY,N/A
+TLE,Madagascar,TNR,N/A
+TLH,United States,ATL,N/A
+TLI,Toli Toli Indonesia,PLW,N/A
+TLK,Russian Federation,OVB,N/A
+TLL,Estonia,ARN,N/A
+TLM,Tlemcen Algeria,ORY,N/A
+TLN,France,ORY,N/A
+TLQ,China,XIY,N/A
+TLS,Toulouse France,ORY,[ORY; SNR]
+TLT,United States,BET,[AKI]
+TLU,Tolu Colombia,EOH,N/A
+TLV,Israel,IST,[ETM]
+TLY,Russian Federation,VVO,N/A
+TMC,Indonesia,DPS,N/A
+TME,Colombia,BOG,N/A
+TMF,Maldives,MLE,N/A
+TMH,Indonesia,DJJ,N/A
+TMI,Nepal,KTM,N/A
+TMJ,Uzbekistan,TAS,N/A
+TML,Ghana,ACC,N/A
+TMM,Madagascar,TNR,[WAM]
+TMP,Finland,HEL,N/A
+TMR,Algeria,ALG,[INF]
+TMS,Sao Tome and Principe,PCP,[PCP]
+TMT,Brazil,PIN,N/A
+TMU,Nicoya,SJO,[SJO]
+TMW,Australia,SYD,N/A
+TMX,Algeria,ALG,N/A
+TNA,China,CTU,N/A
+TNC,United States,WAA,N/A
+TNE,Nakatane Japan,KOJ,N/A
+TNG,Tanger,MAD,N/A
+TNH,China,DLC,N/A
+TNJ,Tanjung Pinang Indonesia,CGK,[MWK]
+TNK,United States,BET,[OOK]
+TNN,Taiwan,MZG,N/A
+TNO,Nicoya Costa Rica,SJO,N/A
+TNR,Madagascar,NBO,[DIE; FTU; MOQ; NOS; SMS; SVB; TLE; TMM]
+TOB,Tobruk Libyan Arab Jamahiriya,HBE,N/A
+TOE,Tozeur Tunisia,TUN,N/A
+TOF,Russian Federation,DME,N/A
+TOG,United States,KWN,N/A
+TOH,Torres Islands Vanuatu,MTV,[MTV]
+TOL,United States,ORD,N/A
+TOS,Norway,OSL,[ALF; HFT; LKL; SOJ; VDS]
+TOW,Brazil,CWB,N/A
+TOY,Japan,HND,N/A
+TPA,United States,ATL,[DSI]
+TPE,Taipei,HKG,[HKG; MFM]
+TPP,Peru,LIM,N/A
+TPQ,Mexico,MEX,N/A
+TPS,Italy,FCO,N/A
+TQA,Greenland,JUV,[IUI]
+TQI,Greenland,AGM,N/A
+TQP,Australia,TSV,N/A
+TQQ,Tano Indonesia,DPS,N/A
+TQR, Island Heliport (TQR) is a smaller airport in Italy,FOG,[FOG; VIF]
+TRC,Mexico,MEX,N/A
+TRD,Norway,OSL,[BNN; MJF; MQN; OSL; OSY; RVK]
+TRE,Scotland,GLA,N/A
+TRF,Norway,BGO,N/A
+TRG,New Zealand,AKL,N/A
+TRI,Bristol United States,ATL,N/A
+TRK,Indonesia,BPN,[NNX]
+TRN,Italy,FCO,N/A
+TRO,Australia,SYD,N/A
+TRR,Trincomalee Sri Lanka,GIU,[GIU]
+TRS,Italy,FCO,N/A
+TRU,Trujillo Peru,LIM,N/A
+TRV,Trivandrum India,BLR,[CNN; SHJ]
+TRW,Kiribati,NAN,N/A
+TRZ,Tiruchchirappalli India,MAA,N/A
+TSA,Taipei,KNH,[HUN; KNH; LZN; MFK; TTT]
+TSE,Tselinograd,ALA,[AKX; ALA; CIT; DMB; DZN; KSN; KZO; PWQ; TDK; UKK; URA]
+TSF,Italy,NAP,N/A
+TSJ,Japan,FUK,N/A
+TSL,Mexico,MEX,N/A
+TSM,United States,AUS,[CLD]
+TSN,Tianjin China,XIY,[DBC; WUT]
+TSR,Timisoara,OTP,N/A
+TST,Thailand,DMK,N/A
+TSV,Australia,BNE,[CNJ; OSO; PHQ; PMK; TQP]
+TSY,Indonesia,HLP,N/A
+TTA,Tan-Tan Morocco,CMN,[GLN]
+TTE,Ternate Indonesia,MDC,[LAH; OTI]
+TTJ,Japan,HND,N/A
+TTN,United States,MCO,N/A
+TTQ,Roxana Costa Rica,FON,N/A
+TTT,Taiwan,TSA,N/A
+TTU,Tetouan Morocco,AHU,[AHU]
+TUB,Tubuai – Mataura New Zealand,PPT,[RVV]
+TUC,Tucuman Argentina,AEP,N/A
+TUF,Tours France,OPO,N/A
+TUG,Philippines,MNL,N/A
+TUI,Saudi Arabia,RUH,N/A
+TUK,Pakistan,KHI,N/A
+TUL,United States,DFW,N/A
+TUN,Tunis,ORY,[DJE; GAF; MJI; MRA; TIP; TOE]
+TUO,New Zealand,WLG,N/A
+TUP,United States,BNA,N/A
+TUS,United States,DFW,N/A
+TUU,Saudi Arabia,JED,N/A
+TUV,Venezuela,PMV,N/A
+TVC,Traverse City United States,ORD,N/A
+TVF,United States,MSP,N/A
+TVS,China,HRB,N/A
+TVU,Matei,NAN,N/A
+TVY,Myanmar,RGN,[KAW]
+TWC,China,URC,N/A
+TWF,Twin Falls United States,SLC,N/A
+TWT,Bongao Philippines,ZAM,N/A
+TWU,Malaysia,BKI,N/A
+TXE,Indonesia,KNO,N/A
+TXF,Brazil,CNF,N/A
+TXK,United States,DFW,N/A
+TXL,Berlin,FRA,[CGN; FRA; MUC; SCN; STR]
+TXN,Huangshan China,DLC,N/A
+TYL,Talara Peru,LIM,N/A
+TYN,Taiyuan China,KMG,[CIH; DAT]
+TYR,United States,DFW,N/A
+TYS,Knoxville United States,CLT,N/A
+TZA,Belize,SPR,N/A
+TZL,Bosnia and Herzegovina,DTM,N/A
+TZX,Turkey,SAW,[KCO]
+UAH,French Polynesia,NHV,N/A
+UAK,Narssarssuaq Greenland,GOH,N/A
+UAP,Ua Pou Marquesas Island French Polynesia,NHV,N/A
+UAQ,Domingo Faustino Sarmiento Argentina,AEP,N/A
+UAR,Morocco,CMN,N/A
+UAS,Kenya,JJM,[JJM]
+UBA,Brazil,CNF,[AAX]
+UBB,Australia,BDD,N/A
+UBJ,Japan,HND,N/A
+UBP,Thailand,DMK,N/A
+UCB,China,CGO,N/A
+UCT,Russian Federation,VKO,N/A
+UDI,Brazil,CGH,N/A
+UDR,India,DEL,N/A
+UEL,Mozambique,MPM,N/A
+UEO,Japan,OKA,N/A
+UET,Pakistan,KHI,N/A
+UFA,Russian Federation,SVO,N/A
+UGC,Uzbekistan,TAS,N/A
+UGI,Uganik United States,KWP,[KPY]
+UIB,Quibdo Colombia,EOH,[EOH]
+UIH,Vietnam,SGN,N/A
+UII,Honduras,LCE,N/A
+UIN,Field (UIN) is a smaller airport in United States,ORD,N/A
+UIO,Quito,GYE,[CUE; ESM; ETR; GYE; LGQ; LOH; MEC; OCC]
+UIP,Quimper France,ORY,N/A
+UIT,Jabor,MAJ,[EBO]
+UJE,Marshall Islands,LML,[WTO]
+UKA,Kenya,MBA,N/A
+UKB,Japan,HND,[IBR]
+UKG,Russian Federation,YKS,N/A
+UKK,Oskemen Kazakhstan,TSE,[SZI]
+UKX,Russian Federation,IKT,N/A
+ULB,Vanuatu,CCV,[PBJ]
+ULG,Mongolia,ULN,N/A
+ULH,Al Ula Saudi Arabia,RUH,N/A
+ULK,Russian Federation,YKS,N/A
+ULN,Ulan Bator,ICN,[BYN; COQ; HVD; MXV; ULG; ULO; ULZ]
+ULO,Mongolia,ULN,N/A
+ULP,Quilpie Australia,CTL,N/A
+ULV,Ulyanovsk Russian Federation,VKO,N/A
+ULX,South Africa,LDZ,N/A
+ULZ,Mongolia,ULN,[LTI]
+UMD,Greenland,JQA,[JQA; JUK; NIQ; SAE]
+UME,Sweden,ARN,N/A
+UNG,Papua New Guinea,POM,[TBG]
+UNK,United States,SMK,[SKK; WBB]
+UNN,Thailand,DMK,N/A
+UOL,Buol Indonesia,PLW,N/A
+UPG,Maros Regency,CGK,[AMQ; BTW; BUW; GTO; KDI; KSR; LLO; LUW; MJU; MKW; PLW; PSJ; PUM; RAQ; SOQ]
+UPK,Greenland,KGQ,N/A
+UPN,Uruapan Mexico,TIJ,N/A
+URA,Oral Kazakhstan,TSE,N/A
+URC,Urumqi China,KHG,[AAT; AKU; BPL; FYN; HTN; KCA; KHG; KRL; KRY; LHW; NLT; QSZ; TCG; TWC; YIN]
+URG,Uruguaiana Brazil,POA,N/A
+URJ,Uray Russia,HMA,N/A
+URS,Russian Federation,VKO,N/A
+URT,Thailand,DMK,N/A
+URY,Al Jawf Province Saudi Arabia,RUH,N/A
+USA,United States,FLL,N/A
+USH,s Argentinas (USH) is a smaller airport in Argentina,AEP,N/A
+USK,Russian Federation,VKO,N/A
+USM,Ko Samui,BKK,N/A
+USN,South Korea,GMP,N/A
+USQ,Turkey,IST,N/A
+USR,Russian Federation,YKS,N/A
+USU,Philippines,MNL,N/A
+UTH,Thailand,DMK,N/A
+UTK,Marshall Islands,MAJ,N/A
+UTN,South Africa,JNB,N/A
+UTP,Rayong Thailand,CNX,N/A
+UTS,Russian Federation,SCW,N/A
+UTT,South Africa,JNB,N/A
+UUA,Russian Federation,DME,N/A
+UUD,Ulan-Ude Russian Federation,DME,N/A
+UUS,Yuzhno-Sakhalinsk Russian Federation,KHV,[DEE; EKS; ITU; KHV; KXK; NGK; OHH]
+UVE,New Caledonia,GEA,N/A
+UVF,Saint Lucia,MIA,N/A
+UYL,Sudan,KRT,N/A
+UYN,China,XIY,N/A
+UYU,Bolivia,LPB,N/A
+UZR,Kazakhstan,ALA,N/A
+VAA,Finland,HEL,N/A
+VAG,Varginha Brazil,CNF,N/A
+VAI,Papua New Guinea,WWK,[WWK]
+VAK,United States,HPB,N/A
+VAL,Brazil,CNF,N/A
+VAM,Maldives,MLE,N/A
+VAN,Turkey,SAW,N/A
+VAO,Solomon Islands,HIR,N/A
+VAR,Bulgaria,SOF,N/A
+VAS,Turkey,SAW,N/A
+VAV,Vavaʻu,TBU,[NFO; NTT]
+VAW,Svartnes Norway,BJF,N/A
+VBA,Myanmar,AKY,N/A
+VBP,Myanmar,RGN,N/A
+VBV,Vanua balavu Fiji,SUV,N/A
+VBY,Sweden,BMA,[NRK]
+VCA,Can Tho Vietnam,HAN,N/A
+VCE,Venice,CDG,N/A
+VCL,Vietnam,SGN,N/A
+VCP,Campinas,BSB,[AQA; ARU; BYO; GPB; IZA; PFB; PGZ; PPB; ROO; RVD; TJL]
+VCS,Con Dao Viet Nam,SGN,N/A
+VCT,United States,DFW,N/A
+VDC,Brazil,SSA,N/A
+VDE,Spain,TFN,N/A
+VDH,Vietnam,SGN,N/A
+VDM,Viedma Argentina,AEP,N/A
+VDO,Hạ Long Vietnam,SGN,N/A
+VDS,Vadso Norway,TOS,[KKN]
+VDY,Vijaynagar India,BLR,N/A
+VDZ,United States,ANC,N/A
+VEE,United States,ARC,[ARC]
+VEL,United States,DEN,N/A
+VER,Mexico,MEX,N/A
+VFA,Zimbabwe,HRE,N/A
+VGA,India,HYD,N/A
+VGO,Spain,MAD,N/A
+VGZ,Colombia,BOG,N/A
+VHC,Angola,LAD,N/A
+VHM,Sweden,LYC,N/A
+VHV,Russian Federation,YKS,N/A
+VIE,Vienna,FRA,[ACH; INN; KLU; SOF]
+VIF,Italy,TQR,N/A
+VIG,Venezuela,CCS,N/A
+VII,Vietnam,SGN,N/A
+VIJ,Spanish Town,STT,N/A
+VIL,Morocco,CMN,N/A
+VIT,Spain,BGY,N/A
+VIX,Vitoria Brazil,GRU,N/A
+VKG,Vietnam,SGN,N/A
+VKO,Moscow,LED,[BHK; CSY; DYR; DYU; ESL; GRV; HMA; IGT; JOK; KEJ; KGP; KLV; KRO; KVD; KVX; LLK; LRM; LWN; MCX; NAL; NOJ; OGZ; PES; PKV; SGC; SKD; TBW; UCT; ULV; URS; USK; YKS]
+VLC,Spain,PMI,N/A
+VLD,United States,ATL,N/A
+VLI,Port-Vila,SON,[CCV; EAE; LNB; LNE; NUS; SON; TAH; TGH; VLS]
+VLL,Spain,BCN,N/A
+VLN,Valencia,PTY,N/A
+VLS,Vanuatu,VLI,N/A
+VLY,Valley United Kingdom,CWL,N/A
+VNO,Lithuania,RIX,N/A
+VNS,India,DEL,[GAY; HJR]
+VNX,Mozambique,JNB,N/A
+VOG,Volgograd Russian Federation,SVO,N/A
+VOL,Volos Greece,MUC,N/A
+VOZ,Voronezh Russian Federation,DME,N/A
+VPE,Angola,LAD,N/A
+VPG,Kenya,WIL,N/A
+VPN,Iceland,THO,N/A
+VPS,Valparaiso United States,ATL,[BLV]
+VPY,Mozambique,MPM,N/A
+VQS,Isla De Vieques,SJU,N/A
+VRA,Varadero,YYZ,[MZO]
+VRB,United States,EWR,N/A
+VRC,Philippines,MNL,N/A
+VRL,Portugal,BGC,[BGC]
+VRN,Italy,FCO,N/A
+VRY,Norway,BOO,N/A
+VSA,Villahermosa Mexico,MEX,N/A
+VSE,Portugal,CAT,N/A
+VST,Sweden,STN,N/A
+VTE,Vientiane,BKK,[LPQ; LXG; NEU; ODY; PCQ; PKZ; XKH; ZVK]
+VTZ,India,HYD,N/A
+VUP,Valledupar Colombia,BOG,N/A
+VUU,Blantyre Malawi,CMK,N/A
+VVC,Villavicencio Colombia,BOG,N/A
+VVI,Bolivia,LPB,[CBB; LPB; SRE]
+VVO,Vladivostok Russian Federation,ICN,[DHG; DLR; KVR; PKC; RZH; TLY]
+VVZ,Algeria,DJG,N/A
+VXC,Mozambique,APL,N/A
+VXE,Mindelo,RAI,N/A
+VXO,Vaxjo Sweden,BMA,N/A
+VYI,Russian Federation,YKS,N/A
+WAA,United States,OME,[TNC]
+WAE,Riyadh Province Saudi Arabia,RUH,N/A
+WAG,New Zealand,AKL,N/A
+WAM,Madagascar,TMM,N/A
+WAW,Warsaw,PRG,[BZG; GDN; IEG; KRK; LUZ; LWO; POZ; RZE; SZZ; WRO]
+WBB,United States,UNK,[SMK]
+WBM,Papua New Guinea,HGU,N/A
+WDH,Namibia,JNB,N/A
+WDS,China,WUH,N/A
+WEF,China,SHE,N/A
+WEH,China,ICN,N/A
+WEI,Australia,CNS,N/A
+WGA,Australia,SYD,N/A
+WGE,Australia,LHG,[LHG]
+WGN,Shaoyang China,CGO,N/A
+WGP,Waingapu Indonesia,KOE,N/A
+WHD,United States,KTN,N/A
+WHK,New Zealand,AKL,N/A
+WIC,United Kingdom,ABZ,N/A
+WIL,Kenya,MRE,[ANA; ASV; KTL; LAU; NYK; VPG]
+WIN,Australia,LRE,N/A
+WJA,Marshall Islands,KWA,N/A
+WJR,Kenya,NBO,N/A
+WJU,South Korea,CJU,N/A
+WKJ,Japan,CTS,N/A
+WLE,Australia,BNE,N/A
+WLG,New Zealand,AKL,[AKL; BHE; CHT; HLZ; NSN; PCN; TIU; TUO; WSZ]
+WLH,Vanuatu,SON,N/A
+WLK,United States,OTZ,[OTZ]
+WLS,Mala'e,FUT,[FUT]
+WME,Mount Keith Mine Australia,PER,N/A
+WMI,Warsaw Poland,STN,N/A
+WMN,Madagascar,SVB,N/A
+WMO,Airport (WMO) is a smaller airport in United States,OME,[GLV]
+WMT,Zunyi China,KWE,N/A
+WMX,Indonesia,DJJ,[DJJ]
+WNA,United States,PKA,N/A
+WNH,China,KMG,N/A
+WNN,Wunnumin Lake Canada,KIF,N/A
+WNP,Philippines,MNL,N/A
+WNR,Windorah Australia,BVI,N/A
+WNZ,China,CAN,N/A
+WOL,Wollongong Australia,MEB,N/A
+WPR,Porvenir Chile,PUQ,N/A
+WPU,Puerto Williams Chile,PUQ,N/A
+WRE,New Zealand,AKL,N/A
+WRG,United States,KTN,N/A
+WRO,Wroclaw,WAW,N/A
+WRZ,Sri Lanka,KCT,N/A
+WSP,Nicaragua,MGA,N/A
+WSZ,New Zealand,WLG,N/A
+WTB,Australia,SYD,N/A
+WTE,Marshall Islands,MAJ,N/A
+WTK,United States,OTZ,N/A
+WTL,United States,BET,[EEK]
+WTO,Marshall Islands,UJE,N/A
+WUA,China,HET,N/A
+WUH,Wuhan China,PEK,[ENH; HPG; WDS]
+WUN,Australia,MKR,N/A
+WUS,China,XMN,N/A
+WUT,Xinzhou China,TSN,N/A
+WUU,Sudan,JUB,N/A
+WUX,China,SZX,N/A
+WUZ,Wuzhou China,CSX,N/A
+WVB,Namibia,CPT,N/A
+WWK,Papua New Guinea,VAI,[VAI]
+WWP,United States,NKI,[KCC]
+WWT,United States,BET,N/A
+WXN,China,KWE,N/A
+WYA,Australia,ADL,N/A
+WYS,West Yellowstone United States,SLC,N/A
+XAI,gang Airport (XAI) is an airport in China,FUO,N/A
+XAP,Brazil,GRU,N/A
+XBE,Canada,YXL,[MSA]
+XBJ,Iran,THR,N/A
+XCH,Christmas Island,PER,[CCK]
+XCR,Chalons-en-Champagne France,MAD,N/A
+XFN,China,SHE,N/A
+XGR,Canada,YVP,[YVP]
+XIC,Xichang China,CTU,N/A
+XIL,China,HET,N/A
+XIY,Xi'an China,PEK,[BHY; ENY; HJJ; HMI; INC; RKZ; THQ; TLQ; TSN; UYN; XNN]
+XKH,Laos,VTE,N/A
+XKS,Canada,YXL,[YAX]
+XMH,Paeva French Polynesia,PPT,[AHE]
+XMN,Xiamen China,SHA,[WUS]
+XMY,Australia,HID,[SBR]
+XNA,Bentonville United States,ORD,N/A
+XNH,Nasiriyah Iraq,IKA,N/A
+XNN,China,XIY,[GMQ; HBQ; YUS]
+XQP,Costa Rica,SJO,N/A
+XRY,Spain,MAD,N/A
+XSC,Turks and Caicos Islands,PLS,N/A
+XSP,Singapore,SZB,N/A
+XTG,Australia,CMA,[CMA]
+XUZ,Airport (XUZ) is a smaller airport in China,KWE,N/A
+XWA,International Airport (XWA) is an airport in United States,DEN,N/A
+YAA,Canada,YVR,N/A
+YAB,Canada,YRB,[YRB]
+YAG,Canada,YQK,[YHD; YQK]
+YAK,United States,CDV,N/A
+YAM,Sault Sainte Marie Canada,YYZ,N/A
+YAP,Micronesia,GUM,N/A
+YAT,Canada,ZKE,[YPO; ZKE]
+YAX,Wapekeka Canada,XKS,N/A
+YAY,Saint Anthony Canada,YBX,N/A
+YAZ,Canada,YVR,N/A
+YBB,Pelly Bay Canada,YYH,N/A
+YBC,Baie-Comeau Canada,YUL,[YYY]
+YBE,Canada,YSF,N/A
+YBG,Canada,YUL,N/A
+YBK,Canada,YRT,N/A
+YBL,Canada,YVR,N/A
+YBP,China,KMG,N/A
+YBR,Canada,YYC,N/A
+YBX,Blanc-Sablon Canada,YIF,[YAY; YIF]
+YCB,Canada,YHK,[YHK]
+YCD,Canada,YVR,N/A
+YCG,Canada,YVR,N/A
+YCL,River Charlo Canada,YWK,N/A
+YCO,Coppermine Canada,YZF,[YHI]
+YCS,Canada,YRT,N/A
+YCU,Yuncheng China,HGH,N/A
+YCY,Canada,YFB,N/A
+YDA,Canada,YXY,N/A
+YDF,Canada,YYT,[YJT; YYR]
+YDP,Canada,YYR,[YNP]
+YDQ,Canada,YXJ,N/A
+YEG,Canada,YYC,[YOJ; YZF]
+YEI,Turkey,ESB,N/A
+YEK,Eskimo Point Canada,YRT,[YRT]
+YER,Canada,YTL,N/A
+YES,Iran,THR,N/A
+YEV,Canada,LAK,[LAK; YOC; YPC]
+YFA,Canada,ZKE,[YMO]
+YFB,Canada,YOW,[YCY; YGT; YIO; YTE; YXP]
+YFC,Canada,YHZ,N/A
+YFH,Canada,YXL,[YWP]
+YFJ,Canada,YZF,[YRA]
+YFO,Canada,YQD,N/A
+YFS,Canada,YZF,N/A
+YGH,Canada,YVQ,N/A
+YGJ,Japan,HND,N/A
+YGK,Canada,YYZ,N/A
+YGL,Radisson Canada,YGW,N/A
+YGP,Canada,YGR,[YGR]
+YGR,Magdalen Islands Canada,YGP,[YGP]
+YGT,Canada,YFB,[YUX]
+YGV,Havre-Saint-Pierre Canada,YPN,[YPN]
+YGW,Canada,YUL,[YGL; YKU]
+YGX,Canada,YWG,[YYQ]
+YGZ,Canada,YRB,N/A
+YHD,Canada,YAG,N/A
+YHI,Holman Island Canada,YCO,[YSY]
+YHK,Canada,YCB,[YCB; YYH]
+YHM,Canada,YXX,N/A
+YHO,Canada,YNP,[YSO]
+YHP,Canada,YRL,N/A
+YHR,Canada,ZGS,[ZGS]
+YHU,Montreal Canada,YQB,N/A
+YHY,Canada,YZF,N/A
+YHZ,Canada,YYZ,[FSP; YFC; YQY; YSJ; YYG; YYT]
+YIA,Indonesia,CGK,N/A
+YIC,yueshan Airport (YIC) is a smaller airport in China,PEK,N/A
+YIE,China,HLD,N/A
+YIF,Saint-Augustin Canada,YBX,[YBX]
+YIH,China,KMG,N/A
+YIK,Canada,AKV,[AKV; YZG]
+YIN,China,URC,N/A
+YIO,Canada,YFB,N/A
+YIW,China,CAN,N/A
+YJT,Canada,YDF,N/A
+YKA,Canada,YVR,N/A
+YKF,Canada,YYC,N/A
+YKG,Canada,YVP,[YPJ; YQC]
+YKH,China,HRB,N/A
+YKL,Canada,YZV,N/A
+YKM,l McAllister Field (YKM) is a smaller airport in United States,SEA,N/A
+YKO,Eyyubi Airport (YKO) is a smaller airport in Turkey,IST,N/A
+YKQ,Canada,YVO,[YNS]
+YKS,Russian Federation,VKO,[BGN; BQJ; CKH; CYX; DPT; IKS; MQJ; NYR; OLZ; ONK; PWE; SEK; SUK; SUY; SYS; UKG; ULK; USR; VHV; VYI; ZIX; ZKP]
+YKU,Canada,YGW,[YNC]
+YLE,Whati Canada,YZF,N/A
+YLH,Canada,SUR,N/A
+YLL,Canada,YYC,N/A
+YLW,Canada,YVR,N/A
+YMA,Canada,YXY,N/A
+YMM,Canada,YYC,[YPY]
+YMN,Canada,YSO,[YRG]
+YMO,Canada,YFA,N/A
+YMT,Chibougamau Canada,YUL,N/A
+YNA,Canada,YZV,[ZKG]
+YNB,Saudi Arabia,CAI,N/A
+YNC,Canada,YKU,[ZEM]
+YND,Canada,YQB,N/A
+YNJ,China,ICN,N/A
+YNL, (YNL) is a smaller airport in Canada,YVC,[ZWL]
+YNO,Canada,YXL,[YVZ]
+YNP,Canada,YDP,[YHO]
+YNS,Canada,YKQ,N/A
+YNT,Yantai China,SHA,[NBS]
+YNY,Republic of Korea,CJU,N/A
+YNZ,China,SZX,N/A
+YOC,Canada,YEV,N/A
+YOJ,Canada,YEG,N/A
+YOL,Nigeria,ABV,N/A
+YON,Trashigang,PBH,N/A
+YOW,Canada,YYZ,[YFB]
+YPA,Canada,YXE,[YVC; ZFD]
+YPC,Canada,YEV,N/A
+YPH,Canada,YPX,[YPX; YUD]
+YPJ,Canada,YKG,[YTQ]
+YPL,Canada,SUR,N/A
+YPM,Canada,ZSJ,N/A
+YPN,Port-Menier Canada,YGV,[YGV]
+YPO,Canada,YAT,N/A
+YPR,Canada,YVR,N/A
+YPW,Canada,YVR,N/A
+YPX,Canada,YPH,[YPH]
+YPY,Canada,YMM,N/A
+YQB,Canada,YUL,[YHU; YND; YZV]
+YQC,Canada,YKG,[YWB]
+YQD,Canada,YWG,[YFO]
+YQG,Canada,YYZ,N/A
+YQK,Canada,YAG,[YAG]
+YQL,Canada,YYC,N/A
+YQM,Canada,YYZ,N/A
+YQQ,Canada,YVR,N/A
+YQR,Canada,YYC,N/A
+YQT,Canada,YXL,[YXL]
+YQU,Canada,YYC,N/A
+YQX,Canada,YYT,N/A
+YQY,Canada,YHZ,N/A
+YQZ,Canada,YVR,N/A
+YRA,Gameti Canada,YFJ,N/A
+YRB,Canada,YAB,[YAB; YGZ]
+YRG,Canada,YMN,N/A
+YRL,Canada,YXL,[YHP]
+YRT,Canada,YEK,[YBK; YCS; YEK; YUT; YXN; YZS]
+YSB,Canada,YYZ,N/A
+YSF,Canada,ZFD,[YBE]
+YSG,Canada,YZF,N/A
+YSJ,Canada,YHZ,N/A
+YSK,Canada,YWG,N/A
+YSM,Canada,YZF,N/A
+YSO,Canada,YHO,[YMN]
+YSQ,Songyuan China,CHG,N/A
+YSY,Canada,YHI,N/A
+YTE,Canada,YFB,N/A
+YTH,Canada,YWG,N/A
+YTL,Kitchenuhmaykoosib Inninuwug Canada,YXL,[YER]
+YTM,Canada,YYZ,N/A
+YTQ,Tasiujaq Canada,YPJ,N/A
+YTS,Canada,YYZ,N/A
+YTY,China,CKG,N/A
+YTZ,Toronto Canada,YUL,N/A
+YUD,Umiujaq Canada,YPH,N/A
+YUL,Montreal,YYZ,[AZS; HOG; YBC; YBG; YGW; YMT; YQB; YTZ; YUY; YVO; YYZ; ZBF]
+YUM,United States,PHX,N/A
+YUS,China,XNN,N/A
+YUT,Canada,YRT,N/A
+YUX,Canada,YGT,N/A
+YUY,Canada,YUL,N/A
+YVC,Canada,YPA,[YNL]
+YVM,Broughton Island Canada,YXP,N/A
+YVO,Val-D'Or Canada,YUL,[YKQ]
+YVP,Canada,XGR,[XGR; YKG]
+YVQ,Canada,YZF,[YGH; ZFN]
+YVR,Canada,YYC,[QBC; YAA; YAZ; YBL; YCD; YCG; YKA; YLW; YPR; YPW; YQQ; YQZ; YWL; YXC; YXJ; YXS; YXT; YXY; YYC; YYD; YYF; YYJ; YZP; YZT; YZZ; ZMT]
+YVZ,Canada,YNO,N/A
+YWB,Canada,YQC,N/A
+YWG,Canada,YYZ,[YGX; YQD; YSK; YTH]
+YWH,Canada,CXH,[CXH]
+YWJ,Canada,ZFN,N/A
+YWK,Canada,YZV,[YCL]
+YWL,Canada,YVR,N/A
+YWP,Canada,YFH,N/A
+YXC,Canada,YVR,N/A
+YXE,Canada,YYC,[YPA]
+YXH,Canada,YYC,N/A
+YXJ,Fort Saint John Canada,YVR,[YDQ]
+YXL,Canada,YQT,[KIF; SUR; XBE; XKS; YFH; YNO; YQT; YRL; YTL; ZRJ; ZSJ]
+YXN,Canada,YRT,N/A
+YXP,Canada,YFB,[YVM]
+YXS,Canada,YVR,[YYE]
+YXT,Canada,YVR,N/A
+YXU,Canada,YYZ,N/A
+YXX,Canada,YYC,[YHM]
+YXY,Canada,YVR,[YDA; YMA]
+YYA,Yueyang China,HSN,N/A
+YYB,Canada,YYZ,N/A
+YYC,Canada,YVR,[YBR; YEG; YKF; YLL; YMM; YQL; YQR; YQU; YVR; YXE; YXH; YXX]
+YYD,Canada,YVR,N/A
+YYE,Canada,YXS,N/A
+YYF,Canada,YVR,N/A
+YYG,Canada,YHZ,N/A
+YYH,Spence Bay Canada,YHK,[YBB]
+YYJ,Canada,YVR,N/A
+YYQ,Canada,YGX,N/A
+YYR,Canada,YDF,[YDP; ZUM]
+YYT,Saint John's Canada,YHZ,[YDF; YQX]
+YYY,Mont-Joli Canada,YBC,N/A
+YYZ,Toronto,YUL,[CCC; POP; SNU; VRA; YAM; YGK; YHZ; YOW; YQG; YQM; YSB; YTM; YTS; YUL; YWG; YXU; YYB; YZR]
+YZF,Canada,YEG,[YCO; YFJ; YFS; YHY; YLE; YSG; YSM; YVQ]
+YZG,Canada,YIK,N/A
+YZP,Canada,YVR,N/A
+YZR,Sarnia Canada,YYZ,N/A
+YZS,Coral Harbour Canada,YRT,N/A
+YZT,Canada,YVR,[ZEL]
+YZV,Sept-Iles Canada,YQB,[YKL; YNA; YWK]
+YZY,China,LHW,N/A
+YZZ,Canada,YVR,N/A
+ZAD,Croatia,PUY,[PUY]
+ZAG,Croatia,FRA,[DBV; OMO; OSI; SPU]
+ZAH,Iran,THR,[ZBR]
+ZAJ,Afghanistan,KBL,N/A
+ZAL,Valdivia Chile,SCL,N/A
+ZAM,Philippines,MNL,[TWT]
+ZAT,China,KMG,N/A
+ZAZ,Spain,PMI,N/A
+ZBF,Canada,YUL,N/A
+ZBL,Australia,BNE,N/A
+ZBR,Iran,ZAH,N/A
+ZCL,Zacatecas Mexico,MEX,N/A
+ZCO,Temuco Chile,SCL,N/A
+ZDY,United Arab Emirates,AUH,N/A
+ZEL,Canada,YZT,N/A
+ZEM,Eastmain Canada,YNC,N/A
+ZFD,Canada,YPA,[YSF]
+ZFN,Canada,YVQ,[YWJ]
+ZGS,Canada,YHR,[YHR]
+ZGU,Vanuatu,SON,N/A
+ZHA,China,PVG,N/A
+ZHY,China,PEK,N/A
+ZIA,Russian Federation,LBD,[LBD]
+ZIG,Senegal,DSS,[DSS]
+ZIH,Mexico,MEX,N/A
+ZIS,Libya,BEN,N/A
+ZIX,Russian Federation,YKS,N/A
+ZKE,Kashechewan Canada,YAT,[YAT; YFA]
+ZKG,Canada,YNA,N/A
+ZKP,Russian Federation,YKS,N/A
+ZLO,Manzanillo Mexico,MEX,N/A
+ZLT,Canada,ZTB,[ZTB]
+ZMT,Canada,YVR,N/A
+ZNA,Canada,CXH,N/A
+ZND,Niger,MFQ,[AJY]
+ZNE,Australia,PER,N/A
+ZNZ,Tanzania United Republic of,DAR,[DAR; PMA; TGT]
+ZOS,Osorno Chile,SCL,N/A
+ZPB,Canada,ZRJ,N/A
+ZQN,New Zealand,AKL,N/A
+ZQZ,yuan Airport (ZQZ) is a smaller airport in China,SJW,N/A
+ZRH,Switzerland,LHR,[PRN]
+ZRI,tion from here is <a href="/DJJ">DJJ</a> with Trigana Air where you can fly 7 days a week,DJJ,N/A
+ZRJ,Canada,YXL,[ZPB]
+ZSA,Cockburn Town Bahamas,NAS,N/A
+ZSE, The one and only destination from here is <a href="/MRU">MRU</a> with 2 airlines where you can fly 7 days a week,MRU,N/A
+ZSJ,Canada,YXL,[KEW; YPM]
+ZTB,Tete-a-la-Baleine Canada,ZLT,[ZLT]
+ZTH,Zakynthos Greece,ATH,N/A
+ZUH,China,PEK,N/A
+ZUM,Canada,YYR,N/A
+ZVK,Laos,VTE,N/A
+ZWL,Canada,YNL,N/A
+ZYI,hou Airport (ZYI) is a smaller airport in China,SZX,N/A
+ZYL,Bangladesh,DAC,N/A
+ZZU,Malawi,LLW,[LIX]

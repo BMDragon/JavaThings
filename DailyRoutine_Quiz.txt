@@ -1,0 +1,217 @@
+Name:                       Date:
+
+1. What is "他早上八点上学"?
+a. He goes to school at 8:00am.
+b. to eat breakfast
+c. We eat lunch at 12:00pm.
+d. to go to work
+
+2. What is "我哥哥晚上十一点半睡觉"?
+a. What time do you eat breakfast in the morning?
+b. My older brother goes to bed at 11:30pm.
+c. to eat lunch
+d. I get up at 7:00am.
+
+3. What is "洗澡"?
+a. to do homework
+b. What time do you eat breakfast in the morning?
+c. to go to school
+d. to take a shower
+
+4. What is "我们中午十二点吃午饭"?
+a. We eat lunch at 12:00pm.
+b. to eat lunch
+c. What time do you eat breakfast in the morning?
+d. They finish classes at 3:15pm.
+
+5. What is "洗脸"?
+a. to wash face
+b. My older brother goes to bed at 11:30pm.
+c. He goes to school at 8:00am.
+d. to take a shower
+
+6. What is "放学"?
+a. to finish classes
+b. My older brother goes to bed at 11:30pm.
+c. to eat dinner
+d. We eat lunch at 12:00pm.
+
+7. What is "吃晚饭"?
+a. to eat dinner
+b. I get up at 7:00am.
+c. to do homework
+d. to take a shower
+
+8. What is "做功课"?
+a. They finish classes at 3:15pm.
+b. to eat lunch
+c. to do homework
+d. to wash face
+
+9. What is "上班"?
+a. to sleep/ to go to bed
+b. ﻿to get up
+c. to go to work
+d. to eat lunch
+
+10. What is "﻿to get up"?
+a. 你早上几点吃早饭
+b. 我们中午十二点吃午饭
+c. 刷牙
+d. 起床
+
+11. What is "He goes to school at 8:00am."?
+a. 做功课
+b. 他早上八点上学
+c. 我哥哥晚上十一点半睡觉
+d. 吃晚饭
+
+12. What is "to do homework"?
+a. 做功课
+b. 起床
+c. 吃早饭
+d. 我哥哥晚上十一点半睡觉
+
+13. What is "My older brother goes to bed at 11:30pm."?
+a. 上学
+b. 我哥哥晚上十一点半睡觉
+c. 洗脸
+d. 我早上七点起床
+
+14. What is "to go to work"?
+a. 放学
+b. 上班
+c. 起床
+d. 我早上七点起床
+
+15. What is "to eat lunch"?
+a. 放学
+b. 起床
+c. 吃午饭
+d. 洗澡
+
+16. What is "to take a shower"?
+a. 吃晚饭
+b. 洗澡
+c. 你早上几点吃早饭
+d. 上学
+
+17. What is "My little sister takes a shower at 9:00pm."?
+a. 他早上八点上学
+b. 我妹妹晚上九点洗澡
+c. 上学
+d. 你早上几点吃早饭
+
+18. What is "to wash face"?
+a. 我哥哥晚上十一点半睡觉
+b. 洗脸
+c. 他早上八点上学
+d. 我妹妹晚上九点洗澡
+
+19. What is "放学"?
+a. shuā yá
+b. wǒ gē ge wǎn shàng shí yī diǎn bàn shuì jiào.
+c. fàng xué
+d. xǐ liǎn
+
+20. What is "上班"?
+a. shàng bān
+b. chī wǎn fàn
+c. nǐ zǎo shàng jǐ diǎn chī zǎo fàn?
+d. qǐ chuáng
+
+21. What is "洗脸"?
+a. shuā yá
+b. xǐ liǎn
+c. xǐ zǎo
+d. chī wǔ fàn
+
+22. What is "洗澡"?
+a. xǐ zǎo
+b. wǒ mèi mei wǎn shàng jiǔ diǎn xǐ zǎo.
+c. wǒ men zhōng wǔ shí èr diǎn chī wǔ fàn.
+d. fàng xué
+
+23. What is "刷牙"?
+a. shàng bān
+b. xǐ zǎo
+c. shuā yá
+d. chī wǎn fàn
+
+24. What is "你早上几点吃早饭"?
+a. nǐ zǎo shàng jǐ diǎn chī zǎo fàn?
+b. zuò gōng kè
+c. chī zǎo fàn
+d. wǒ mèi mei wǎn shàng jiǔ diǎn xǐ zǎo.
+
+25. What is "睡觉"?
+a. nǐ zǎo shàng jǐ diǎn chī zǎo fàn?
+b. shàng bān
+c. shuì jiào
+d. qǐ chuáng
+
+26. What is "他们下午三点十五分放学"?
+a. wǒ gē ge wǎn shàng shí yī diǎn bàn shuì jiào.
+b. qǐ chuáng
+c. tā men xià wǔ sān diǎn shí wǔ fēn fàng xué.
+d. tā zǎo shàng bā diǎn shàng xué.
+
+27. What is "我哥哥晚上十一点半睡觉"?
+a. xǐ zǎo
+b. chī wǎn fàn
+c. shàng bān
+d. wǒ gē ge wǎn shàng shí yī diǎn bàn shuì jiào.
+
+28. What is "xǐ liǎn"?
+a. 你早上几点吃早饭
+b. 洗脸
+c. 起床
+d. 我们中午十二点吃午饭
+
+29. What is "chī wǔ fàn"?
+a. 吃午饭
+b. 吃早饭
+c. 做功课
+d. 放学
+
+30. What is "wǒ zǎo shàng qī diǎn qǐ chuáng."?
+a. 放学
+b. 刷牙
+c. 我早上七点起床
+d. 我们中午十二点吃午饭
+
+31. What is "shàng bān"?
+a. 我哥哥晚上十一点半睡觉
+b. 刷牙
+c. 我早上七点起床
+d. 上班
+
+32. What is "fàng xué"?
+a. 睡觉
+b. 放学
+c. 洗澡
+d. 我早上七点起床
+
+33. What is "wǒ men zhōng wǔ shí èr diǎn chī wǔ fàn."?
+a. 我哥哥晚上十一点半睡觉
+b. 洗澡
+c. 上班
+d. 我们中午十二点吃午饭
+
+34. What is "chī zǎo fàn"?
+a. 吃午饭
+b. 我妹妹晚上九点洗澡
+c. 我们中午十二点吃午饭
+d. 吃早饭
+
+35. What is "nǐ zǎo shàng jǐ diǎn chī zǎo fàn?"?
+a. 吃晚饭
+b. 做功课
+c. 我妹妹晚上九点洗澡
+d. 你早上几点吃早饭
+
+36. What is "tā zǎo shàng bā diǎn shàng xué."?
+a. 放学
+b. 做功课
+c. 他早上八点上学
+d. 我们中午十二点吃午饭

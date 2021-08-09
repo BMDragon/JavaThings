@@ -1,0 +1,121 @@
+Name:                       Date:
+
+1. What is 蓝色?
+a. blue
+b. white
+c. ﻿red
+d. purple
+
+2. What is 灰色?
+a. green
+b. black
+c. grey
+d. brown
+
+3. What is 紫色?
+a. purple
+b. blue
+c. yellow
+d. pink
+
+4. What is 橙色?
+a. grey
+b. orange
+c. green
+d. ﻿red
+
+5. What is 红色?
+a. pink
+b. grey
+c. ﻿red
+d. orange
+
+6. What is orange?
+a. 蓝色
+b. 紫色
+c. 棕色
+d. 橙色
+
+7. What is ﻿red?
+a. 绿色
+b. 粉红色
+c. 蓝色
+d. 红色
+
+8. What is blue?
+a. 黑色
+b. 蓝色
+c. 橙色
+d. 粉红色
+
+9. What is black?
+a. 黑色
+b. 绿色
+c. 红色
+d. 灰色
+
+10. What is purple?
+a. 橙色
+b. 黄色
+c. 紫色
+d. 棕色
+
+11. What is 蓝色?
+a. huī sè
+b. fěn hóng sè
+c. lán sè
+d. hēi sè
+
+12. What is 红色?
+a. huáng sè
+b. fěn hóng sè
+c. hóng sè
+d. lán sè
+
+13. What is 橙色?
+a. chéng sè
+b. hēi sè
+c. fěn hóng sè
+d. lán sè
+
+14. What is 黑色?
+a. hēi sè
+b. chéng sè
+c. lǜ sè
+d. zǐ sè
+
+15. What is 粉红色?
+a. fěn hóng sè
+b. zǐ sè
+c. lán sè
+d. lǜ sè
+
+16. What is hēi sè?
+a. 灰色
+b. 粉红色
+c. 黑色
+d. 蓝色
+
+17. What is chéng sè?
+a. 橙色
+b. 粉红色
+c. 红色
+d. 紫色
+
+18. What is huáng sè?
+a. 红色
+b. 橙色
+c. 黄色
+d. 蓝色
+
+19. What is lán sè?
+a. 绿色
+b. 蓝色
+c. 白色
+d. 灰色
+
+20. What is lǜ sè?
+a. 棕色
+b. 灰色
+c. 绿色
+d. 粉红色

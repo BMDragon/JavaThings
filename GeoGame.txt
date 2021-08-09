@@ -1,0 +1,500 @@
+Abkhazia
+Abuja
+Acadia
+Accra
+Aconcagua
+Addis Ababa
+Agra
+Alabama
+Alameda
+Alaska
+Albania
+Alberta
+Alexandria
+Algeria
+American Samoa
+Andalusia
+Andorra
+Andorra la Vella
+Angola
+Anguilla
+Ankara
+Antarctica
+Antigua
+Apia
+Aqaba
+Arabia
+Argentina
+Arizona
+Armenia
+Aruba
+Asia
+Asmara
+Astoria
+Atlanta
+Augusta
+Aurora
+Australia
+Austria
+﻿Africa
+Arctic
+Cognac
+California
+Atlantic
+Canada
+Ahmedabad
+Dortmund
+Dalmatia
+Aland
+Dhaka
+Auckland
+Dodoma
+Abilene
+Edirne
+Elbe
+Erie
+Eugene
+Europe
+Evansville
+Elba
+Adelaide
+Equatorial Guinea
+Albuquerque
+Eritrea
+Alicante
+Estonia
+Alsace
+Ethiopia
+Anchorage
+Eureka
+Arunachal Pradesh
+Hartford
+Duluth
+Hamburg
+Guangdong
+Georgia
+Abu Dhabi
+India
+Akureyri
+Indiana
+Anhui
+Indonesia
+Arkhangelsk
+Kodiak
+Kursk
+Kenya
+Amstel
+Liverpool
+Lowell
+Louisiana
+Amsterdam
+Madrid
+Dominican Republic
+Colorado
+Ohio
+Okavango
+Ontario
+Orinoco
+Orlando
+Oslo
+Oswego
+Oaxaca
+Anaheim
+Marrakesh
+Haiti
+Iowa
+Antietam
+Munich
+Hanoi
+Iceland
+Delaware
+Edward
+Dusseldorf
+Flagstaff
+Finland
+Denali
+Ireland
+Dili
+Islamabad
+Djibouti
+Irvine
+Edinburgh
+Hawaii
+Innsbruck
+Kerala
+Aachen
+Nelson
+New Haven
+New London
+Northampton
+Nur-Sultan
+N'Djamena
+Aberdeen
+Nagoya
+Abidjan
+Naha
+Aden
+Nebraska
+Akron
+Nicaragua
+Allentown
+Nicosia
+Amazon
+Nigeria
+Amman
+North America
+Arlington
+North Carolina
+Aspen
+North Dakota
+Asuncion
+North Korea
+Aswan
+Nova Scotia
+Auburn
+Nuku'alofa
+Austin
+Nejd
+Dubai
+Irkutsk
+Korea
+Avignon
+New Ireland
+Denmark
+Kalahari
+Istanbul
+Long Island
+Donetsk
+Kiribati
+Ibadan
+New Zealand
+Dunkirk
+Khartoum
+Mississippi
+Incheon
+Newfoundland
+Duval
+Louisville
+Elizabeth
+Hebei
+Iran
+Ngerulmud
+Dar es Salaam
+Montreal
+Luxembourg
+Guinea
+Azerbaijan
+Nizhny Novgorod
+Durham
+Manhattan
+North Island
+Dagestan
+Northern Ireland
+Dalian
+Naperville
+eSwatini
+Idaho
+Odessa
+Ajaccio
+Oklahoma
+Aleppo
+Olympia
+Amarillo
+Omaha
+Antananarivo
+Oneida
+Antwerp
+Poland
+Darwin
+Nashville
+Erbil
+Luhansk
+Kazakhstan
+New Hampshire
+Easton
+Newcastle
+Edmonton
+Nice
+Essen
+Nile
+Evanston
+Nanjing
+Guyana
+Ann Arbor
+Rochester
+Ruhr
+Regina
+Aarhus
+Seneca Falls
+Seychelles
+Sioux Falls
+Solomon Islands
+St Johns
+St Louis
+Samoa
+Adirondacks
+Sardinia
+Algiers
+Saudi Arabia
+Alps
+Sofia
+Amazonas
+Somalia
+Andes
+South Africa
+Angel Falls
+South America
+Annapolis
+South Carolina
+Appalachians
+South Dakota
+Arkansas
+St Lucia
+Athens
+Syria
+Albert
+Tashkent
+Tunisia
+Amagansett
+Thailand
+Dublin
+Nantong
+Guangxi
+Islip
+Philippines
+Springfield
+Durban
+Nuremberg
+Guayaquil
+Lebanon
+Nagorno-Karabakh
+Harlem
+Michigan
+Nagasaki
+Iraq
+Qatar
+Riga
+Amherst
+Trinidad
+Dem. Rep. Congo
+Osaka
+Ashgabat
+Tennessee
+El Paso
+Ottawa
+Azov
+Vietnam
+Morgantown
+Nairobi
+Illinois
+Staten Island
+Denpasar
+Romania
+Apex
+Xi'an
+New Delhi
+Indus
+Switzerland
+Denver
+Russia
+Albany
+Ybor City
+Yakima
+Almaty
+Yokohama
+Australian Capital Territory
+Yaounde
+East Timor
+Rwanda
+Austerlitz
+Zagreb
+Banff
+Fez
+Zimbabwe
+Ecuador
+Rhode Island
+Dover
+Richmond
+Damascus
+Shandong
+Georgetown
+New York
+Kyrgyzstan
+Newark
+Kosovo
+Oakland
+Dardanelles
+Shenyang
+Guilin
+Norfolk
+Kyoto
+Oranjestad
+Davis
+Strasbourg
+Guangzhou
+Uluru
+Utah
+Hainan
+Novosibirsk
+Kuala Lumpur
+Recife
+El Salvador
+Rome
+Exeter
+Redding
+Guinea-Bissau
+Uttar Pradesh
+Honduras
+Sendai
+Inverness
+Shanghai
+Iqaluit
+Tahiti
+Ivory Coast
+Taiwan
+Nuuk
+Kansas
+Sahel
+Lisbon
+Natal
+Logan
+Nepal
+London
+Nottingham
+Manchester
+Raleigh
+Hobart
+Tajikistan
+New Mexico
+Oxford
+Detroit
+Tianjin
+Nagpur
+Riyadh
+Ho Chi Minh City
+Yellowknife
+Everglades
+Senegal
+Luxor
+Reykjavik
+Kuwait
+Tabasco
+Orange
+Egypt
+Tobago
+Oshkosh
+Hungary
+Yellowstone
+Everest
+Togo
+Omsk
+Kharkiv
+Vancouver
+Rotterdam
+Manassas
+St Paul
+Lagos
+Salem
+Minneapolis
+Stockholm
+Montserrat
+Tokyo
+Overland Park
+Kiev
+Vanuatu
+Urumqi
+Irrawaddy
+Yosemite
+Essex
+Xiamen
+Niger
+Rubicon
+Nantes
+San Juan
+Naples
+Saskatoon
+Netherlands
+Smithtown
+Nevis
+South Sudan
+New Orleans
+Sudan
+New South Wales
+Sweden
+Newport News
+Sacramento
+Oberlin
+North Las Vegas
+San Antonio
+Oman
+Newport
+Tangier
+Rio de Janeiro
+Oregon
+Nouakchott
+Thar
+Rhodes
+San Diego
+Orleans
+San Francisco
+Ouagadougou
+Ulm
+Mandalay
+Yekaterinburg
+Germany
+Yakutsk
+Krakow
+Warsaw
+Wroclaw
+Wyoming
+Guatemala City
+York
+Kentucky
+Yaroslavl
+La Paz
+Zhengzhou
+United Kingdom
+Montgomery
+Yaren
+Nunavut
+Tiber
+Rockies
+Sapporo
+Oulu
+Ulaanbaatar
+Rabat
+Texas
+Surat
+Tunis
+Suzhou
+Ulster
+Rajkot
+Tamil Nadu
+United Arab Emirates
+Salt Lake City
+Yemen
+Nassau
+United States
+Sicily
+Yerevan
+Nauru
+Utrecht
+Tuvalu
+Uruguay
+Yorktown
+Negev
+Vatican City
+Youngstown
+Naypyidaw
+Washington
+New Jersey
+Yukon
+New York City
+Yunnan
+Norway
+Yamoussuokro
+Oklahoma City
+Yonkers
+Sydney
+Yellow
+Wichita
