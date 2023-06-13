@@ -24,6 +24,7 @@ public class ChineseQuiz{
         readCSV("C:\\Users\\bmwei\\IdeaProjects\\Stuff\\" + name + ".csv");
         for(Vocab v: list){ System.out.println(v.toString()); }
         write();
+        scnr.close();
     }
     public static void readCSV(String directory){
         BufferedReader br;

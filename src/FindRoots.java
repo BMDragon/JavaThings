@@ -16,7 +16,6 @@ public class FindRoots {
 
     public static ArrayList<String> splitTerms(String f){
         ArrayList<String> list = new ArrayList<>();
-        String temp;
         while(f.contains(" ")){
             list.add(f.substring(0,f.indexOf(" ")));
             f = f.substring(f.indexOf(" ")+1);
